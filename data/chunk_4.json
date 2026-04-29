@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1399,
+    "l1": "Asset Mgmt",
+    "l2": "Fund Accounting",
+    "l3": "Expense Accrual",
+    "desc": "Managing the daily algorithmic calculation and deduction of management fees and operational costs from fund assets."
+  },
+  {
+    "id": 1400,
+    "l1": "Asset Mgmt",
+    "l2": "Custody & Settlement",
+    "l3": "Settlement Execution",
+    "desc": "Orchestrating the final, irrevocable exchange of cash and securities via global clearinghouses."
+  },
+  {
+    "id": 1401,
+    "l1": "Asset Mgmt",
+    "l2": "Custody & Settlement",
+    "l3": "Corporate Actions Processing",
+    "desc": "Managing the complex financial impact of dividends, stock splits, spin-offs, and mergers on portfolio holdings."
+  },
+  {
+    "id": 1402,
+    "l1": "Asset Mgmt",
+    "l2": "Custody & Settlement",
+    "l3": "Vault & Asset Safekeeping",
+    "desc": "Managing the secure, digital custody of traditional securities and increasingly, emerging crypto and digital assets.45"
+  },
+  {
+    "id": 1403,
+    "l1": "Asset Mgmt",
+    "l2": "Client Reporting",
+    "l3": "Statement Generation",
+    "desc": "Producing secure, periodic financial statements detailing accurate holdings, performance data, and fees deducted."
+  },
+  {
+    "id": 1404,
+    "l1": "Asset Mgmt",
+    "l2": "Client Reporting",
+    "l3": "Tax Reporting",
+    "desc": "Generating necessary capital gains (1099s) and income tax documentation for clients and regulatory bodies."
+  },
+  {
+    "id": 1405,
+    "l1": "Corporate",
+    "l2": "Talent Acquisition",
+    "l3": "Workforce Planning",
+    "desc": "Forecasting long-term staffing needs based on strategic enterprise goals, market expansion, and actuarial demands.49"
+  },
+  {
+    "id": 1406,
+    "l1": "Corporate",
+    "l2": "Talent Acquisition",
+    "l3": "Candidate Sourcing & Recruiting",
+    "desc": "Managing the pipeline of external applicants, executing structured interviews, and extending formal employment offers.50"
+  },
+  {
+    "id": 1407,
+    "l1": "Corporate",
+    "l2": "Employee Lifecycle",
+    "l3": "Employee Onboarding",
+    "desc": "Provisioning IT assets securely, executing background checks, and orienting new hires to corporate culture.49"
+  },
+  {
+    "id": 1408,
+    "l1": "Corporate",
+    "l2": "Employee Lifecycle",
+    "l3": "Payroll Administration",
+    "desc": "Processing employee compensation accurately, calculating complex tax withholdings, and managing direct deposits.51"
+  },
+  {
+    "id": 1409,
+    "l1": "Corporate",
+    "l2": "Employee Lifecycle",
+    "l3": "Compensation & Benefits",
+    "desc": "Designing and administering competitive health plans, 401(k) matching, and executive performance bonuses.49"
+  },
+  {
+    "id": 1410,
+    "l1": "Corporate",
+    "l2": "Performance Mgmt",
+    "l3": "Training & Development",
+    "desc": "Managing continuous corporate education, mandatory licensing for agents, and leadership development tracks."
+  },
+  {
+    "id": 1411,
+    "l1": "Corporate",
+    "l2": "Performance Mgmt",
+    "l3": "Goal & Evaluation Management",
+    "desc": "Executing cyclical performance reviews systematically and tying them directly to compensation matrices."
+  },
+  {
+    "id": 1412,
+    "l1": "Corporate",
+    "l2": "Performance Mgmt",
+    "l3": "Workforce Analytics & Planning",
+    "desc": "Using predictive models to analyze employee turnover, skill gaps, and optimize organizational design."
+  },
+  {
+    "id": 1413,
+    "l1": "Corporate",
+    "l2": "Financial Accounting",
+    "l3": "Accounts Payable (AP)",
+    "desc": "Managing the rigorous approval and outflow of cash to external vendors, software suppliers, and operational partners.49"
+  },
+  {
+    "id": 1414,
+    "l1": "Corporate",
+    "l2": "Financial Accounting",
+    "l3": "Accounts Receivable (AR)",
+    "desc": "Processing incoming non-premium cash flows and executing Business-to-Business (B2B) collections.49"
+  },
+  {
+    "id": 1415,
+    "l1": "Corporate",
+    "l2": "Financial Accounting",
+    "l3": "General Ledger Management",
+    "desc": "Maintaining the immutable master record of all corporate financial transactions across all subsidiaries and regions."
+  },
+  {
+    "id": 1416,
+    "l1": "Corporate",
+    "l2": "Corporate Finance",
+    "l3": "Budgeting & Forecasting",
+    "desc": "Developing annual operating plans and modeling future financial trajectories based on market assumptions.49"
+  },
+  {
+    "id": 1417,
+    "l1": "Corporate",
+    "l2": "Corporate Finance",
+    "l3": "Treasury & Cash Management",
+    "desc": "Managing vast enterprise liquidity, optimizing working capital, and processing daily bank reconciliations."
+  },
+  {
+    "id": 1418,
+    "l1": "Corporate",
+    "l2": "Corporate Finance",
+    "l3": "Tax Planning & Compliance",
+    "desc": "Ensuring strict adherence to federal, state, and complex international tax codes to minimize liabilities legally."
+  },
+  {
+    "id": 1419,
+    "l1": "Corporate",
+    "l2": "Legal Operations",
+    "l3": "Contract Lifecycle Management",
+    "desc": "Drafting, negotiating, and digitally archiving enterprise vendor, technology, and strategic partner agreements.10"
+  },
+  {
+    "id": 1420,
+    "l1": "Corporate",
+    "l2": "Legal Operations",
+    "l3": "Intellectual Property Mgmt",
+    "desc": "Protecting corporate trademarks, proprietary algorithmic patents, and copyrights.10"
+  },
+  {
+    "id": 1421,
+    "l1": "Corporate",
+    "l2": "Legal Operations",
+    "l3": "Corporate Litigation Mgmt",
+    "desc": "Overseeing massive defense strategies for enterprise-level civil lawsuits, entirely separate from individual claims litigation."
+  },
+  {
+    "id": 1422,
+    "l1": "Corporate",
+    "l2": "Procurement",
+    "l3": "Vendor & Supplier Management",
+    "desc": "Evaluating third-party providers systematically, conducting RFPs, and monitoring SLAs continuously.10"
+  },
+  {
+    "id": 1423,
+    "l1": "Corporate",
+    "l2": "Procurement",
+    "l3": "Strategic Sourcing",
+    "desc": "Identifying massive cost-saving opportunities in the bulk acquisition of IT hardware, SaaS services, and operational materials."
+  },
+  {
+    "id": 1424,
+    "l1": "Corporate",
+    "l2": "Facility Management",
+    "l3": "Real Estate Portfolio Mgmt",
+    "desc": "Optimizing the physical footprint of massive corporate headquarters, regional hubs, and localized field offices.10"
+  },
+  {
+    "id": 1425,
+    "l1": "Corporate",
+    "l2": "Facility Management",
+    "l3": "Physical Security Management",
+    "desc": "Ensuring the safety of employees and physical assets via biometric access controls and constant monitoring."
+  },
+  {
+    "id": 1426,
+    "l1": "Enterprise Risk",
+    "l2": "ERM",
+    "l3": "Risk Appetite Framework",
+    "desc": "Establishing and monitoring the enterprise-wide risk tolerances across market, credit, operational, and insurance risks."
+  },
+  {
+    "id": 1427,
+    "l1": "Enterprise Risk",
+    "l2": "ERM",
+    "l3": "Business Continuity",
+    "desc": "Planning and executing crisis management and disaster recovery across all business operations."
+  },
+  {
+    "id": 1428,
+    "l1": "Enterprise Risk",
+    "l2": "ERM",
+    "l3": "Third-Party Risk Mgmt",
+    "desc": "Assessing and mitigating risks introduced by external vendors, suppliers, and ecosystem partners."
+  },
+  {
+    "id": 1429,
+    "l1": "Corporate Svcs",
+    "l2": "Compliance & Ethics",
+    "l3": "Regulatory Compliance",
+    "desc": "Ensuring adherence to global and local insurance regulations, data privacy laws, and ethical standards."
+  },
+  {
+    "id": 1430,
+    "l1": "Corporate Svcs",
+    "l2": "Internal Audit",
+    "l3": "Audit Operations",
+    "desc": "Conducting independent evaluations of internal controls, risk management, and governance processes."
+  },
+  {
+    "id": 1431,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "Strategic Planning",
+    "desc": "Formulating long-term corporate strategies, market entry plans, and competitive positioning."
+  },
+  {
+    "id": 1432,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "Mergers & Acquisitions",
+    "desc": "Executing the identification, valuation, and integration of acquired entities and business units."
+  },
+  {
+    "id": 1433,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "Innovation & R&D",
+    "desc": "Incubating new business models, product concepts, and advanced technology applications."
+  },
+  {
+    "id": 1434,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "ESG Management",
+    "desc": "Managing Environmental, Social, and Governance initiatives, reporting, and sustainable investment strategies."
+  },
+  {
+    "id": 1435,
+    "l1": "Financial Mgmt",
+    "l2": "Investments",
+    "l3": "Proprietary Asset Mgmt",
+    "desc": "Managing the carrier's own massive balance sheet assets to ensure solvency and optimize returns."
+  },
+  {
+    "id": 1436,
+    "l1": "Financial Mgmt",
+    "l2": "Actuarial Sciences",
+    "l3": "Enterprise Actuarial Analysis",
+    "desc": "Overseeing holistic enterprise-wide reserving, capital adequacy, and actuarial modeling beyond product pricing."
+  },
+  {
+    "id": 1437,
+    "l1": "Corporate Svcs",
+    "l2": "Gov Relations",
+    "l3": "Public Affairs",
+    "desc": "Lobbying and managing relationships with legislative bodies, regulators, and industry associations."
+  },
+  {
+    "id": 1438,
+    "l1": "Corporate Svcs",
+    "l2": "Legal Operations",
+    "l3": "Legal Entity Management",
+    "desc": "Maintaining the corporate structure, board governance, and subsidiary compliance across jurisdictions."
+  },
+  {
+    "id": 1439,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "Enterprise Architecture",
+    "desc": "Aligning business intent strictly with technology roadmaps across data, application, and security domains.14"
+  },
+  {
+    "id": 1440,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "Demand Management",
+    "desc": "Evaluating and rigorously prioritizing business requests for new technology solutions through a single governance funnel.14"
+  },
+  {
+    "id": 1441,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "IT Portfolio Rationalization",
+    "desc": "Assessing the lifecycle of applications continuously to decide whether to tolerate, migrate, or eliminate them.46"
+  },
+  {
+    "id": 1442,
+    "l1": "IT Mgmt",
+    "l2": "Solution Delivery",
+    "l3": "Software Dev. Lifecycle (SDLC)",
+    "desc": "Managing rapid agile/DevOps pipelines for building custom underwriting applications and front-end portals.52"
+  },
+  {
+    "id": 1443,
+    "l1": "IT Mgmt",
+    "l2": "Solution Delivery",
+    "l3": "Quality Assurance & Testing",
+    "desc": "Executing massive automated and manual testing suites to ensure code reliability and performance under load."
+  },
+  {
+    "id": 1444,
+    "l1": "IT Mgmt",
+    "l2": "Data Management",
+    "l3": "Data Warehousing & Data Lakes",
+    "desc": "Centralizing structured and unstructured enterprise data for seamless access and advanced analytics.14"
+  },
+  {
+    "id": 1445,
+    "l1": "IT Mgmt",
+    "l2": "Data Management",
+    "l3": "Master Data Management",
+    "desc": "Ensuring a highly governed single source of truth for core entities (e.g., Party, Policy, Asset) across all systems.23"
+  },
+  {
+    "id": 1446,
+    "l1": "IT Mgmt",
+    "l2": "Data Management",
+    "l3": "Business Intelligence (BI)",
+    "desc": "Managing the extensive ecosystem of reporting dashboards and data visualization tools for executive decisioning.14"
+  },
+  {
+    "id": 1447,
+    "l1": "IT Mgmt",
+    "l2": "IT Operations",
+    "l3": "IT Service Management (ITSM)",
+    "desc": "Managing the provisioning of hardware services, helpdesk support, and strict SLA enforcement.14"
+  },
+  {
+    "id": 1448,
+    "l1": "IT Mgmt",
+    "l2": "IT Operations",
+    "l3": "Cloud Infrastructure Mgmt",
+    "desc": "Operating and scaling virtualized computing assets dynamically across public, private, and hybrid cloud environments.14"
+  },
+  {
+    "id": 1449,
+    "l1": "IT Mgmt",
+    "l2": "IT Operations",
+    "l3": "Incident & Problem Mgmt",
+    "desc": "Monitoring systemic utilization, resolving critical service outages rapidly, and identifying deeply hidden root causes.14"
+  },
+  {
+    "id": 1450,
+    "l1": "IT Mgmt",
+    "l2": "Security & Risk",
+    "l3": "Identity & Access Management",
+    "desc": "Controlling user permissions, MFA, and system access rigorously based on zero-trust security principles.10"
+  },
+  {
+    "id": 1451,
+    "l1": "IT Mgmt",
+    "l2": "Security & Risk",
+    "l3": "Cyber Threat Detection",
+    "desc": "Continuously monitoring enterprise networks for intrusions, anomalies, and malicious behavior.32"
+  },
+  {
+    "id": 1452,
+    "l1": "IT Mgmt",
+    "l2": "Security & Risk",
+    "l3": "Business Continuity & DR",
+    "desc": "Planning and executing massive disaster recovery protocols to ensure system availability during catastrophic events.49"
+  },
+  {
+    "id": 1453,
+    "l1": "IT Mgmt",
+    "l2": "Data Governance",
+    "l3": "Data Privacy Mgmt",
+    "desc": "Ensuring adherence to global data protection regulations and managing individual data rights."
+  },
+  {
+    "id": 1454,
+    "l1": "IT Mgmt",
+    "l2": "Knowledge Mgmt",
+    "l3": "Knowledge Base Admin",
+    "desc": "Curating and structuring enterprise knowledge to support both human workflows and AI applications."
+  },
+  {
+    "id": 1455,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "Change Mgmt & Transformation",
+    "desc": "Orchestrating organizational change methodologies to ensure successful adoption of new technologies."
+  },
+  {
+    "id": 1456,
+    "l1": "Agentic AI",
+    "l2": "AI Orchestration",
+    "l3": "Intent Capture & Disambig.",
+    "desc": "Using advanced NLP to decipher highly ambiguous user requests and algorithmically determine the required operational goal.23"
+  },
+  {
+    "id": 1457,
+    "l1": "Agentic AI",
+    "l2": "AI Orchestration",
+    "l3": "Planner-Executor Agenting",
+    "desc": "Deconstructing a massive, high-level goal into a perfectly sequenced series of automated tooling tasks and API calls.23"
+  },
+  {
+    "id": 1458,
+    "l1": "Agentic AI",
+    "l2": "AI Orchestration",
+    "l3": "Transboundary Orchestration",
+    "desc": "Allowing AI agents to seamlessly and securely execute tasks across disparate information silos and legacy core systems.61"
+  },
+  {
+    "id": 1459,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Autonomous Underwriting",
+    "desc": "Executing risk data enrichment, complex appetite checking, and final decisioning via LLMs and direct function calling.23"
+  },
+  {
+    "id": 1460,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Autonomous Claims Triage",
+    "desc": "Extracting profound context from raw FNOL documents to dynamically route claims or instantly approve straight-through processing.23"
+  },
+  {
+    "id": 1461,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Digital SDRs (Sales Agents)",
+    "desc": "Managing inbound inquiries, scheduling complex meetings, and executing multi-channel follow-ups entirely autonomously.60"
+  },
+  {
+    "id": 1462,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Legacy System Extraction",
+    "desc": "Deploying AI agents to analyze legacy COBOL mainframes, extract undocumented business rules, and generate process maps.18"
+  },
+  {
+    "id": 1463,
+    "l1": "IT Mgmt",
+    "l2": "Data Technology Management",
+    "l3": "Vector Database Management",
+    "desc": "Storing and rapidly retrieving semantic mathematical embeddings of complex policy wordings, claims notes, and transcripts.23"
+  },
+  {
+    "id": 1464,
+    "l1": "IT Mgmt",
+    "l2": "Data Technology Management",
+    "l3": "Knowledge Graph Admin.",
+    "desc": "Mapping and maintaining complex, multi-dimensional relationships between entities (customers, perils, treaties) to support deep reasoning.23"
+  },
+  {
+    "id": 1465,
+    "l1": "Agentic AI",
+    "l2": "Context Engineering",
+    "l3": "Retrieval-Augmented Gen (RAG)",
+    "desc": "Grounding LLM responses and agent decisions strictly in verified, highly secure proprietary enterprise knowledge bases.60"
+  },
+  {
+    "id": 1466,
+    "l1": "IT Mgmt",
+    "l2": "Data Technology Management",
+    "l3": "Feature Store Management",
+    "desc": "Managing and serving engineered data features (e.g., real-time fraud propensity scores) for instantaneous model consumption.23"
+  },
+  {
+    "id": 1467,
+    "l1": "Agentic AI",
+    "l2": "Cognitive Services",
+    "l3": "Self-Adaptive Conversational UI",
+    "desc": "Generating dynamic, persona-aware interfaces that continuously adapt based on real-time context and historical interaction insights.23"
+  },
+  {
+    "id": 1468,
+    "l1": "Agentic AI",
+    "l2": "Cognitive Services",
+    "l3": "Vision & Speech Computing",
+    "desc": "Processing high-resolution images for instant damage estimation and synthesizing speech for automated call summaries.23"
+  },
+  {
+    "id": 1469,
+    "l1": "Agentic AI",
+    "l2": "AI Governance",
+    "l3": "Boundary Enforcement",
+    "desc": "Implementing hard, machine-readable rules that technically and physically prevent an AI agent from violating set operational parameters.62"
+  },
+  {
+    "id": 1470,
+    "l1": "Agentic AI",
+    "l2": "AI Governance",
+    "l3": "Human-in-the-Loop Escalation",
+    "desc": "Automatically identifying low-confidence outputs and routing exceptions or high-risk decisions to a human analyst for immediate review.61"
+  },
+  {
+    "id": 1471,
+    "l1": "Agentic AI",
+    "l2": "AI Observability",
+    "l3": "Decision Lineage & Provenance",
+    "desc": "Logging the exact, step-by-step data and reasoning pathways an agent used to arrive at a decision to satisfy strict regulatory audits.23"
+  },
+  {
+    "id": 1472,
+    "l1": "Agentic AI",
+    "l2": "AI Observability",
+    "l3": "Model Drift Monitoring",
+    "desc": "Continuously evaluating AI performance mathematically to detect degradation in accuracy or the emergence of statistical bias.23"
+  },
+  {
+    "id": 1473,
+    "l1": "Agentic AI",
+    "l2": "AI Security",
+    "l3": "Secure Tool Calling (MCP)",
+    "desc": "Managing highly secure authentication and payload security when agents independently call external APIs or execute internal functions.23"
+  },
+  {
+    "id": 1474,
+    "l1": "Agentic AI",
+    "l2": "AI Security",
+    "l3": "Privacy-Preserving Decomp.",
+    "desc": "Masking and tokenizing sensitive PII attributes within the prompt/decision pipeline to ensure absolute data security and HIPAA compliance.21"
+  },
+  {
+    "id": 1475,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Fleet Risk Assessment",
+    "desc": "Advanced enterprise capability managing the fleet risk assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1476,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Cyber Liability Pricing",
+    "desc": "Advanced enterprise capability managing the cyber liability pricing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1477,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "D&O Coverage Analysis",
+    "desc": "Advanced enterprise capability managing the d&o coverage analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1478,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Cargo Risk Triage",
+    "desc": "Advanced enterprise capability managing the cargo risk triage operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1479,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Marine Hull Assessment",
+    "desc": "Advanced enterprise capability managing the marine hull assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1480,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Aviation Risk Management",
+    "desc": "Advanced enterprise capability managing the aviation risk management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1481,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Environmental Liability",
+    "desc": "Advanced enterprise capability managing the environmental liability operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1482,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Construction Builders Risk",
+    "desc": "Advanced enterprise capability managing the construction builders risk operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1483,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Catastrophe Modeling",
+    "desc": "Advanced enterprise capability managing the catastrophe modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1484,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Reinsurance Subrogation",
+    "desc": "Advanced enterprise capability managing the reinsurance subrogation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1485,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Business Interruption Adjustment",
+    "desc": "Advanced enterprise capability managing the business interruption adjustment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1486,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Large Loss Reserving",
+    "desc": "Advanced enterprise capability managing the large loss reserving operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1487,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Multi-Party Litigation Management",
+    "desc": "Advanced enterprise capability managing the multi-party litigation management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1488,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Parametric Claim Triggers",
+    "desc": "Advanced enterprise capability managing the parametric claim triggers operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1489,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "MGA Delegation Management",
+    "desc": "Advanced enterprise capability managing the mga delegation management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1490,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Surplus Lines Compliance",
+    "desc": "Advanced enterprise capability managing the surplus lines compliance operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1491,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Syndicate Capital Management",
+    "desc": "Advanced enterprise capability managing the syndicate capital management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1492,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Broker Commission Tiering",
+    "desc": "Advanced enterprise capability managing the broker commission tiering operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1493,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Wholesale Market Syndication",
+    "desc": "Advanced enterprise capability managing the wholesale market syndication operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1494,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "On-Site Property Inspection",
+    "desc": "Advanced enterprise capability managing the on-site property inspection operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1495,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "Ergonomic Worksite Assessment",
+    "desc": "Advanced enterprise capability managing the ergonomic worksite assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1496,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "IoT Sensor Data Analytics",
+    "desc": "Advanced enterprise capability managing the iot sensor data analytics operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1497,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "Loss Control Recommendations",
+    "desc": "Advanced enterprise capability managing the loss control recommendations operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1498,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "Supply Chain Vulnerability Analysis",
+    "desc": "Advanced enterprise capability managing the supply chain vulnerability analysis operations for the broader Universal Insurance ecosystem."
+  }
+]

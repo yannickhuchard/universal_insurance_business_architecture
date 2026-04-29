@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect } from 'react';
 import { Shield, LayoutDashboard, Layers, Server, EyeOff, Wallet, AlertTriangle, Target, Activity, Plus, Table as TableIcon } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 import './index.css';
 import AnalyticsPanel from './components/AnalyticsPanel';
 import CapabilityEditor from './components/CapabilityEditor';
@@ -21,25 +22,26 @@ type Capability = {
 
 type OverlayType = {
   id: string;
-  label: string;
+  labelKey: string;
   icon: React.ElementType;
-  description: string;
+  descriptionKey: string;
 };
 
 const OVERLAYS: OverlayType[] = [
-  { id: 'none', label: 'Default View', icon: LayoutDashboard, description: 'Standard business capability view' },
-  { id: 'analytics', label: 'Decision Support', icon: Activity, description: 'Deterministic gap analysis and redundancy detection' },
-  { id: 'coverage', label: 'Org Coverage', icon: Layers, description: 'Organizational adoption and coverage' },
-  { id: 'techStack', label: 'Tech Stack', icon: Server, description: 'Technology stack modernization level' },
-  { id: 'applications', label: 'Applications', icon: Layers, description: 'Business applications supporting capability' },
-  { id: 'security', label: 'Security Compliance', icon: Shield, description: 'Security compliance and controls level' },
-  { id: 'privacy', label: 'Data Privacy', icon: EyeOff, description: 'Data privacy handling and risk' },
-  { id: 'debt', label: 'Tech Debt', icon: Wallet, description: 'Technical debt accumulation level' },
-  { id: 'risk', label: 'Operational Risk', icon: AlertTriangle, description: 'Inherent and residual operational risk' },
-  { id: 'strategic', label: 'Strategic Value', icon: Target, description: 'Capabilities marked as highly strategic for the business' }
+  { id: 'none', labelKey: 'defaultView', icon: LayoutDashboard, descriptionKey: 'defaultViewDesc' },
+  { id: 'analytics', labelKey: 'decisionSupport', icon: Activity, descriptionKey: 'decisionSupportDesc' },
+  { id: 'coverage', labelKey: 'orgCoverage', icon: Layers, descriptionKey: 'orgCoverageDesc' },
+  { id: 'techStack', labelKey: 'techStack', icon: Server, descriptionKey: 'techStackDesc' },
+  { id: 'applications', labelKey: 'applications', icon: Layers, descriptionKey: 'applicationsDesc' },
+  { id: 'security', labelKey: 'securityCompliance', icon: Shield, descriptionKey: 'securityComplianceDesc' },
+  { id: 'privacy', labelKey: 'dataPrivacy', icon: EyeOff, descriptionKey: 'dataPrivacyDesc' },
+  { id: 'debt', labelKey: 'techDebt', icon: Wallet, descriptionKey: 'techDebtDesc' },
+  { id: 'risk', labelKey: 'operationalRisk', icon: AlertTriangle, descriptionKey: 'operationalRiskDesc' },
+  { id: 'strategic', labelKey: 'strategicValue', icon: Target, descriptionKey: 'strategicValueDesc' }
 ];
 
 export default function App() {
+  const { t, i18n } = useTranslation();
   const [capabilitiesData, setCapabilitiesData] = useState<Capability[]>([]);
   const [activeOverlay, setActiveOverlay] = useState<string>('none');
   const [selectedFilter, setSelectedFilter] = useState<string | null>(null);
@@ -86,9 +88,9 @@ export default function App() {
 
   const handleCreateNew = () => {
     setEditingCapability({
-      l1: 'New Domain',
-      l2: 'New Group',
-      l3: 'New Capability',
+      l1: t('newDomain'),
+      l2: t('newGroup'),
+      l3: t('newCapability'),
       desc: '',
       scores: { coverage: 0, security: 0, privacy: 0, debt: 0, risk: 0 },
       isStrategic: false,
@@ -101,6 +103,7 @@ export default function App() {
   // Group capabilities by L1 -> L2 -> Array<L3>
   const hierarchy = useMemo(() => {
     const result: Record<string, Record<string, Capability[]>> = {};
+    const currentLang = i18n.language;
     
     capabilitiesData.forEach(cap => {
       // Filter by state first
@@ -108,16 +111,19 @@ export default function App() {
 
       if (hideNonStrategic && !cap.isStrategic) return;
 
+      const tL1 = cap.translations?.[currentLang]?.l1 || cap.l1;
+      const tL2 = cap.translations?.[currentLang]?.l2 || cap.l2;
+
       // Remove markdown links or weird formatting from L1
-      const l1 = cap.l1.replace(/\[|\]/g, '').trim();
-      const l2 = cap.l2.replace(/\[|\]/g, '').trim();
+      const l1 = tL1.replace(/\[|\]/g, '').trim();
+      const l2 = tL2.replace(/\[|\]/g, '').trim();
       
       if (!result[l1]) result[l1] = {};
       if (!result[l1][l2]) result[l1][l2] = [];
       result[l1][l2].push(cap);
     });
     return result;
-  }, [capabilitiesData, hideNonStrategic, viewState]);
+  }, [capabilitiesData, hideNonStrategic, viewState, i18n.language]);
 
   const uniqueTags = useMemo(() => {
     if (activeOverlay !== 'techStack' && activeOverlay !== 'applications') return [];
@@ -148,13 +154,62 @@ export default function App() {
       {/* Sidebar Controls */}
       <div className="sidebar glass-panel">
         <div>
-          <h2 className="text-gradient" style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Universal Insurance</h2>
-          <h3 style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', fontWeight: 400 }}>Enterprise Architecture Capability Map</h3>
+          <h2 className="text-gradient" style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>{t('appTitle')}</h2>
+          <h3 style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', fontWeight: 400 }}>{t('appSubtitle')}</h3>
         </div>
 
         <div style={{ marginTop: '2rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+          <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', flexWrap: 'wrap', justifyContent: 'center' }}>
+            {[
+              { code: 'en', flag: 'gb', label: 'EN' },
+              { code: 'fr', flag: 'fr', label: 'FR' },
+              { code: 'de', flag: 'de', label: 'DE' },
+              { code: 'lb', flag: 'lu', label: 'LB' },
+              { code: 'pt', flag: 'pt', label: 'PT' },
+              { code: 'es', flag: 'es', label: 'ES' },
+              { code: 'it', flag: 'it', label: 'IT' }
+            ].map(lang => (
+              <button
+                key={lang.code}
+                onClick={() => i18n.changeLanguage(lang.code)}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  background: i18n.language === lang.code ? 'rgba(255, 255, 255, 0.2)' : 'rgba(0, 0, 0, 0.2)',
+                  border: `1px solid ${i18n.language === lang.code ? 'rgba(255, 255, 255, 0.6)' : 'rgba(255, 255, 255, 0.1)'}`,
+                  borderRadius: '50%',
+                  width: '32px',
+                  height: '32px',
+                  cursor: 'pointer',
+                  padding: 0,
+                  transition: 'all 0.2s',
+                  opacity: i18n.language === lang.code ? 1 : 0.5,
+                  transform: i18n.language === lang.code ? 'scale(1.1)' : 'scale(1)'
+                }}
+                title={lang.label}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.opacity = '1';
+                  e.currentTarget.style.transform = 'scale(1.1)';
+                }}
+                onMouseLeave={(e) => {
+                  if (i18n.language !== lang.code) {
+                    e.currentTarget.style.opacity = '0.5';
+                    e.currentTarget.style.transform = 'scale(1)';
+                  }
+                }}
+              >
+                <img 
+                  src={`https://flagcdn.com/w20/${lang.flag}.png`} 
+                  alt={lang.label}
+                  style={{ width: '18px', height: 'auto', borderRadius: '2px' }}
+                />
+              </button>
+            ))}
+          </div>
+
           <h4 style={{ fontSize: '0.8rem', color: 'var(--grey)', textTransform: 'uppercase', letterSpacing: '1px', marginBottom: '0.5rem' }}>
-            Boardroom Overlays
+            {t('boardroomOverlays')}
           </h4>
           {OVERLAYS.map(overlay => {
             const Icon = overlay.icon;
@@ -168,7 +223,7 @@ export default function App() {
                 }}
               >
                 <Icon className="icon" size={18} />
-                <span>{overlay.label}</span>
+                <span>{t(overlay.labelKey)}</span>
               </button>
             );
           })}
@@ -177,16 +232,16 @@ export default function App() {
         {activeOverlay !== 'none' && activeOverlay !== 'analytics' && activeOverlay !== 'techStack' && activeOverlay !== 'applications' && activeOverlay !== 'strategic' && (
           <div className="heatmap-legend" style={{ flexDirection: 'column', alignItems: 'flex-start' }}>
             <h4 style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: '0.5rem' }}>
-              {activeOverlayInfo?.label} Heatmap
+              {t(activeOverlayInfo?.labelKey || '')} {t('heatmap')}
             </h4>
             <div className="legend-scale"></div>
             <div className="legend-labels">
-              <span>Low</span>
-              <span>Medium</span>
-              <span>High/Critical</span>
+              <span>{t('low')}</span>
+              <span>{t('medium')}</span>
+              <span>{t('highCritical')}</span>
             </div>
             <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '1rem', lineHeight: 1.4 }}>
-              {activeOverlayInfo?.description}. Showing dynamically generated overlay data for the selected context.
+              {t(activeOverlayInfo?.descriptionKey || '')}. {t('dynamicData')}
             </p>
           </div>
         )}
@@ -194,16 +249,16 @@ export default function App() {
         {(activeOverlay === 'techStack' || activeOverlay === 'applications' || activeOverlay === 'strategic') && (
           <div className="heatmap-legend" style={{ flexDirection: 'column', alignItems: 'flex-start' }}>
             <h4 style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: '0.5rem' }}>
-              {activeOverlayInfo?.label}
+              {t(activeOverlayInfo?.labelKey || '')}
             </h4>
             <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '0.5rem', lineHeight: 1.4 }}>
-              {activeOverlayInfo?.description}. {activeOverlay === 'strategic' ? 'Highlighting strategic nodes.' : 'Listing explicit components.'}
+              {t(activeOverlayInfo?.descriptionKey || '')}. {activeOverlay === 'strategic' ? t('highlightStrategic') : t('listComponents')}
             </p>
             
             {activeOverlay !== 'strategic' && (
             <div style={{ marginTop: '1rem', width: '100%' }}>
               <label style={{ fontSize: '0.75rem', color: 'var(--white)', marginBottom: '0.25rem', display: 'block' }}>
-                Reverse Mapping Filter:
+                {t('filterLabel')}
               </label>
               <select 
                 className="glass-select"
@@ -220,7 +275,7 @@ export default function App() {
                   fontSize: '0.85rem'
                 }}
               >
-                <option value="" style={{ color: '#000' }}>-- Show All --</option>
+                <option value="" style={{ color: '#000' }}>{t('showAll')}</option>
                 {uniqueTags.map(tag => (
                   <option key={tag} value={tag} style={{ color: '#000' }}>{tag}</option>
                 ))}
@@ -238,7 +293,7 @@ export default function App() {
         <div style={{ flex: 1, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
           <div className="header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
-              <h1 className="text-gradient">Capabilities Map</h1>
+              <h1 className="text-gradient">Universal {t('appSubtitle')}</h1>
               
               {/* As-Is vs To-Be Toggle */}
               <div style={{ display: 'flex', background: 'rgba(0,0,0,0.3)', borderRadius: '20px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.1)' }}>
@@ -246,13 +301,13 @@ export default function App() {
                   onClick={() => setViewState('as-is')}
                   style={{ padding: '0.4rem 1rem', border: 'none', background: viewState === 'as-is' ? 'var(--light-blue)' : 'transparent', color: viewState === 'as-is' ? '#fff' : 'var(--text-secondary)', cursor: 'pointer', fontWeight: 600, fontSize: '0.85rem' }}
                 >
-                  As-Is
+                  {t('asis')}
                 </button>
                 <button 
                   onClick={() => setViewState('to-be')}
                   style={{ padding: '0.4rem 1rem', border: 'none', background: viewState === 'to-be' ? 'var(--light-blue)' : 'transparent', color: viewState === 'to-be' ? '#fff' : 'var(--text-secondary)', cursor: 'pointer', fontWeight: 600, fontSize: '0.85rem' }}
                 >
-                  To-Be
+                  {t('tobe')}
                 </button>
               </div>
 
@@ -262,13 +317,13 @@ export default function App() {
                   onClick={() => setViewFormat('map')}
                   style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', padding: '0.4rem 1rem', border: 'none', background: viewFormat === 'map' ? 'var(--light-blue)' : 'transparent', color: viewFormat === 'map' ? '#fff' : 'var(--text-secondary)', cursor: 'pointer', fontWeight: 600, fontSize: '0.85rem' }}
                 >
-                  <LayoutDashboard size={14} /> Map
+                  <LayoutDashboard size={14} /> {t('map')}
                 </button>
                 <button 
                   onClick={() => setViewFormat('table')}
                   style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', padding: '0.4rem 1rem', border: 'none', background: viewFormat === 'table' ? 'var(--light-blue)' : 'transparent', color: viewFormat === 'table' ? '#fff' : 'var(--text-secondary)', cursor: 'pointer', fontWeight: 600, fontSize: '0.85rem' }}
                 >
-                  <TableIcon size={14} /> Table
+                  <TableIcon size={14} /> {t('table')}
                 </button>
               </div>
 
@@ -281,7 +336,7 @@ export default function App() {
                   <div className="switch-thumb" />
                 </div>
                 <span style={{ color: hideNonStrategic ? 'var(--white)' : 'var(--text-secondary)', fontWeight: 500, userSelect: 'none' }}>
-                  Strategic Only
+                  {t('strategicOnly')}
                 </span>
               </div>
             </div>
@@ -290,10 +345,10 @@ export default function App() {
                 onClick={handleCreateNew}
                 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', color: 'var(--white)', padding: '0.4rem 0.8rem', borderRadius: '6px', cursor: 'pointer', fontSize: '0.85rem' }}
               >
-                <Plus size={16} /> Add Capability
+                <Plus size={16} /> {t('addCapability')}
               </button>
               <div style={{ padding: '0.5rem 1rem', background: 'rgba(59, 130, 246, 0.2)', borderRadius: '20px', fontSize: '0.85rem', color: 'var(--light-blue)', border: '1px solid rgba(59, 130, 246, 0.4)' }}>
-                {Object.keys(hierarchy).length} Domains • {capabilitiesData.filter(c => c.state === viewState).length} Capabilities
+                {Object.keys(hierarchy).length} {t('domains')} • {capabilitiesData.filter(c => c.state === viewState).length} {t('capabilities')}
               </div>
             </div>
           </div>
@@ -347,8 +402,8 @@ export default function App() {
                                     style={{ width: `${score}%`, backgroundColor: color }}
                                   />
                                 )}
-                                <div className="name">{cap.l3}</div>
-                                <div className="desc">{cap.desc}</div>
+                                <div className="name">{cap.translations?.[i18n.language]?.l3 || cap.l3}</div>
+                                <div className="desc">{cap.translations?.[i18n.language]?.desc || cap.desc}</div>
                                 {activeOverlay === 'techStack' && cap.techStack && (
                                   <div className="tags-list">
                                     {cap.techStack.map((tech, i) => (

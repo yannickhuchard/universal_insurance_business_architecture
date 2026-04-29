@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1099,
+    "l1": "Distribution Mgmt",
+    "l2": "Partner Management",
+    "l3": "Agency/Broker Onboarding",
+    "desc": "Managing the administrative intake, background verification, and contractual appointment of third-party intermediaries."
+  },
+  {
+    "id": 1100,
+    "l1": "Distribution Mgmt",
+    "l2": "Partner Management",
+    "l3": "Licensing & Credentialing",
+    "desc": "Tracking state-by-state licensing requirements and continuing education credits to ensure regulatory compliance prior to policy binding."
+  },
+  {
+    "id": 1101,
+    "l1": "Distribution Mgmt",
+    "l2": "Compensation",
+    "l3": "Commission Management",
+    "desc": "Calculating, validating, and dispersing complex tiered commissions, overrides, and performance bonuses to the distribution network."
+  },
+  {
+    "id": 1102,
+    "l1": "Distribution Mgmt",
+    "l2": "Channel Analytics",
+    "l3": "Channel Performance Analytics",
+    "desc": "Monitoring the profitability, quote-to-bind conversion rates, and localized loss ratios of specific distribution networks and geographic regions."
+  },
+  {
+    "id": 1103,
+    "l1": "Distribution Mgmt",
+    "l2": "Digital Channels",
+    "l3": "Aggregator Integration",
+    "desc": "Managing real-time, high-throughput API integrations with third-party comparative rating platforms and digital marketplaces."
+  },
+  {
+    "id": 1104,
+    "l1": "Marketing",
+    "l2": "Campaign Management",
+    "l3": "Campaign Execution",
+    "desc": "Designing, funding, and executing omni-channel marketing initiatives to drive top-of-funnel lead generation.10"
+  },
+  {
+    "id": 1105,
+    "l1": "Marketing",
+    "l2": "Lead Management",
+    "l3": "Lead Triage & Routing",
+    "desc": "Scoring prospective leads based on demographic risk factors and dynamically routing them to internal sales agents or external specialists."
+  },
+  {
+    "id": 1106,
+    "l1": "Customer Mgmt",
+    "l2": "Profile Management",
+    "l3": "Customer Profile Management",
+    "desc": "Maintaining a 360-degree, Master Data Management (MDM) view of the policyholder across all enterprise interactions and product lines.20"
+  },
+  {
+    "id": 1107,
+    "l1": "Marketing",
+    "l2": "Customer Strategy",
+    "l3": "Cross-Sell/Up-Sell Targeting",
+    "desc": "Utilizing machine learning propensity models to offer complementary policies (e.g., umbrella coverage to homeowners) to existing clients."
+  },
+  {
+    "id": 1108,
+    "l1": "Distribution Mgmt",
+    "l2": "Sales Execution",
+    "l3": "Quoting & Illustration",
+    "desc": "Generating personalized price estimates and visual benefit illustrations for prospective policyholders based on preliminary data inputs."
+  },
+  {
+    "id": 1109,
+    "l1": "Customer Mgmt",
+    "l2": "Customer Service",
+    "l3": "Contact Center Operations",
+    "desc": "Managing omni-channel inbound and outbound customer support and inquiry resolution."
+  },
+  {
+    "id": 1110,
+    "l1": "Customer Mgmt",
+    "l2": "Digital Experience",
+    "l3": "CX Management",
+    "desc": "Overseeing the end-to-end digital user experience across mobile apps, portals, and conversational interfaces."
+  },
+  {
+    "id": 1111,
+    "l1": "Customer Mgmt",
+    "l2": "Loyalty Programs",
+    "l3": "Rewards & Retention",
+    "desc": "Designing and managing programs to increase customer lifetime value through rewards and retention initiatives."
+  },
+  {
+    "id": 1112,
+    "l1": "Underwriting & Pricing",
+    "l2": "New Business",
+    "l3": "Application Capture",
+    "desc": "Ingesting structured and unstructured data from digital quoting portals, broker management systems, and standard ACORD forms."
+  },
+  {
+    "id": 1113,
+    "l1": "Underwriting & Pricing",
+    "l2": "New Business",
+    "l3": "Requirement Generation",
+    "desc": "Automatically triggering requests for medical examinations, motor vehicle records (MVRs), or property inspections based on risk rules."
+  },
+  {
+    "id": 1114,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Risk Appetite Evaluation",
+    "desc": "Comparing incoming application parameters against codified corporate risk thresholds, geographic concentrations, and embargoes."
+  },
+  {
+    "id": 1115,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Data Enrichment",
+    "desc": "Calling external third-party APIs for telematics data, geographic peril modeling (geocoding), credit scoring, or prescription drug histories."
+  },
+  {
+    "id": 1116,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Predictive Risk Scoring",
+    "desc": "Applying algorithmic models to predict the expected frequency and severity of potential future losses based on cohort analysis.23"
+  },
+  {
+    "id": 1117,
+    "l1": "Underwriting & Pricing",
+    "l2": "Pricing",
+    "l3": "Premium Rating Calculation",
+    "desc": "Executing core actuarial algorithms to generate base rates, apply modification factors, and output final premiums.23"
+  },
+  {
+    "id": 1118,
+    "l1": "Underwriting & Pricing",
+    "l2": "Pricing",
+    "l3": "Pricing & Revenue Mgmt",
+    "desc": "Enterprise-level pricing strategy, elasticity modeling, and revenue optimization beyond individual policy rating."
+  },
+  {
+    "id": 1119,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Subjectivity Management",
+    "desc": "Managing conditional requirements that must be met by the insured (e.g., installing a central alarm) before coverage is fully guaranteed."
+  },
+  {
+    "id": 1120,
+    "l1": "Underwriting & Pricing",
+    "l2": "Binding",
+    "l3": "Binding & Issuance",
+    "desc": "Legally committing the carrier to the risk, generating the physical or digital contract documents, and initiating the billing lifecycle."
+  },
+  {
+    "id": 1121,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Endorsement Processing",
+    "desc": "Executing mid-term changes to coverage limits, deductibles, adding insured entities, or updating garaging locations."
+  },
+  {
+    "id": 1122,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Out-of-Sequence Processing",
+    "desc": "Managing complex retroactive endorsements and automatically recalculating all subsequent financial transactions and billing schedules."
+  },
+  {
+    "id": 1123,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Renewal Orchestration",
+    "desc": "Automatically assessing expiring policies and generating renewal quotes based on updated pricing models and recent loss histories."
+  },
+  {
+    "id": 1124,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Cancellation Management",
+    "desc": "Processing voluntary or non-payment cancellations, including the calculation of short-rate or pro-rata premium returns.25"
+  },
+  {
+    "id": 1125,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Reinstatement Processing",
+    "desc": "Restoring cancelled policies upon receipt of delayed premiums, subject to automated underwriting review and lapse periods."
+  },
+  {
+    "id": 1126,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Invoicing & Statement Gen.",
+    "desc": "Producing accurate, consolidated bills for single policies or complex multi-policy commercial accounts."
+  },
+  {
+    "id": 1127,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Premium Audit",
+    "desc": "Conducting post-term audits on commercial policies (e.g., Workers' Compensation) to true-up estimated premiums against actual payrolls."
+  },
+  {
+    "id": 1128,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Payment Processing",
+    "desc": "Securely accepting, tokenizing, and clearing electronic funds transfers, credit card payments, and physical checks."
+  },
+  {
+    "id": 1129,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Account Reconciliation",
+    "desc": "Matching incoming payment data streams against open invoices, applying funds, and resolving complex suspense account discrepancies."
+  },
+  {
+    "id": 1130,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Dunning & Collections",
+    "desc": "Executing tiered, automated notification workflows for past-due accounts prior to initiating cancellation protocols."
+  },
+  {
+    "id": 1131,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Intake",
+    "l3": "First Notice of Loss (FNOL)",
+    "desc": "Capturing initial incident details, claimant information, and preliminary damage descriptions across mobile, web, and voice channels."
+  },
+  {
+    "id": 1132,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Intake",
+    "l3": "Coverage Verification",
+    "desc": "Cross-referencing the incident date, location, and specific peril against the active policy administration system to ensure validity."
+  },
+  {
+    "id": 1133,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Intake",
+    "l3": "Claims Triage & Routing",
+    "desc": "Segmenting claims dynamically for immediate straight-through processing or assigning them to specialized field adjusters based on complexity.26"
+  },
+  {
+    "id": 1134,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Adjudication",
+    "l3": "Investigation Management",
+    "desc": "Orchestrating field investigations, taking recorded statements from witnesses, and gathering official police or medical reports."
+  },
+  {
+    "id": 1135,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Adjudication",
+    "l3": "Damage Estimation",
+    "desc": "Utilizing human adjusters, third-party software, or computer vision AI to calculate accurate repair or replacement costs.23"
+  },
+  {
+    "id": 1136,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Adjudication",
+    "l3": "Reserve Management",
+    "desc": "Setting and dynamically adjusting the financial reserves allocated on the corporate balance sheet for expected claim payouts."
+  },
+  {
+    "id": 1137,
+    "l1": "Claims Mgmt",
+    "l2": "Fraud Management",
+    "l3": "Fraud Detection (SIU)",
+    "desc": "Identifying anomalous behavioral or data patterns and referring highly suspicious claims to Special Investigative Units.23"
+  },
+  {
+    "id": 1138,
+    "l1": "Claims Mgmt",
+    "l2": "Fraud Management",
+    "l3": "Enterprise Fraud Mgmt",
+    "desc": "Holistic detection and prevention of fraudulent activities beyond claims, encompassing underwriting and internal fraud."
+  },
+  {
+    "id": 1139,
+    "l1": "Claims Mgmt",
+    "l2": "Ecosystems",
+    "l3": "Vendor & Network Mgmt",
+    "desc": "Dispatching and managing approved auto repair shops, medical provider networks, or home restoration services."
+  },
+  {
+    "id": 1140,
+    "l1": "Claims Mgmt",
+    "l2": "Ecosystems",
+    "l3": "Health & Wellness Network",
+    "desc": "Managing external partnerships with health and wellness providers to deliver integrated care solutions."
+  },
+  {
+    "id": 1141,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Resolution",
+    "l3": "Subrogation Recovery",
+    "desc": "Pursuing legal and financial recovery from at-fault third parties or their insurers to offset claim payouts.23"
+  },
+  {
+    "id": 1142,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Resolution",
+    "l3": "Salvage Management",
+    "desc": "Liquidating totaled physical assets (e.g., heavily damaged vehicles, industrial equipment) via auctions to recoup partial loss expenses."
+  },
+  {
+    "id": 1143,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Resolution",
+    "l3": "Settlement Disbursal",
+    "desc": "Executing the final financial payout workflow, issuing payments to the insured, third-party claimant, or directly to the repair vendor."
+  },
+  {
+    "id": 1144,
+    "l1": "Reinsurance Mgmt",
+    "l2": "Inward/Outward",
+    "l3": "Treaty Administration",
+    "desc": "Managing proportional and non-proportional global reinsurance agreements across the entire portfolio to mitigate catastrophic risk concentration."
+  },
+  {
+    "id": 1145,
+    "l1": "Reinsurance Mgmt",
+    "l2": "Inward/Outward",
+    "l3": "Facultative Cedation",
+    "desc": "Seeking, negotiating, and binding individual reinsurance coverage for exceptionally large, unique, or complex individual risks."
+  },
+  {
+    "id": 1146,
+    "l1": "Reinsurance Mgmt",
+    "l2": "Ecosystems",
+    "l3": "Captive Management",
+    "desc": "Managing administrative and underwriting services for captive insurance entities formed by large corporate clients."
+  },
+  {
+    "id": 1147,
+    "l1": "Product Engine",
+    "l2": "Product Configuration",
+    "l3": "Attribute Definition",
+    "desc": "Defining the specific data variables (e.g., driver age, building construction type, vehicle make) that impact risk assessment."
+  },
+  {
+    "id": 1148,
+    "l1": "Product Engine",
+    "l2": "Product Configuration",
+    "l3": "Coverages & Perils Setup",
+    "desc": "Establishing the specific risks insured against, along with the hierarchical structure of maximum limits, sub-limits, and deductibles."
+  },
+  {
+    "id": 1149,
+    "l1": "Product Engine",
+    "l2": "Product Configuration",
+    "l3": "State Variance Management",
+    "desc": "Managing jurisdictional deviations, ensuring the product behaves differently based on specific Department of Insurance mandates."
+  },
+  {
+    "id": 1150,
+    "l1": "Product Engine",
+    "l2": "Rules Authoring",
+    "l3": "Eligibility Logic Creation",
+    "desc": "Authoring complex Boolean decision tables that dictate whether a specific risk profile falls within the acceptable underwriting appetite.27"
+  },
+  {
+    "id": 1151,
+    "l1": "Product Engine",
+    "l2": "Rules Authoring",
+    "l3": "Rating Formula Development",
+    "desc": "Building actuarial algorithms, multiplier sequences, and base-rate tables required to calculate precise premiums.26"
+  },
+  {
+    "id": 1152,
+    "l1": "Product Engine",
+    "l2": "Rules Authoring",
+    "l3": "Validation Rule Design",
+    "desc": "Creating systemic logic to ensure data integrity during quoting (e.g., preventing the binding of a commercial auto policy without a valid VIN)."
+  },
+  {
+    "id": 1153,
+    "l1": "Product Engine",
+    "l2": "Form Management",
+    "l3": "Document Logic Mapping",
+    "desc": "Linking specific regulatory forms, legal disclosures, and policy jackets to conditional triggers based on selected coverages."
+  },
+  {
+    "id": 1154,
+    "l1": "Product Engine",
+    "l2": "Simulation",
+    "l3": "Rate Impact Analysis",
+    "desc": "Running proposed pricing algorithms against historical book-of-business data to analyze potential revenue shifts and retention impacts."
+  },
+  {
+    "id": 1155,
+    "l1": "Product Engine",
+    "l2": "Simulation",
+    "l3": "Scenario Testing",
+    "desc": "Injecting mock application data combinations to verify that eligibility, validation, and underwriting rules trigger correctly.27"
+  },
+  {
+    "id": 1156,
+    "l1": "Product Engine",
+    "l2": "Deployment",
+    "l3": "Version Control",
+    "desc": "Managing multiple active, dated versions of a product rule set, ensuring complete traceability, auditability, and rollback capability."
+  },
+  {
+    "id": 1157,
+    "l1": "Product Engine",
+    "l2": "Deployment",
+    "l3": "Multi-Jurisdiction Rollout",
+    "desc": "Orchestrating the sequential, scheduled launch of product variations across different state or national regulatory environments."
+  },
+  {
+    "id": 1158,
+    "l1": "Product Engine",
+    "l2": "Deployment",
+    "l3": "Channel Syndication",
+    "desc": "Pushing updated product definitions and rating APIs directly to external distribution portals and third-party aggregator platforms."
+  },
+  {
+    "id": 1159,
+    "l1": "Product Engine",
+    "l2": "Lifecycle Mgmt",
+    "l3": "In-Force Migration Rules",
+    "desc": "Mapping data schemas to facilitate the systematic migration of existing policyholders from a legacy product version to a newly deployed version."
+  },
+  {
+    "id": 1160,
+    "l1": "Product Engine",
+    "l2": "Lifecycle Mgmt",
+    "l3": "Product Sunsetting",
+    "desc": "Safely disabling new business generation for a deprecated product while maintaining calculation rules for active renewals and run-offs.27"
+  },
+  {
+    "id": 1161,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1162,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Commercial Fire & Allied Lines",
+    "desc": "Coverage for commercial ventures against fire, lightning, and natural perils. Requires detailed geocoding and construction class data."
+  },
+  {
+    "id": 1163,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Builders Risk",
+    "desc": "Insures commercial buildings, raw machinery, and heavy equipment during the active course of construction."
+  },
+  {
+    "id": 1164,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Business Interruption",
+    "desc": "Replaces lost corporate income and pays ongoing operating expenses following a covered physical property loss."
+  },
+  {
+    "id": 1165,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Glass Breakage",
+    "desc": "Specialized, high-frequency coverage for storefront and structural architectural glass."
+  },
+  {
+    "id": 1166,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Equipment Breakdown (Boiler & Machinery)",
+    "desc": "Coverage for accidental breakdown of mechanical, electrical, or pressure equipment."
+  },
+  {
+    "id": 1167,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Difference in Conditions (DIC)",
+    "desc": "Catastrophic coverage filling gaps in standard property policies, often for flood and earthquake."
+  },
+  {
+    "id": 1168,
+    "l1": "P&C",
+    "l2": "Commercial Multi-Peril",
+    "l3": "Businessowners Policy (BOP)",
+    "desc": "Pre-packaged property and liability coverage tailored specifically for low-complexity small-to-medium enterprises (SMEs)."
+  },
+  {
+    "id": 1169,
+    "l1": "P&C",
+    "l2": "Commercial Multi-Peril",
+    "l3": "Commercial Package Policy (CPP)",
+    "desc": "Highly customizable combination of specific coverages designed for larger, more complex corporate entities."
+  },
+  {
+    "id": 1170,
+    "l1": "P&C",
+    "l2": "Commercial Multi-Peril",
+    "l3": "Manufacturers Output Policy",
+    "desc": "Broad-peril coverage for manufacturing raw materials and finished assets located away from standard primary premises."
+  },
+  {
+    "id": 1171,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Commercial Auto Fleet Liability",
+    "desc": "Third-party bodily injury and property damage coverage designed for large-scale corporate vehicle fleets."
+  },
+  {
+    "id": 1172,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Commercial Auto Physical Damage",
+    "desc": "Comprehensive and collision coverage specifically for corporate-owned heavy and light vehicles."
+  },
+  {
+    "id": 1173,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Garagekeepers Liability",
+    "desc": "Protects customers' vehicles while they are temporarily in the care, custody, or control of an auto repair business."
+  },
+  {
+    "id": 1174,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Motor Truck Cargo",
+    "desc": "Covers freight or commodity hauled by a for-hire trucker while in transit."
+  },
+  {
+    "id": 1175,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Hired and Non-Owned Auto Liability",
+    "desc": "Liability coverage for vehicles used for business but not owned by the business (e.g., employee vehicles, rentals)."
+  },
+  {
+    "id": 1176,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Premises & Operations Liability",
+    "desc": "Protects corporate entities against third-party injuries or damages occurring directly at the business location."
+  },
+  {
+    "id": 1177,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Products & Completed Operations",
+    "desc": "Liability coverage for defective manufactured products or completed contractual work causing harm post-delivery."
+  },
+  {
+    "id": 1178,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Contractual Liability",
+    "desc": "Indemnification coverage for obligations explicitly assumed by the insured through oral or written business contracts."
+  },
+  {
+    "id": 1179,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Owners & Contractors Protective",
+    "desc": "Protects property owners from vicarious liabilities arising from the actions of hired independent contractors."
+  },
+  {
+    "id": 1180,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Liquor Liability",
+    "desc": "Protects businesses that manufacture, sell, or serve alcohol against severe intoxication-related third-party damages."
+  },
+  {
+    "id": 1181,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Commercial Umbrella / Excess Liability",
+    "desc": "High-limit liability coverage exceeding primary general, auto, and employers liability policies."
+  },
+  {
+    "id": 1182,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "Statutory Workers' Compensation",
+    "desc": "State-mandated coverage paying for employee medical expenses and lost wages due directly to workplace injuries."
+  },
+  {
+    "id": 1183,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "Employers Liability",
+    "desc": "Protects businesses against additional civil lawsuits filed by employees alleging gross workplace negligence."
+  },
+  {
+    "id": 1184,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "Out-of-State Workers' Comp",
+    "desc": "Specialized regulatory coverage for employees operating across complex jurisdictional and state boundaries."
+  },
+  {
+    "id": 1185,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "USL&H / Jones Act",
+    "desc": "Specialized workers' compensation for maritime employees and longshoremen."
+  },
+  {
+    "id": 1186,
+    "l1": "P&C",
+    "l2": "Commercial Crime",
+    "l3": "Employee Dishonesty",
+    "desc": "Protects against financial loss from fraudulent acts committed by employees."
+  },
+  {
+    "id": 1187,
+    "l1": "P&C",
+    "l2": "Commercial Crime",
+    "l3": "Forgery or Alteration",
+    "desc": "Covers losses resulting from forgery or alteration of outgoing checks or promissory notes."
+  },
+  {
+    "id": 1188,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Commercial Crime / Fidelity",
+    "desc": "Protects businesses from financial losses due to employee theft, fraud, or embezzlement."
+  },
+  {
+    "id": 1189,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Commercial Umbrella Liability",
+    "desc": "Provides excess liability limits over primary commercial casualty policies."
+  },
+  {
+    "id": 1190,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Commercial Excess Liability",
+    "desc": "Follow-form coverage that adds limits on top of underlying liability policies without expanding terms."
+  },
+  {
+    "id": 1191,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Construction Defect Liability",
+    "desc": "Covers claims of property damage arising from faulty workmanship or defective materials in construction."
+  },
+  {
+    "id": 1192,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Trucking Liability",
+    "desc": "Specialized liability for the motor carrier industry covering third-party bodily injury and property damage."
+  },
+  {
+    "id": 1193,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Public Auto / Livery",
+    "desc": "Coverage for vehicles used to transport people for a fee, including taxis, limousines, and ride-shares."
+  },
+  {
+    "id": 1194,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Motor Truck Cargo",
+    "desc": "Covers the liability for the loss or damage to freight in transit while in the care of a motor carrier."
+  },
+  {
+    "id": 1195,
+    "l1": "P&C / Life",
+    "l2": "Specialized",
+    "l3": "Microinsurance",
+    "desc": "Low-premium, low-coverage policies tailored for low-income demographics or emerging markets."
+  },
+  {
+    "id": 1196,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1197,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Auto Liability",
+    "desc": "Mandatory minimum third-party bodily injury and property damage coverage for personal drivers."
+  },
+  {
+    "id": 1198,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Auto Collision",
+    "desc": "Indemnification for physical damage to the insured's vehicle resulting directly from an impact with an object or vehicle."
+  }
+]

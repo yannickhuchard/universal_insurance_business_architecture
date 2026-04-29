@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1399,
+    "l1": "Gestion d'Actifs",
+    "l2": "Comptabilité de Fonds",
+    "l3": "Provisionnement des Dépenses",
+    "desc": "Gestion du calcul algorithmique quotidien et de la déduction des frais de gestion et des coûts opérationnels des actifs du fonds."
+  },
+  {
+    "id": 1400,
+    "l1": "Gestion d'Actifs",
+    "l2": "Garde et Règlement",
+    "l3": "Exécution du Règlement",
+    "desc": "Orchestration de l'échange final et irrévocable d'espèces et de titres par l'intermédiaire des chambres de compensation mondiales."
+  },
+  {
+    "id": 1401,
+    "l1": "Gestion d'Actifs",
+    "l2": "Garde et Règlement",
+    "l3": "Traitement des Opérations sur Titres",
+    "desc": "Gestion de l'impact financier complexe des dividendes, des fractionnements d'actions, des scissions et des fusions sur les avoirs du portefeuille."
+  },
+  {
+    "id": 1402,
+    "l1": "Gestion d'Actifs",
+    "l2": "Garde et Règlement",
+    "l3": "Conservation des Actifs en Coffre-fort",
+    "desc": "Gestion de la garde numérique sécurisée des titres traditionnels et de plus en plus, des actifs cryptographiques et numériques émergents."
+  },
+  {
+    "id": 1403,
+    "l1": "Gestion d'Actifs",
+    "l2": "Rapports aux Clients",
+    "l3": "Génération de Relevés",
+    "desc": "Production de relevés financiers périodiques sécurisés détaillant les avoirs exacts, les données de performance et les frais déduits."
+  },
+  {
+    "id": 1404,
+    "l1": "Gestion d'Actifs",
+    "l2": "Rapports aux Clients",
+    "l3": "Déclarations Fiscales",
+    "desc": "Génération de la documentation nécessaire sur les gains en capital (1099) et l'impôt sur le revenu pour les clients et les organismes de réglementation."
+  },
+  {
+    "id": 1405,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Acquisition de Talents",
+    "l3": "Planification des Effectifs",
+    "desc": "Prévision des besoins en personnel à long terme en fonction des objectifs stratégiques de l'entreprise, de l'expansion du marché et des exigences actuarielles."
+  },
+  {
+    "id": 1406,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Acquisition de Talents",
+    "l3": "Recherche et Recrutement de Candidats",
+    "desc": "Gestion du vivier de candidats externes, exécution d'entretiens structurés et présentation d'offres d'emploi formelles."
+  },
+  {
+    "id": 1407,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Cycle de Vie des Employés",
+    "l3": "Intégration des Employés",
+    "desc": "Fourniture sécurisée des ressources informatiques, exécution des vérifications d'antécédents et orientation des nouvelles recrues vers la culture d'entreprise."
+  },
+  {
+    "id": 1408,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Cycle de Vie des Employés",
+    "l3": "Administration de la Paie",
+    "desc": "Traitement précis de la rémunération des employés, calcul des retenues à la source complexes et gestion des dépôts directs."
+  },
+  {
+    "id": 1409,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Cycle de Vie des Employés",
+    "l3": "Rémunération et Avantages Sociaux",
+    "desc": "Conception et administration de régimes de santé compétitifs, de cotisations équivalentes 401(k) et de primes de performance pour les cadres."
+  },
+  {
+    "id": 1410,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Gestion de la Performance",
+    "l3": "Formation et Développement",
+    "desc": "Gestion de la formation continue en entreprise, de l'octroi de licences obligatoires pour les agents et des parcours de développement du leadership."
+  },
+  {
+    "id": 1411,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Gestion de la Performance",
+    "l3": "Gestion des Objectifs et des Évaluations",
+    "desc": "Exécution systématique d'évaluations de performance cycliques et leur lien direct avec les matrices de rémunération."
+  },
+  {
+    "id": 1412,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Gestion de la Performance",
+    "l3": "Analyse et Planification des Effectifs",
+    "desc": "Utilisation de modèles prédictifs pour analyser la rotation du personnel, les déficits de compétences et optimiser la conception organisationnelle."
+  },
+  {
+    "id": 1413,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Comptabilité Financière",
+    "l3": "Comptes Fournisseurs (AP)",
+    "desc": "Gestion de l'approbation rigoureuse et des sorties de fonds vers les fournisseurs externes, les fournisseurs de logiciels et les partenaires opérationnels."
+  },
+  {
+    "id": 1414,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Comptabilité Financière",
+    "l3": "Comptes Clients (AR)",
+    "desc": "Traitement des flux de trésorerie entrants non liés aux primes et exécution des recouvrements interentreprises (B2B)."
+  },
+  {
+    "id": 1415,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Comptabilité Financière",
+    "l3": "Gestion du Grand Livre",
+    "desc": "Tenue du registre principal immuable de toutes les transactions financières de l'entreprise dans toutes ses filiales et régions."
+  },
+  {
+    "id": 1416,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Finance d'Entreprise",
+    "l3": "Budget et Prévisions",
+    "desc": "Développement de plans opérationnels annuels et modélisation des trajectoires financières futures sur la base d'hypothèses de marché."
+  },
+  {
+    "id": 1417,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Finance d'Entreprise",
+    "l3": "Trésorerie et Gestion de Caisse",
+    "desc": "Gestion de la vaste liquidité de l'entreprise, optimisation du fonds de roulement et traitement des rapprochements bancaires quotidiens."
+  },
+  {
+    "id": 1418,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Finance d'Entreprise",
+    "l3": "Planification Fiscale et Conformité",
+    "desc": "Garantir le strict respect des codes fiscaux fédéraux, étatiques et internationaux complexes afin de minimiser légalement les responsabilités."
+  },
+  {
+    "id": 1419,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Opérations Juridiques",
+    "l3": "Gestion du Cycle de Vie des Contrats",
+    "desc": "Rédaction, négociation et archivage numérique des accords d'entreprise avec les fournisseurs, les technologies et les partenaires stratégiques."
+  },
+  {
+    "id": 1420,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Opérations Juridiques",
+    "l3": "Gestion de la Propriété Intellectuelle",
+    "desc": "Protection des marques de l'entreprise, des brevets algorithmiques exclusifs et des droits d'auteur."
+  },
+  {
+    "id": 1421,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Opérations Juridiques",
+    "l3": "Gestion des Litiges d'Entreprise",
+    "desc": "Supervision des stratégies de défense massives pour les poursuites civiles au niveau de l'entreprise, entièrement distinctes des litiges liés aux réclamations individuelles."
+  },
+  {
+    "id": 1422,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Approvisionnement",
+    "l3": "Gestion des Vendeurs et Fournisseurs",
+    "desc": "Évaluation systématique des fournisseurs tiers, réalisation de demandes de propositions (RFP) et surveillance continue des accords de niveau de service (SLA)."
+  },
+  {
+    "id": 1423,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Approvisionnement",
+    "l3": "Sourcing Stratégique",
+    "desc": "Identification d'énormes opportunités d'économies dans l'acquisition en gros de matériel informatique, de services SaaS et de matériel opérationnel."
+  },
+  {
+    "id": 1424,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Gestion des Installations",
+    "l3": "Gestion de Portefeuille Immobilier",
+    "desc": "Optimisation de l'empreinte physique des vastes sièges sociaux d'entreprise, des pôles régionaux et des bureaux extérieurs locaux."
+  },
+  {
+    "id": 1425,
+    "l1": "Fonctions de l'Entreprise",
+    "l2": "Gestion des Installations",
+    "l3": "Gestion de la Sécurité Physique",
+    "desc": "Assurer la sécurité des employés et des biens physiques par des contrôles d'accès biométriques et une surveillance constante."
+  },
+  {
+    "id": 1426,
+    "l1": "Risque d'Entreprise",
+    "l2": "Gestion des Risques d'Entreprise (ERM)",
+    "l3": "Cadre d'Appétence au Risque",
+    "desc": "Établir et surveiller les tolérances au risque à l'échelle de l'entreprise pour les risques de marché, de crédit, opérationnels et d'assurance."
+  },
+  {
+    "id": 1427,
+    "l1": "Risque d'Entreprise",
+    "l2": "Gestion des Risques d'Entreprise (ERM)",
+    "l3": "Continuité des Affaires",
+    "desc": "Planifier et exécuter la gestion de crise et la reprise après sinistre dans toutes les opérations de l'entreprise."
+  },
+  {
+    "id": 1428,
+    "l1": "Risque d'Entreprise",
+    "l2": "Gestion des Risques d'Entreprise (ERM)",
+    "l3": "Gestion des Risques Tiers",
+    "desc": "Évaluer et atténuer les risques introduits par des fournisseurs externes, des prestataires et des partenaires de l'écosystème."
+  },
+  {
+    "id": 1429,
+    "l1": "Services Généraux",
+    "l2": "Conformité et Éthique",
+    "l3": "Conformité Réglementaire",
+    "desc": "Assurer le respect des réglementations d'assurance mondiales et locales, des lois sur la confidentialité des données et des normes éthiques."
+  },
+  {
+    "id": 1430,
+    "l1": "Services Généraux",
+    "l2": "Audit Interne",
+    "l3": "Opérations d'Audit",
+    "desc": "Mener des évaluations indépendantes des contrôles internes, de la gestion des risques et des processus de gouvernance."
+  },
+  {
+    "id": 1431,
+    "l1": "Services Généraux",
+    "l2": "Stratégie et Développement",
+    "l3": "Planification Stratégique",
+    "desc": "Formuler des stratégies d'entreprise à long terme, des plans de pénétration de marché et un positionnement concurrentiel."
+  },
+  {
+    "id": 1432,
+    "l1": "Services Généraux",
+    "l2": "Stratégie et Développement",
+    "l3": "Fusions et Acquisitions",
+    "desc": "Exécuter l'identification, l'évaluation et l'intégration des entités et des unités commerciales acquises."
+  },
+  {
+    "id": 1433,
+    "l1": "Services Généraux",
+    "l2": "Stratégie et Développement",
+    "l3": "Innovation et R&D",
+    "desc": "Incuber de nouveaux modèles d'affaires, des concepts de produits et des applications technologiques de pointe."
+  },
+  {
+    "id": 1434,
+    "l1": "Services Généraux",
+    "l2": "Stratégie et Développement",
+    "l3": "Gestion ESG",
+    "desc": "Gérer les initiatives environnementales, sociales et de gouvernance, la production de rapports et les stratégies d'investissement durable."
+  },
+  {
+    "id": 1435,
+    "l1": "Gestion Financière",
+    "l2": "Investissements",
+    "l3": "Gestion des Actifs Propres",
+    "desc": "Gérer les immenses actifs du bilan de l'assureur pour garantir la solvabilité et optimiser les rendements."
+  },
+  {
+    "id": 1436,
+    "l1": "Gestion Financière",
+    "l2": "Sciences Actuarielles",
+    "l3": "Analyse Actuarielle d'Entreprise",
+    "desc": "Superviser le provisionnement global de l'entreprise, l'adéquation des fonds propres et la modélisation actuarielle au-delà de la tarification des produits."
+  },
+  {
+    "id": 1437,
+    "l1": "Services Généraux",
+    "l2": "Relations Gouvernementales",
+    "l3": "Affaires Publiques",
+    "desc": "Faire du lobbying et gérer les relations avec les organes législatifs, les régulateurs et les associations professionnelles."
+  },
+  {
+    "id": 1438,
+    "l1": "Services Généraux",
+    "l2": "Opérations Juridiques",
+    "l3": "Gestion des Entités Juridiques",
+    "desc": "Maintenir la structure de l'entreprise, la gouvernance du conseil d'administration et la conformité des filiales dans les différentes juridictions."
+  },
+  {
+    "id": 1439,
+    "l1": "Gestion Informatique",
+    "l2": "Stratégie et Gouvernance Informatique",
+    "l3": "Architecture d'Entreprise",
+    "desc": "Aligner strictement l'intention commerciale avec les feuilles de route technologiques dans les domaines des données, des applications et de la sécurité."
+  },
+  {
+    "id": 1440,
+    "l1": "Gestion Informatique",
+    "l2": "Stratégie et Gouvernance Informatique",
+    "l3": "Gestion de la Demande",
+    "desc": "Évaluer et prioriser rigoureusement les demandes commerciales pour de nouvelles solutions technologiques par le biais d'un entonnoir de gouvernance unique."
+  },
+  {
+    "id": 1441,
+    "l1": "Gestion Informatique",
+    "l2": "Stratégie et Gouvernance Informatique",
+    "l3": "Rationalisation du Portefeuille Informatique",
+    "desc": "Évaluer le cycle de vie des applications de manière continue pour décider de les conserver, de les migrer ou de les éliminer."
+  },
+  {
+    "id": 1442,
+    "l1": "Gestion Informatique",
+    "l2": "Livraison de Solutions",
+    "l3": "Cycle de Vie du Développement Logiciel (SDLC)",
+    "desc": "Gérer des pipelines Agile/DevOps rapides pour créer des applications de souscription personnalisées et des portails front-end."
+  },
+  {
+    "id": 1443,
+    "l1": "Gestion Informatique",
+    "l2": "Livraison de Solutions",
+    "l3": "Assurance Qualité et Tests",
+    "desc": "Exécuter des suites de tests automatisés et manuels massifs pour assurer la fiabilité du code et les performances sous charge."
+  },
+  {
+    "id": 1444,
+    "l1": "Gestion Informatique",
+    "l2": "Gestion des Données",
+    "l3": "Entreposage de Données et Lacs de Données",
+    "desc": "Centraliser les données d'entreprise structurées et non structurées pour un accès transparent et des analyses avancées."
+  },
+  {
+    "id": 1445,
+    "l1": "Gestion Informatique",
+    "l2": "Gestion des Données",
+    "l3": "Gestion des Données de Référence (MDM)",
+    "desc": "Garantir une source de vérité unique et hautement gouvernée pour les entités principales (par ex. Tiers, Police, Actif) sur l'ensemble des systèmes."
+  },
+  {
+    "id": 1446,
+    "l1": "Gestion Informatique",
+    "l2": "Gestion des Données",
+    "l3": "Informatique Décisionnelle (BI)",
+    "desc": "Gérer le vaste écosystème de tableaux de bord de rapports et d'outils de visualisation de données pour la prise de décision par les cadres."
+  },
+  {
+    "id": 1447,
+    "l1": "Gestion Informatique",
+    "l2": "Opérations Informatiques",
+    "l3": "Gestion des Services Informatiques (ITSM)",
+    "desc": "Gérer la fourniture de services matériels, l'assistance informatique (helpdesk) et la stricte application des accords de niveau de service (SLA)."
+  },
+  {
+    "id": 1448,
+    "l1": "Gestion Informatique",
+    "l2": "Opérations Informatiques",
+    "l3": "Gestion d'Infrastructure Cloud",
+    "desc": "Exploiter et faire évoluer les actifs informatiques virtualisés de manière dynamique dans des environnements cloud publics, privés et hybrides."
+  },
+  {
+    "id": 1449,
+    "l1": "Gestion Informatique",
+    "l2": "Opérations Informatiques",
+    "l3": "Gestion des Incidents et des Problèmes",
+    "desc": "Surveiller l'utilisation systémique, résoudre rapidement les pannes de service critiques et identifier les causes profondes cachées."
+  },
+  {
+    "id": 1450,
+    "l1": "Gestion Informatique",
+    "l2": "Sécurité et Risques",
+    "l3": "Gestion des Identités et des Accès",
+    "desc": "Contrôler rigoureusement les autorisations des utilisateurs, le MFA et l'accès au système sur la base de principes de sécurité zéro confiance (Zero Trust)."
+  },
+  {
+    "id": 1451,
+    "l1": "Gestion Informatique",
+    "l2": "Sécurité et Risques",
+    "l3": "Détection des Cybermenaces",
+    "desc": "Surveiller en permanence les réseaux de l'entreprise pour détecter les intrusions, les anomalies et les comportements malveillants."
+  },
+  {
+    "id": 1452,
+    "l1": "Gestion Informatique",
+    "l2": "Sécurité et Risques",
+    "l3": "Continuité d'Activité et Reprise après Sinistre",
+    "desc": "Planifier et exécuter des protocoles de reprise après sinistre massifs pour garantir la disponibilité du système lors d'événements catastrophiques."
+  },
+  {
+    "id": 1453,
+    "l1": "Gestion Informatique",
+    "l2": "Gouvernance des Données",
+    "l3": "Gestion de la Confidentialité des Données",
+    "desc": "Assurer le respect des réglementations mondiales en matière de protection des données et gérer les droits liés aux données individuelles."
+  },
+  {
+    "id": 1454,
+    "l1": "Gestion Informatique",
+    "l2": "Gestion des Connaissances",
+    "l3": "Administration de la Base de Connaissances",
+    "desc": "Curer et structurer les connaissances de l'entreprise pour soutenir à la fois les flux de travail humains et les applications d'IA."
+  },
+  {
+    "id": 1455,
+    "l1": "Gestion Informatique",
+    "l2": "Stratégie et Gouvernance Informatique",
+    "l3": "Gestion du Changement et Transformation",
+    "desc": "Orchestrer les méthodologies de changement organisationnel pour assurer l'adoption réussie des nouvelles technologies."
+  },
+  {
+    "id": 1456,
+    "l1": "IA Agentique",
+    "l2": "Orchestration de l'IA",
+    "l3": "Capture d'Intention et Désambiguïsation",
+    "desc": "Utiliser le NLP avancé pour déchiffrer les requêtes très ambiguës des utilisateurs et déterminer algorithmiquement l'objectif opérationnel requis."
+  },
+  {
+    "id": 1457,
+    "l1": "IA Agentique",
+    "l2": "Orchestration de l'IA",
+    "l3": "Agentification Planificateur-Exécuteur",
+    "desc": "Déconstruire un objectif de haut niveau très large en une série parfaitement séquencée de tâches d'outils automatisés et d'appels d'API."
+  },
+  {
+    "id": 1458,
+    "l1": "IA Agentique",
+    "l2": "Orchestration de l'IA",
+    "l3": "Orchestration Transfrontalière",
+    "desc": "Permettre aux agents IA d'exécuter de manière transparente et sécurisée des tâches à travers des silos d'informations disparates et des systèmes centraux existants."
+  },
+  {
+    "id": 1459,
+    "l1": "IA Agentique",
+    "l2": "Exécution de l'IA",
+    "l3": "Souscription Autonome",
+    "desc": "Exécuter l'enrichissement des données de risque, la vérification complexe de l'appétence et la décision finale via des LLM et des appels de fonctions directs."
+  },
+  {
+    "id": 1460,
+    "l1": "IA Agentique",
+    "l2": "Exécution de l'IA",
+    "l3": "Triage Autonome des Réclamations",
+    "desc": "Extraire un contexte profond des documents bruts FNOL (Premier Avis de Sinistre) pour acheminer dynamiquement les réclamations ou approuver instantanément le traitement direct."
+  },
+  {
+    "id": 1461,
+    "l1": "IA Agentique",
+    "l2": "Exécution de l'IA",
+    "l3": "SDR Numériques (Agents de Vente)",
+    "desc": "Gérer les demandes entrantes, planifier des réunions complexes et exécuter des suivis multicanaux de manière entièrement autonome."
+  },
+  {
+    "id": 1462,
+    "l1": "IA Agentique",
+    "l2": "Exécution de l'IA",
+    "l3": "Extraction de Systèmes Existants",
+    "desc": "Déployer des agents IA pour analyser les mainframes COBOL existants, extraire les règles métier non documentées et générer des cartes de processus."
+  },
+  {
+    "id": 1463,
+    "l1": "Gestion Informatique",
+    "l2": "Gestion des Technologies de Données",
+    "l3": "Gestion de Base de Données Vectorielle",
+    "desc": "Stocker et récupérer rapidement les imbrications mathématiques sémantiques de formulations de polices complexes, de notes de sinistres et de relevés de transactions."
+  },
+  {
+    "id": 1464,
+    "l1": "Gestion Informatique",
+    "l2": "Gestion des Technologies de Données",
+    "l3": "Administration de Graphes de Connaissances",
+    "desc": "Cartographier et maintenir des relations complexes et multidimensionnelles entre les entités (clients, risques, traités) pour soutenir un raisonnement profond."
+  },
+  {
+    "id": 1465,
+    "l1": "IA Agentique",
+    "l2": "Ingénierie de Contexte",
+    "l3": "Génération Augmentée par la Recherche (RAG)",
+    "desc": "Baser les réponses des LLM et les décisions des agents strictement sur des bases de connaissances d'entreprise propriétaires, vérifiées et hautement sécurisées."
+  },
+  {
+    "id": 1466,
+    "l1": "Gestion Informatique",
+    "l2": "Gestion des Technologies de Données",
+    "l3": "Gestion du Magasin de Caractéristiques",
+    "desc": "Gérer et servir les caractéristiques de données modélisées (par ex., scores de propension à la fraude en temps réel) pour une consommation instantanée par les modèles."
+  },
+  {
+    "id": 1467,
+    "l1": "IA Agentique",
+    "l2": "Services Cognitifs",
+    "l3": "Interface Utilisateur Conversationnelle Auto-Adaptative",
+    "desc": "Générer des interfaces dynamiques, sensibles à la persona, qui s'adaptent en permanence en fonction du contexte en temps réel et des données des interactions historiques."
+  },
+  {
+    "id": 1468,
+    "l1": "IA Agentique",
+    "l2": "Services Cognitifs",
+    "l3": "Informatique Visuelle et Vocale",
+    "desc": "Traiter des images haute résolution pour l'estimation instantanée des dommages et synthétiser la parole pour les résumés d'appels automatisés."
+  },
+  {
+    "id": 1469,
+    "l1": "IA Agentique",
+    "l2": "Gouvernance de l'IA",
+    "l3": "Application des Limites",
+    "desc": "Mettre en œuvre des règles strictes, lisibles par machine, qui empêchent techniquement et physiquement un agent IA d'enfreindre les paramètres opérationnels définis."
+  },
+  {
+    "id": 1470,
+    "l1": "IA Agentique",
+    "l2": "Gouvernance de l'IA",
+    "l3": "Escalade Humain-dans-la-Boucle (HITL)",
+    "desc": "Identifier automatiquement les résultats à faible confiance et acheminer les exceptions ou les décisions à haut risque à un analyste humain pour examen immédiat."
+  },
+  {
+    "id": 1471,
+    "l1": "IA Agentique",
+    "l2": "Observabilité de l'IA",
+    "l3": "Lignage de Décision et Provenance",
+    "desc": "Enregistrer avec précision les données étape par étape et les chemins de raisonnement qu'un agent a utilisés pour parvenir à une décision afin de satisfaire aux audits réglementaires stricts."
+  },
+  {
+    "id": 1472,
+    "l1": "IA Agentique",
+    "l2": "Observabilité de l'IA",
+    "l3": "Surveillance de la Dérive des Modèles",
+    "desc": "Évaluer en permanence les performances de l'IA de manière mathématique pour détecter une dégradation de la précision ou l'apparition de biais statistiques."
+  },
+  {
+    "id": 1473,
+    "l1": "IA Agentique",
+    "l2": "Sécurité de l'IA",
+    "l3": "Appel d'Outils Sécurisé (MCP)",
+    "desc": "Gérer l'authentification hautement sécurisée et la sécurité des données lorsque les agents appellent indépendamment des API externes ou exécutent des fonctions internes."
+  },
+  {
+    "id": 1474,
+    "l1": "IA Agentique",
+    "l2": "Sécurité de l'IA",
+    "l3": "Décomposition Préservant la Confidentialité",
+    "desc": "Masquage et tokénisation des attributs PII sensibles dans l'invite/le pipeline de décision pour assurer une sécurité absolue des données et la conformité HIPAA."
+  },
+  {
+    "id": 1475,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Évaluation des Risques de Flotte",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'évaluation des risques de flotte pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1476,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Tarification de la Responsabilité Cybernétique",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de tarification de la responsabilité cybernétique pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1477,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Analyse de Couverture D&O (Dirigeants et Administrateurs)",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'analyse de couverture D&O pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1478,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Triage des Risques liés aux Cargaisons",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de triage des risques liés aux cargaisons pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1479,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Évaluation de la Coque Maritime",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'évaluation de la coque maritime pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1480,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Gestion des Risques Aéronautiques",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de gestion des risques aéronautiques pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1481,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Responsabilité Environnementale",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de responsabilité environnementale pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1482,
+    "l1": "Commercial & Spécialité",
+    "l2": "Souscription Commerciale",
+    "l3": "Risques de Construction / Bâtisseurs",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de risques de construction pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1483,
+    "l1": "Commercial & Spécialité",
+    "l2": "Sinistres Complexes",
+    "l3": "Modélisation des Catastrophes",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de modélisation des catastrophes pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1484,
+    "l1": "Commercial & Spécialité",
+    "l2": "Sinistres Complexes",
+    "l3": "Subrogation de Réassurance",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de subrogation de réassurance pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1485,
+    "l1": "Commercial & Spécialité",
+    "l2": "Sinistres Complexes",
+    "l3": "Ajustement pour Interruption des Affaires",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'ajustement pour interruption des affaires pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1486,
+    "l1": "Commercial & Spécialité",
+    "l2": "Sinistres Complexes",
+    "l3": "Provisionnement des Sinistres Majeurs",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de provisionnement des sinistres majeurs pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1487,
+    "l1": "Commercial & Spécialité",
+    "l2": "Sinistres Complexes",
+    "l3": "Gestion des Litiges Multi-Partites",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de gestion des litiges multi-partites pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1488,
+    "l1": "Commercial & Spécialité",
+    "l2": "Sinistres Complexes",
+    "l3": "Déclencheurs Paramétriques de Réclamation",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de déclencheurs paramétriques de réclamation pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1489,
+    "l1": "Commercial & Spécialité",
+    "l2": "Gestion des Courtiers et Agences",
+    "l3": "Gestion de la Délégation MGA",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de gestion de la délégation MGA (Agents Généraux Délégués) pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1490,
+    "l1": "Commercial & Spécialité",
+    "l2": "Gestion des Courtiers et Agences",
+    "l3": "Conformité des Lignes Excédentaires",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de conformité des lignes excédentaires pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1491,
+    "l1": "Commercial & Spécialité",
+    "l2": "Gestion des Courtiers et Agences",
+    "l3": "Gestion du Capital des Syndicats",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de gestion du capital des syndicats pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1492,
+    "l1": "Commercial & Spécialité",
+    "l2": "Gestion des Courtiers et Agences",
+    "l3": "Niveaux de Commissions des Courtiers",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'échelonnement des commissions des courtiers pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1493,
+    "l1": "Commercial & Spécialité",
+    "l2": "Gestion des Courtiers et Agences",
+    "l3": "Syndication du Marché de Gros",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de syndication du marché de gros pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1494,
+    "l1": "Commercial & Spécialité",
+    "l2": "Contrôle des Risques et Ingénierie",
+    "l3": "Inspection de la Propriété sur Site",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'inspection des biens sur site pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1495,
+    "l1": "Commercial & Spécialité",
+    "l2": "Contrôle des Risques et Ingénierie",
+    "l3": "Évaluation Ergonomique des Lieux de Travail",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'évaluation ergonomique des lieux de travail pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1496,
+    "l1": "Commercial & Spécialité",
+    "l2": "Contrôle des Risques et Ingénierie",
+    "l3": "Analyse de Données de Capteurs IoT",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'analyse de données de capteurs IoT pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1497,
+    "l1": "Commercial & Spécialité",
+    "l2": "Contrôle des Risques et Ingénierie",
+    "l3": "Recommandations de Contrôle des Pertes",
+    "desc": "Capacité d'entreprise avancée gérant les opérations de recommandations de contrôle des pertes pour l'écosystème plus large de Universal Insurance."
+  },
+  {
+    "id": 1498,
+    "l1": "Commercial & Spécialité",
+    "l2": "Contrôle des Risques et Ingénierie",
+    "l3": "Analyse de Vulnérabilité de la Chaîne d'Approvisionnement",
+    "desc": "Capacité d'entreprise avancée gérant les opérations d'analyse de vulnérabilité de la chaîne d'approvisionnement pour l'écosystème plus large de Universal Insurance."
+  }
+]

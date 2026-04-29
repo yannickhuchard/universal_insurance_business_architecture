@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1299,
+    "l1": "P&C",
+    "l2": "Event Insurance",
+    "l3": "Event Cancellation",
+    "desc": "Indemnifies severe financial loss if a major event is canceled due to weather or unforeseen catastrophic causes."
+  },
+  {
+    "id": 1300,
+    "l1": "P&C",
+    "l2": "Event Insurance",
+    "l3": "Prize Indemnity",
+    "desc": "Covers the cost of large promotional prizes (e.g., hole-in-one golf tournaments) if won by a participant."
+  },
+  {
+    "id": 1301,
+    "l1": "P&C",
+    "l2": "Event Insurance",
+    "l3": "Weather Parametric",
+    "desc": "Automated payouts triggered instantly when specific meteorological parameters (e.g., wind speed) are breached."
+  },
+  {
+    "id": 1302,
+    "l1": "P&C",
+    "l2": "Pet Insurance",
+    "l3": "Companion Animal Medical",
+    "desc": "Actuarially modeled reimbursement for veterinary surgical costs for accidents and illnesses in domestic pets."
+  },
+  {
+    "id": 1303,
+    "l1": "P&C",
+    "l2": "Title Insurance",
+    "l3": "Real Estate Title",
+    "desc": "Indemnifies the buyer or lender against financial loss from defects in real property titles or liens."
+  },
+  {
+    "id": 1304,
+    "l1": "P&C",
+    "l2": "Agriculture",
+    "l3": "Crop: Named Peril",
+    "desc": "Covers crop yield losses caused by specific, specifically scheduled weather perils like hail or fire."
+  },
+  {
+    "id": 1305,
+    "l1": "P&C",
+    "l2": "Agriculture",
+    "l3": "Livestock & Bloodstock",
+    "desc": "Mortality and specific peril coverage for farm animals, high-value breeding stock, and racehorses."
+  },
+  {
+    "id": 1306,
+    "l1": "P&C",
+    "l2": "Climate / Parametric",
+    "l3": "Parametric Weather Insurance",
+    "desc": "Index-based coverage paying predetermined amounts when objective weather metrics (e.g., rainfall, temperature) exceed thresholds."
+  },
+  {
+    "id": 1307,
+    "l1": "P&C",
+    "l2": "Climate / Parametric",
+    "l3": "Parametric Earthquake Insurance",
+    "desc": "Pays out rapidly based solely on the recorded magnitude and location of a seismic event, regardless of actual physical damage."
+  },
+  {
+    "id": 1308,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1309,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "10-Year Term Life",
+    "desc": "Pure mortality protection with level premiums mathematically guaranteed for exactly 10 years."
+  },
+  {
+    "id": 1310,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "20-Year Term Life",
+    "desc": "Level premium protection over a two-decade horizon, traditionally utilized for primary mortgage protection."
+  },
+  {
+    "id": 1311,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "Decreasing Term Life",
+    "desc": "Death benefit linearly reduces over time, commonly tied mathematically to an amortizing commercial loan."
+  },
+  {
+    "id": 1312,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "Return of Premium Term",
+    "desc": "Refunds all paid premiums if the insured outlives the specified policy term, requiring unique accounting reserves."
+  },
+  {
+    "id": 1313,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "Annual Renewable Term (ART)",
+    "desc": "One-year term policy guaranteeing renewability, with premiums recalculating and increasing annually based on attained age."
+  },
+  {
+    "id": 1314,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Whole Life (Participating)",
+    "desc": "Lifelong coverage featuring a guaranteed cash value and the potential to earn dividends from the carrier's surplus."
+  },
+  {
+    "id": 1315,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Whole Life (Non-Participating)",
+    "desc": "Lifelong coverage with fully fixed premiums, death benefits, and cash values, assuming no dividend sharing."
+  },
+  {
+    "id": 1316,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Universal Life",
+    "desc": "Highly flexible premium and adjustable death benefit structures with an interest-bearing cash value component."
+  },
+  {
+    "id": 1317,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Indexed Universal Life (IUL)",
+    "desc": "Cash value growth tied algorithmically to a market index (e.g., S&P 500) featuring strict downside protection floors."
+  },
+  {
+    "id": 1318,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Variable Universal Life (VUL)",
+    "desc": "Cash value is actively invested in market sub-accounts, transferring the primary investment risk to the policyholder."
+  },
+  {
+    "id": 1319,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Survivorship (Second-to-Die)",
+    "desc": "Covers two lives simultaneously, paying out only after the second death; heavily utilized in estate tax planning."
+  },
+  {
+    "id": 1320,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Joint Life (First-to-Die)",
+    "desc": "Pays out upon the death of the first of two insured individuals, often used for business continuity planning."
+  },
+  {
+    "id": 1321,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Final Expense (Burial)",
+    "desc": "Small face-value whole life policies designed strictly to cover funeral costs, featuring simplified underwriting."
+  },
+  {
+    "id": 1322,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Guaranteed Issue Life",
+    "desc": "Policies issued entirely without medical underwriting, generally targeted at older, higher-risk demographics."
+  },
+  {
+    "id": 1323,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Group Life",
+    "desc": "Employer-sponsored life insurance issued administratively on a massive master contract basis."
+  },
+  {
+    "id": 1324,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Credit Life",
+    "desc": "Pays off a specific outstanding debt (e.g., auto loan) upon the borrower's death, usually force-placed."
+  },
+  {
+    "id": 1325,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Corporate-Owned Life (COLI)",
+    "desc": "Life insurance purchased by a corporation on key employees to finance executive benefit plans."
+  },
+  {
+    "id": 1326,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Bank-Owned Life (BOLI)",
+    "desc": "Specialized tax-advantaged life insurance purchased by banks to offset the cost of employee benefits."
+  },
+  {
+    "id": 1327,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Fixed Deferred Annuity",
+    "desc": "Guarantees a specific, locked rate of return on the accumulated principal over a set deferral duration."
+  },
+  {
+    "id": 1328,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Variable Deferred Annuity",
+    "desc": "Returns fluctuate continuously based on the daily performance of selected mutual fund sub-accounts."
+  },
+  {
+    "id": 1329,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Fixed Indexed Annuity (FIA)",
+    "desc": "Principal protection with returns mathematically linked to external market indices, capping both upside and downside."
+  },
+  {
+    "id": 1330,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Multi-Year Guarantee Annuity",
+    "desc": "A fixed annuity that offers a mathematically locked-in interest rate for a specific multi-year term (e.g., 3, 5, or 7 years)."
+  },
+  {
+    "id": 1331,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Single Premium Immediate Annuity",
+    "desc": "Converts a lump-sum premium into an irrevocable, mathematically calculated income stream starting immediately."
+  },
+  {
+    "id": 1332,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Deferred Income Annuity (DIA)",
+    "desc": "Locks in future guaranteed income payments that begin at a specific delayed date, mitigating longevity risk."
+  },
+  {
+    "id": 1333,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Joint & Survivor Annuity",
+    "desc": "Lifetime payments that continue uninterrupted until both specified joint annuitants have passed away."
+  },
+  {
+    "id": 1334,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Period Certain Annuity",
+    "desc": "Guaranteed payout payments for a set duration (e.g., 20 years), which continue to heirs even if the annuitant dies."
+  },
+  {
+    "id": 1335,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Qualified Longevity Annuity (QLAC)",
+    "desc": "Specialized deferred annuity funded from a qualified retirement plan to delay required minimum distributions (RMDs)."
+  },
+  {
+    "id": 1336,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Simplified Issue Life",
+    "desc": "Life insurance issued quickly with no medical exam, relying instead on health questionnaires and prescription databases."
+  },
+  {
+    "id": 1337,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Group Universal Life (GUL)",
+    "desc": "Employer-sponsored universal life insurance combining term protection with an optional, employee-funded savings component."
+  },
+  {
+    "id": 1338,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Terminal Illness / Accelerated Death Rider",
+    "desc": "Allows the insured to receive a portion of the death benefit early if diagnosed with a qualifying terminal illness."
+  },
+  {
+    "id": 1339,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Accidental Death Rider",
+    "desc": "Provides an additional, supplemental death benefit if the insured's death is the direct result of a covered accident."
+  },
+  {
+    "id": 1340,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Market Value Adjusted Annuity (MVA)",
+    "desc": "A fixed annuity where early withdrawals are subject to a positive or negative adjustment based on prevailing interest rate movements."
+  },
+  {
+    "id": 1341,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Registered Index-Linked Annuity (RILA)",
+    "desc": "A complex annuity blending features of indexed and variable products, exposing the owner to some downside risk for higher upside potential."
+  },
+  {
+    "id": 1342,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1343,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Individual Major Medical",
+    "desc": "Comprehensive coverage for hospital, surgical, and preventative care for individuals without employer coverage."
+  },
+  {
+    "id": 1344,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Group Health (Employer)",
+    "desc": "Sponsored healthcare coverage managed administratively through a corporate enterprise master policy."
+  },
+  {
+    "id": 1345,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Health Maintenance Org. (HMO)",
+    "desc": "Restrictive network plans requiring a primary care physician gatekeeper and offering minimal out-of-network benefits."
+  },
+  {
+    "id": 1346,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Preferred Provider Org. (PPO)",
+    "desc": "Flexible plans allowing insureds to see out-of-network specialists without referrals, subject to higher deductibles."
+  },
+  {
+    "id": 1347,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "High-Deductible Health Plan",
+    "desc": "Health plans pairing exceptionally low premiums with tax-advantaged Health Savings Accounts (HSAs)."
+  },
+  {
+    "id": 1348,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Short-Term Health Insurance",
+    "desc": "Temporary, limited-duration coverage designed to bridge gaps between major medical plan enrollments."
+  },
+  {
+    "id": 1349,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicare Advantage (Part C)",
+    "desc": "Private managed care alternative to Original Medicare, often bundling prescription and dental benefits."
+  },
+  {
+    "id": 1350,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicare Supplement (Medigap)",
+    "desc": "Private insurance specifically covering out-of-pocket costs and deductibles not covered by Original Medicare."
+  },
+  {
+    "id": 1351,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicare Part D (Prescription)",
+    "desc": "Standalone federally regulated plans designed strictly for outpatient prescription drug coverage."
+  },
+  {
+    "id": 1352,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicaid Managed Care",
+    "desc": "State-contracted private health administration for low-income and disabled populations."
+  },
+  {
+    "id": 1353,
+    "l1": "Health",
+    "l2": "Income Protection",
+    "l3": "Short-Term Disability",
+    "desc": "Replaces a portion of income for temporary inability to work (e.g., 3-6 months) due to non-work injuries."
+  },
+  {
+    "id": 1354,
+    "l1": "Health",
+    "l2": "Income Protection",
+    "l3": "Long-Term Disability",
+    "desc": "Sustained income replacement for severe, lasting occupational incapacitation extending for years."
+  },
+  {
+    "id": 1355,
+    "l1": "Health",
+    "l2": "Income Protection",
+    "l3": "Statutory Disability Benefits",
+    "desc": "State-mandated coverage specifically for non-occupational injuries, illnesses, and pregnancy."
+  },
+  {
+    "id": 1356,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Critical Illness Insurance",
+    "desc": "Lump-sum financial payout triggered upon the verified diagnosis of specific severe conditions like cancer or stroke."
+  },
+  {
+    "id": 1357,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Accidental Death & Dismemberment",
+    "desc": "Specific indemnification for severe bodily injuries or death resulting directly and solely from accidents."
+  },
+  {
+    "id": 1358,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Long-Term Care (LTC)",
+    "desc": "Covers extensive custodial care costs in nursing homes, assisted living facilities, or home care scenarios."
+  },
+  {
+    "id": 1359,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Dental Insurance",
+    "desc": "Standalone coverage for preventative maintenance, basic procedures, and major restorative dental work."
+  },
+  {
+    "id": 1360,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Vision Insurance",
+    "desc": "Standalone coverage for optical eye exams, corrective lenses, and specialized optical care."
+  },
+  {
+    "id": 1361,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Hospital Indemnity",
+    "desc": "Pays a predetermined fixed cash benefit for each day the insured is confined to a hospital."
+  },
+  {
+    "id": 1362,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Travel Medical",
+    "desc": "Specialized short-term health coverage for medical emergencies occurring while traveling internationally."
+  },
+  {
+    "id": 1363,
+    "l1": "Health",
+    "l2": "Institutional",
+    "l3": "Provider Excess Stop Loss",
+    "desc": "Protects self-funded healthcare entities and hospital systems against catastrophic individual patient claims."
+  },
+  {
+    "id": 1364,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Critical Illness / Specified Disease (Group)",
+    "desc": "Employer-sponsored lump-sum coverage for severe disease diagnoses, facilitating financial stability during recovery."
+  },
+  {
+    "id": 1365,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Hospital Indemnity (Group)",
+    "desc": "Employer-sponsored fixed daily cash benefits for hospital confinements to offset high medical deductibles."
+  },
+  {
+    "id": 1366,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Cancer Insurance",
+    "desc": "Standalone policy specifically focused on covering the extensive out-of-pocket costs associated with oncology treatments."
+  },
+  {
+    "id": 1367,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Expatriate Health Insurance",
+    "desc": "Comprehensive major medical coverage tailored for employees working outside their home country on long-term assignments."
+  },
+  {
+    "id": 1368,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Student Health Insurance",
+    "desc": "Sponsored medical coverage designed for domestic and international students enrolled at universities."
+  },
+  {
+    "id": 1369,
+    "l1": "Health",
+    "l2": "Institutional",
+    "l3": "Stop Loss: Specific (Employer)",
+    "desc": "Protects self-funded employer health plans against massive individual claims exceeding a specific dollar threshold."
+  },
+  {
+    "id": 1370,
+    "l1": "Health",
+    "l2": "Institutional",
+    "l3": "Stop Loss: Aggregate (Employer)",
+    "desc": "Protects self-funded employer health plans against the total portfolio of claims exceeding an expected cumulative threshold."
+  },
+  {
+    "id": 1371,
+    "l1": "Health",
+    "l2": "Specialized",
+    "l3": "Hybrid Life / Long-Term Care",
+    "desc": "Combines a permanent life insurance death benefit with an accelerated rider specifically reserved for long-term care expenses."
+  },
+  {
+    "id": 1372,
+    "l1": "Health",
+    "l2": "Specialized",
+    "l3": "Credit Disability Insurance",
+    "desc": "Pays the monthly minimum on specific debts or loans if the borrower becomes totally disabled and unable to work."
+  },
+  {
+    "id": 1373,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product / Service",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1374,
+    "l1": "Ancillary",
+    "l2": "Roadside & Mobility",
+    "l3": "Roadside Assistance",
+    "desc": "Dispatch services for towing, battery jumps, and lockouts, often integrated via APIs with third-party networks."
+  },
+  {
+    "id": 1375,
+    "l1": "Ancillary",
+    "l2": "Roadside & Mobility",
+    "l3": "Rental Car Reimbursement",
+    "desc": "Direct payment to rental agencies to provide temporary transportation while a damaged vehicle is repaired."
+  },
+  {
+    "id": 1376,
+    "l1": "Ancillary",
+    "l2": "Risk Engineering",
+    "l3": "Loss Control Consulting",
+    "desc": "Expert safety inspections, ergonomic assessments, and hazard mitigation training provided to commercial clients."
+  },
+  {
+    "id": 1377,
+    "l1": "Ancillary",
+    "l2": "Risk Engineering",
+    "l3": "IoT Structural Monitoring",
+    "desc": "Deploying smart sensors to commercial properties for real-time detection of water leaks or structural stress."
+  },
+  {
+    "id": 1378,
+    "l1": "Ancillary",
+    "l2": "Cyber Services",
+    "l3": "Security Awareness Training",
+    "desc": "Offering phishing simulations and cyber hygiene courses to commercial insureds to proactively reduce breach risk."
+  },
+  {
+    "id": 1379,
+    "l1": "Ancillary",
+    "l2": "Cyber Services",
+    "l3": "Dark Web Monitoring",
+    "desc": "Continuous scanning of illicit marketplaces for compromised credentials or PII belonging to the insured."
+  },
+  {
+    "id": 1380,
+    "l1": "Ancillary",
+    "l2": "Health & Wellness",
+    "l3": "Telehealth Services",
+    "desc": "Providing policyholders with 24/7 on-demand digital access to medical professionals for minor consultations."
+  },
+  {
+    "id": 1381,
+    "l1": "Ancillary",
+    "l2": "Health & Wellness",
+    "l3": "Wellness Rewards Programs",
+    "desc": "Incentivizing healthy behaviors (e.g., hitting step goals via wearables) with premium discounts or gift cards."
+  },
+  {
+    "id": 1382,
+    "l1": "Ancillary",
+    "l2": "Legal Services",
+    "l3": "Prepaid Legal Plans",
+    "desc": "Retainer-based access to legal consultation, document review, and limited representation for individuals or businesses."
+  },
+  {
+    "id": 1383,
+    "l1": "Wealth Mgmt",
+    "l2": "Client Acquisition",
+    "l3": "Lead Generation & Scoring",
+    "desc": "Identifying and tracking high-net-worth prospects through sophisticated digital marketing pipelines and CRM tools.10"
+  },
+  {
+    "id": 1384,
+    "l1": "Wealth Mgmt",
+    "l2": "Client Acquisition",
+    "l3": "Client Onboarding & KYC",
+    "desc": "Digitizing the secure intake process, including Identity Management, biometric verification, and \"Know Your Customer\" protocols.6"
+  },
+  {
+    "id": 1385,
+    "l1": "Wealth Mgmt",
+    "l2": "Advisory Services",
+    "l3": "Financial Needs Analysis",
+    "desc": "Comprehensively assessing a client's total financial picture, risk tolerance, estate plans, and retirement goals.46"
+  },
+  {
+    "id": 1386,
+    "l1": "Wealth Mgmt",
+    "l2": "Advisory Services",
+    "l3": "Multi-Goal Scenario Planning",
+    "desc": "Simulating various macroeconomic market conditions to stochastically stress-test the viability of retirement plans."
+  },
+  {
+    "id": 1387,
+    "l1": "Wealth Mgmt",
+    "l2": "Portfolio Construction",
+    "l3": "Asset Allocation",
+    "desc": "Determining the optimal mathematical mix of global equities, fixed income, and alternative investments based on risk profiles."
+  },
+  {
+    "id": 1388,
+    "l1": "Wealth Mgmt",
+    "l2": "Portfolio Construction",
+    "l3": "Direct Indexing",
+    "desc": "Replicating broad market indices within individual portfolios while harvesting losses in a highly tax-efficient manner.2"
+  },
+  {
+    "id": 1389,
+    "l1": "Wealth Mgmt",
+    "l2": "Order Management",
+    "l3": "Trade Generation",
+    "desc": "Translating high-level asset allocation decisions and rebalancing needs into specific, executable market orders.10"
+  },
+  {
+    "id": 1390,
+    "l1": "Wealth Mgmt",
+    "l2": "Order Management",
+    "l3": "Pre-Trade Compliance",
+    "desc": "Systematically ensuring proposed trades do not violate specific client mandates, ESG requirements, or regulatory restrictions."
+  },
+  {
+    "id": 1391,
+    "l1": "Asset Mgmt",
+    "l2": "Risk Management",
+    "l3": "Market Risk Analytics",
+    "desc": "Calculating complex metrics like Value at Risk (VaR) and exposure to systemic global market volatility scenarios.10"
+  },
+  {
+    "id": 1392,
+    "l1": "Asset Mgmt",
+    "l2": "Risk Management",
+    "l3": "Credit & Counterparty Risk",
+    "desc": "Assessing the statistical likelihood of default by trading partners, bond issuers, or derivative counterparties."
+  },
+  {
+    "id": 1393,
+    "l1": "Asset Mgmt",
+    "l2": "Compliance Monitoring",
+    "l3": "Post-Trade Compliance",
+    "desc": "Auditing executed trades retroactively against internal risk policies and external regulatory frameworks (e.g., SEC, MiFID II).10"
+  },
+  {
+    "id": 1394,
+    "l1": "Asset Mgmt",
+    "l2": "Compliance Monitoring",
+    "l3": "AML / Sanctions Screening",
+    "desc": "Continuously screening global asset flows against Anti-Money Laundering databases and OFAC sanctions lists."
+  },
+  {
+    "id": 1395,
+    "l1": "Asset Mgmt",
+    "l2": "Performance Analytics",
+    "l3": "Return Attribution",
+    "desc": "Dissecting portfolio returns mathematically to isolate the impact of strategic asset allocation versus tactical stock selection."
+  },
+  {
+    "id": 1396,
+    "l1": "Asset Mgmt",
+    "l2": "Performance Analytics",
+    "l3": "Benchmark Comparison",
+    "desc": "Measuring the portfolio's absolute and risk-adjusted return against relevant market indices (e.g., S\\&P 500, MSCI World)."
+  },
+  {
+    "id": 1397,
+    "l1": "Asset Mgmt",
+    "l2": "Trade Support",
+    "l3": "Trade Matching & Confirmation",
+    "desc": "Reconciling executed trade details rapidly with external brokers and clearing counterparties prior to final settlement."
+  },
+  {
+    "id": 1398,
+    "l1": "Asset Mgmt",
+    "l2": "Fund Accounting",
+    "l3": "Net Asset Value (NAV) Calc.",
+    "desc": "Computing the daily per-share value of mutual funds and investment vehicles with extreme precision."
+  }
+]

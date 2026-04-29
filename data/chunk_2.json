@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1199,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Auto Comprehensive",
+    "desc": "Coverage for vehicle damage arising from non-collision events, including theft, severe weather, and vandalism."
+  },
+  {
+    "id": 1200,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Uninsured/Underinsured Motorist",
+    "desc": "Protection for the insured against damages and medical costs caused by at-fault drivers lacking adequate insurance."
+  },
+  {
+    "id": 1201,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Injury Protection (PIP)",
+    "desc": "No-fault medical, rehabilitation, and wage-loss coverage for the insured driver and passengers regardless of liability."
+  },
+  {
+    "id": 1202,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Antique/Classic Auto",
+    "desc": "Agreed-value physical damage coverage for collectible vehicles driven on a limited basis."
+  },
+  {
+    "id": 1203,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Usage-Based Insurance (UBI) / Telematics",
+    "desc": "Dynamic premium rating based on real-time driving behavior data captured via mobile apps or IoT devices."
+  },
+  {
+    "id": 1204,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Owner-Occupied Homeowners (HO-3)",
+    "desc": "Standard open-peril property coverage for residential dwellings, appurtenant structures, and personal property."
+  },
+  {
+    "id": 1205,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Renters Insurance (HO-4)",
+    "desc": "Coverage limited to personal property and personal liability for tenants occupying leased residential spaces."
+  },
+  {
+    "id": 1206,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Condominium Owners (HO-6)",
+    "desc": "\"Walls-in\" property and liability coverage uniquely tailored for condominium unit owners and their internal fixtures."
+  },
+  {
+    "id": 1207,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Mobile Homeowners (HO-7)",
+    "desc": "Specialized property coverage requiring unique valuation models for manufactured homes situated at fixed locations."
+  },
+  {
+    "id": 1208,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Older Home (HO-8)",
+    "desc": "Coverage for older homes where replacement cost vastly exceeds market value, using functional replacement valuation."
+  },
+  {
+    "id": 1209,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "High-Value Homeowners",
+    "desc": "Bespoke coverage forms and valuation models for luxury residential properties exceeding standard insurance market values."
+  },
+  {
+    "id": 1210,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Comprehensive Personal Liability",
+    "desc": "Standalone non-business liability protection for individuals and family members against civil litigation."
+  },
+  {
+    "id": 1211,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Personal Umbrella Liability",
+    "desc": "Excess liability coverage extending limits exponentially beyond underlying primary auto and homeowner policies."
+  },
+  {
+    "id": 1212,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Scheduled Personal Property",
+    "desc": "Specific, appraised all-risk coverage for high-value items like jewelry, fine art, and collectibles."
+  },
+  {
+    "id": 1213,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Identity Theft Protection",
+    "desc": "Reimburses expenses incurred to restore a stolen identity, including legal fees and lost wages."
+  },
+  {
+    "id": 1214,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Home Cyber Protection",
+    "desc": "Coverage for personal data breaches, cyber extortion, and online fraud affecting home networks."
+  },
+  {
+    "id": 1215,
+    "l1": "P&C",
+    "l2": "Recreational",
+    "l3": "Motorcycle / ATV",
+    "desc": "Specialized physical damage and liability rating models for two-wheeled and off-road vehicles."
+  },
+  {
+    "id": 1216,
+    "l1": "P&C",
+    "l2": "Recreational",
+    "l3": "Boat/Watercraft",
+    "desc": "Navigational coverage for physical hull damage and marine liability for personal watercraft."
+  },
+  {
+    "id": 1217,
+    "l1": "P&C",
+    "l2": "Recreational",
+    "l3": "Recreational Vehicle (RV)",
+    "desc": "Blends personal auto and homeowners characteristics for motorhomes and travel trailers."
+  },
+  {
+    "id": 1218,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Scheduled Personal Property",
+    "desc": "Specific, itemized coverage for high-value items like jewelry, fine art, and collectibles without standard limits."
+  },
+  {
+    "id": 1219,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Earthquake (Personal)",
+    "desc": "Specific peril coverage for dwelling and contents damage caused by seismic activity."
+  },
+  {
+    "id": 1220,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Private Flood Insurance",
+    "desc": "Non-federal (private market) flood coverage offering higher limits or broader terms than the NFIP."
+  },
+  {
+    "id": 1221,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "RV / Motorhome Insurance",
+    "desc": "Specialized auto and dwelling hybrid coverage for recreational vehicles and motorhomes."
+  },
+  {
+    "id": 1222,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Motorcycle Insurance",
+    "desc": "Liability and physical damage coverage specifically tailored for two-wheeled motorized vehicles."
+  },
+  {
+    "id": 1223,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "ATV / Off-Road Vehicle Insurance",
+    "desc": "Specialized coverage for all-terrain vehicles, dirt bikes, and recreational off-road utility vehicles."
+  },
+  {
+    "id": 1224,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Snowmobile Insurance",
+    "desc": "Liability and physical damage coverage specifically tailored for winter recreational snowmobiles."
+  },
+  {
+    "id": 1225,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Boat / Personal Watercraft",
+    "desc": "Marine liability and hull coverage for personal pleasure craft and jet skis."
+  },
+  {
+    "id": 1226,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Yacht Insurance",
+    "desc": "Broader navigational limits and higher liability coverage for luxury personal marine vessels."
+  },
+  {
+    "id": 1227,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Classic / Collector Car Insurance",
+    "desc": "Agreed-value physical damage coverage with strict mileage and usage restrictions for vintage automobiles."
+  },
+  {
+    "id": 1228,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Aviation: Private Pilot Insurance",
+    "desc": "Hull and liability coverage for personal, non-commercial light aircraft and recreational pilots."
+  },
+  {
+    "id": 1229,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Identity Theft Protection",
+    "desc": "Reimburses expenses incurred restoring a stolen identity and provides credit monitoring services."
+  },
+  {
+    "id": 1230,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Home Warranty",
+    "desc": "Service contracts covering the repair or replacement of major home systems and appliances due to normal wear and tear."
+  },
+  {
+    "id": 1231,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Landlord / Dwelling Fire (DP-1/2/3)",
+    "desc": "Coverage for non-owner-occupied residential rental properties ranging from basic to special form perils."
+  },
+  {
+    "id": 1232,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Travel Insurance (Personal/Leisure)",
+    "desc": "Reimburses non-refundable trip costs for cancellations, interruptions, and lost baggage."
+  },
+  {
+    "id": 1233,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Cyber Insurance (Personal)",
+    "desc": "Protection against online extortion, cyberbullying, and financial fraud targeting individuals and families."
+  },
+  {
+    "id": 1234,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1235,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Equipment Floater",
+    "desc": "Coverage for mobile machinery, tools, and heavy equipment that continuously moves between various job sites."
+  },
+  {
+    "id": 1236,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Jewelers' Block",
+    "desc": "Comprehensive, high-security coverage tailored specifically for jewelry retailers, wholesalers, and manufacturers."
+  },
+  {
+    "id": 1237,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Fine Arts & Specie",
+    "desc": "Specialized, appraised protection for museums, galleries, and exceptionally high-value private collections."
+  },
+  {
+    "id": 1238,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Electronic Data Processing (EDP)",
+    "desc": "Protects enterprise computing hardware, software infrastructure, and raw data assets from physical destruction."
+  },
+  {
+    "id": 1239,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Animal Mortality",
+    "desc": "Specific death benefit insurance policies for high-value livestock, racehorses, and breeding animals."
+  },
+  {
+    "id": 1240,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Builders Risk / Installation Floater",
+    "desc": "Property coverage for materials and fixtures being installed at a commercial or residential site."
+  },
+  {
+    "id": 1241,
+    "l1": "Specialty",
+    "l2": "Ocean Marine",
+    "l3": "Hull Insurance",
+    "desc": "Physical damage coverage for commercial shipping vessels, barges, and large-scale watercraft."
+  },
+  {
+    "id": 1242,
+    "l1": "Specialty",
+    "l2": "Ocean Marine",
+    "l3": "Marine Cargo",
+    "desc": "Indemnification for high-value goods lost, stolen, or damaged during complex international sea transits."
+  },
+  {
+    "id": 1243,
+    "l1": "Specialty",
+    "l2": "Ocean Marine",
+    "l3": "Protection and Indemnity (P&I)",
+    "desc": "Broad, specialized marine liability coverage for vessel owners, operators, and maritime employers."
+  },
+  {
+    "id": 1244,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Directors & Officers (D&O)",
+    "desc": "Protects corporate executives and board members against civil legal action arising from managerial decisions."
+  },
+  {
+    "id": 1245,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Errors & Omissions (E&O)",
+    "desc": "Covers specialized professionals (e.g., architects, software engineers) for financial loss caused by service negligence."
+  },
+  {
+    "id": 1246,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Employment Practices Liab (EPLI)",
+    "desc": "Defense and indemnification against wrongful termination, discrimination, and sexual harassment claims."
+  },
+  {
+    "id": 1247,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Fiduciary Liability",
+    "desc": "Protection for corporate plan administrators against ERISA-related mismanagement claims regarding retirement funds."
+  },
+  {
+    "id": 1248,
+    "l1": "Specialty",
+    "l2": "Cyber Liability",
+    "l3": "Data Breach Response",
+    "desc": "Covers digital forensics, mandated public notification, and credit monitoring costs post-breach."
+  },
+  {
+    "id": 1249,
+    "l1": "Specialty",
+    "l2": "Cyber Liability",
+    "l3": "Ransomware & Cyber Extortion",
+    "desc": "Reimburses costs and negotiation fees associated with mitigating digital extortion and ransomware threats."
+  },
+  {
+    "id": 1250,
+    "l1": "Specialty",
+    "l2": "Cyber Liability",
+    "l3": "Network Security Liability",
+    "desc": "Covers third-party claims arising from a failure to secure the enterprise network from malware or unauthorized access."
+  },
+  {
+    "id": 1251,
+    "l1": "Specialty",
+    "l2": "Medical Malpractice",
+    "l3": "Hospital MedMal",
+    "desc": "Institutional liability coverage for clinical negligence at large-scale healthcare facilities and networks."
+  },
+  {
+    "id": 1252,
+    "l1": "Specialty",
+    "l2": "Medical Malpractice",
+    "l3": "Physician/Surgeon MedMal",
+    "desc": "Individual professional liability for medical practitioners, available as Claims-Made or Occurrence triggers."
+  },
+  {
+    "id": 1253,
+    "l1": "Specialty",
+    "l2": "Medical Malpractice",
+    "l3": "Allied Health Professional Liab.",
+    "desc": "Coverage for non-physician healthcare providers such as nurses, physical therapists, and pharmacists."
+  },
+  {
+    "id": 1254,
+    "l1": "Specialty",
+    "l2": "Financial Guaranty",
+    "l3": "Mortgage Guaranty",
+    "desc": "Protects financial lenders against borrower default on high-LTV residential and commercial mortgages."
+  },
+  {
+    "id": 1255,
+    "l1": "Specialty",
+    "l2": "Financial Guaranty",
+    "l3": "Surety Bonds (Contract)",
+    "desc": "Financial instruments (bid, performance, payment) guaranteeing the fulfillment of construction obligations."
+  },
+  {
+    "id": 1256,
+    "l1": "Specialty",
+    "l2": "Financial Guaranty",
+    "l3": "Surety Bonds (Commercial)",
+    "desc": "License and permit bonds required by government entities for business operations."
+  },
+  {
+    "id": 1257,
+    "l1": "Specialty",
+    "l2": "Aviation & Space",
+    "l3": "Aircraft Hull & Liability",
+    "desc": "Comprehensive risk transfer mechanisms for commercial airlines and private aviation physical assets."
+  },
+  {
+    "id": 1258,
+    "l1": "Specialty",
+    "l2": "Aviation & Space",
+    "l3": "Satellite & Space Insurance",
+    "desc": "Covers catastrophic launch failures and in-orbit operational anomalies for commercial space assets."
+  },
+  {
+    "id": 1259,
+    "l1": "Specialty",
+    "l2": "Aviation & Space",
+    "l3": "Drone / UAV Liability",
+    "desc": "Specialized liability and physical damage coverage for commercial unmanned aerial vehicles."
+  },
+  {
+    "id": 1260,
+    "l1": "Specialty",
+    "l2": "Crisis Management",
+    "l3": "Product Recall",
+    "desc": "Covers immense logistics, communications, and brand rehabilitation costs following a product safety recall."
+  },
+  {
+    "id": 1261,
+    "l1": "Specialty",
+    "l2": "Crisis Management",
+    "l3": "Kidnap & Ransom (K&R)",
+    "desc": "Reimburses ransom payments, extortion costs, and specialized crisis consulting for corporate executives."
+  },
+  {
+    "id": 1262,
+    "l1": "Specialty",
+    "l2": "Crisis Management",
+    "l3": "Terrorism & Political Violence",
+    "desc": "Property damage and severe business interruption coverage necessitated by politically motivated attacks."
+  },
+  {
+    "id": 1263,
+    "l1": "Specialty",
+    "l2": "Environmental",
+    "l3": "Pollution Legal Liability (PLL)",
+    "desc": "Covers cleanup costs, third-party bodily injury, and property damage resulting from pollution conditions."
+  },
+  {
+    "id": 1264,
+    "l1": "Specialty",
+    "l2": "Environmental",
+    "l3": "Contractors Pollution Liability (CPL)",
+    "desc": "Protects contractors against pollution claims arising from their operations at a job site."
+  },
+  {
+    "id": 1265,
+    "l1": "P&C",
+    "l2": "Cyber Liability",
+    "l3": "Cyber Liability (First-Party)",
+    "desc": "Reimburses the insured for direct costs of a breach, including forensics, notification, and ransomware payments."
+  },
+  {
+    "id": 1266,
+    "l1": "P&C",
+    "l2": "Cyber Liability",
+    "l3": "Cyber Liability (Third-Party)",
+    "desc": "Covers defense and settlement costs for lawsuits from clients or partners harmed by the insured's data breach."
+  },
+  {
+    "id": 1267,
+    "l1": "P&C",
+    "l2": "Cyber Liability",
+    "l3": "Parametric Cyber Insurance",
+    "desc": "Trigger-based coverage paying a set amount automatically upon a verified cyber event, like prolonged cloud downtime."
+  },
+  {
+    "id": 1268,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Fiduciary Liability",
+    "desc": "Protects fiduciaries and trustees of employee benefit plans against claims of mismanagement or breach of duty."
+  },
+  {
+    "id": 1269,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Trade Credit / Export Credit",
+    "desc": "Protects accounts receivable from non-payment due to insolvency, prolonged default, or political risk."
+  },
+  {
+    "id": 1270,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Representations & Warranties (M&A)",
+    "desc": "Protects buyers or sellers in M&A transactions against breaches of representations made in the purchase agreement."
+  },
+  {
+    "id": 1271,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Tax Indemnity Insurance",
+    "desc": "Protects against the financial consequences of a tax authority challenging a specific, disclosed tax position."
+  },
+  {
+    "id": 1272,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Title Insurance (Commercial)",
+    "desc": "Indemnifies commercial real estate owners and lenders against loss arising from unknown defects in property titles."
+  },
+  {
+    "id": 1273,
+    "l1": "P&C",
+    "l2": "Professional Liability",
+    "l3": "Media Liability",
+    "desc": "Specialized E&O covering publishers and broadcasters against defamation, plagiarism, and copyright infringement."
+  },
+  {
+    "id": 1274,
+    "l1": "P&C",
+    "l2": "Professional Liability",
+    "l3": "Technology Errors & Omissions",
+    "desc": "Protects tech companies against claims of financial loss due to software failures, downtime, or implementation errors."
+  },
+  {
+    "id": 1275,
+    "l1": "P&C",
+    "l2": "Specialty Casualty",
+    "l3": "Environmental Impairment / Pollution",
+    "desc": "Covers site cleanup costs and third-party bodily injury/property damage arising from pollution events."
+  },
+  {
+    "id": 1276,
+    "l1": "P&C",
+    "l2": "Specialty Casualty",
+    "l3": "Contingency: Prize Indemnity",
+    "desc": "Insures the payout of large promotional prizes (e.g., hole-in-one, half-court shot) if successfully claimed."
+  },
+  {
+    "id": 1277,
+    "l1": "P&C",
+    "l2": "Specialty Casualty",
+    "l3": "Contingency: Over-redemption",
+    "desc": "Protects retailers and marketers from financial losses if promotional coupons or rebates are redeemed at higher-than-expected rates."
+  },
+  {
+    "id": 1278,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Bid Bonds",
+    "desc": "Guarantees that a contractor bidding on a project will enter into the contract and provide performance bonds if awarded."
+  },
+  {
+    "id": 1279,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Performance Bonds",
+    "desc": "Guarantees the completion of a construction contract according to its terms and specifications."
+  },
+  {
+    "id": 1280,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Payment Bonds",
+    "desc": "Guarantees that the contractor will pay all subcontractors and material suppliers on the project."
+  },
+  {
+    "id": 1281,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Ancillary Bonds",
+    "desc": "Miscellaneous surety bonds such as customs bonds, license and permit bonds, or court bonds."
+  },
+  {
+    "id": 1282,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Contractor's Equipment",
+    "desc": "Broad physical damage coverage for mobile heavy machinery and tools used in contracting operations."
+  },
+  {
+    "id": 1283,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Transit / Transportation",
+    "desc": "Covers property while actively in the course of transit by rail, truck, or air."
+  },
+  {
+    "id": 1284,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Bailee's Customer",
+    "desc": "Covers the insured's liability for damage to customer property left in their care, custody, or control."
+  },
+  {
+    "id": 1285,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Installation Floater",
+    "desc": "Covers machinery and materials intended for installation at a job site until the work is accepted."
+  },
+  {
+    "id": 1286,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Riggers Liability",
+    "desc": "Specialized liability for the unique risks of lifting, hoisting, and moving heavy property of others."
+  },
+  {
+    "id": 1287,
+    "l1": "P&C",
+    "l2": "Ocean Marine",
+    "l3": "Ocean Marine: Freight Insurance",
+    "desc": "Covers the financial loss of shipping freight revenue if a vessel is unable to complete its voyage."
+  },
+  {
+    "id": 1288,
+    "l1": "P&C",
+    "l2": "Aviation",
+    "l3": "Aviation: Hangar-keepers Liability",
+    "desc": "Bailee coverage protecting aviation facilities from liability for damage to non-owned aircraft stored in their hangars."
+  },
+  {
+    "id": 1289,
+    "l1": "P&C",
+    "l2": "Aviation",
+    "l3": "Aviation: Non-Owned Aircraft",
+    "desc": "Liability coverage for corporations chartering or renting aircraft they do not own."
+  },
+  {
+    "id": 1290,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1291,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Multiple Peril Crop Insurance (MPCI)",
+    "desc": "Federally reinsured coverage protecting farmers against systemic agricultural risks like widespread drought."
+  },
+  {
+    "id": 1292,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Crop-Hail",
+    "desc": "Private market, non-subsidized coverage specifically for highly localized hail and fire damage to yields."
+  },
+  {
+    "id": 1293,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Crop Revenue Coverage (CRC)",
+    "desc": "Protects agricultural producers against combined yield physical losses and severe commodity price fluctuations."
+  },
+  {
+    "id": 1294,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Pasture, Rangeland, and Forage",
+    "desc": "Parametric insurance indexed to rainfall levels to protect livestock producers' feed sources."
+  },
+  {
+    "id": 1295,
+    "l1": "P&C",
+    "l2": "Flood Insurance",
+    "l3": "Federal Flood (NFIP)",
+    "desc": "Primary property flood coverage backed and managed by government programs requiring strict compliance reporting."
+  },
+  {
+    "id": 1296,
+    "l1": "P&C",
+    "l2": "Flood Insurance",
+    "l3": "Private Residential Flood",
+    "desc": "Non-NFIP primary flood coverage offering higher limits and broader protection through private carriers."
+  },
+  {
+    "id": 1297,
+    "l1": "P&C",
+    "l2": "Flood Insurance",
+    "l3": "Commercial Excess Flood",
+    "desc": "Private market commercial coverage extending financial limits far above the federal flood programmatic caps."
+  },
+  {
+    "id": 1298,
+    "l1": "P&C",
+    "l2": "Farmowners",
+    "l3": "Commercial Farm & Ranch",
+    "desc": "Comprehensive package policy for agricultural businesses covering outbuildings, livestock, and operational liability."
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1099,
+    "l1": "Gestion de la Distribution",
+    "l2": "Gestion des Partenaires",
+    "l3": "Intégration des Agences/Courtiers",
+    "desc": "Gestion de l'admission administrative, de la vérification des antécédents et de la nomination contractuelle des intermédiaires tiers."
+  },
+  {
+    "id": 1100,
+    "l1": "Gestion de la Distribution",
+    "l2": "Gestion des Partenaires",
+    "l3": "Licences et Accréditations",
+    "desc": "Suivi des exigences en matière de licences par état et des crédits de formation continue pour garantir la conformité réglementaire avant la souscription de la police."
+  },
+  {
+    "id": 1101,
+    "l1": "Gestion de la Distribution",
+    "l2": "Rémunération",
+    "l3": "Gestion des Commissions",
+    "desc": "Calcul, validation et distribution de commissions échelonnées complexes, de dérogations et de primes de performance au réseau de distribution."
+  },
+  {
+    "id": 1102,
+    "l1": "Gestion de la Distribution",
+    "l2": "Analyse des Canaux",
+    "l3": "Analyse de la Performance des Canaux",
+    "desc": "Suivi de la rentabilité, des taux de conversion devis-souscription et des taux de sinistralité localisés de réseaux de distribution et de régions géographiques spécifiques."
+  },
+  {
+    "id": 1103,
+    "l1": "Gestion de la Distribution",
+    "l2": "Canaux Numériques",
+    "l3": "Intégration d'Agrégateurs",
+    "desc": "Gestion des intégrations API en temps réel et à haut débit avec des plateformes de tarification comparative tierces et des places de marché numériques."
+  },
+  {
+    "id": 1104,
+    "l1": "Marketing",
+    "l2": "Gestion des Campagnes",
+    "l3": "Exécution des Campagnes",
+    "desc": "Conception, financement et exécution d'initiatives marketing omnicanales pour générer des leads en haut du tunnel de conversion."
+  },
+  {
+    "id": 1105,
+    "l1": "Marketing",
+    "l2": "Gestion des Leads",
+    "l3": "Triage et Routage des Leads",
+    "desc": "Évaluation des prospects basée sur des facteurs de risque démographiques et routage dynamique vers des agents de vente internes ou des spécialistes externes."
+  },
+  {
+    "id": 1106,
+    "l1": "Gestion de la Clientèle",
+    "l2": "Gestion des Profils",
+    "l3": "Gestion du Profil Client",
+    "desc": "Maintien d'une vue à 360 degrés de type Master Data Management (MDM) de l'assuré à travers toutes les interactions de l'entreprise et les lignes de produits."
+  },
+  {
+    "id": 1107,
+    "l1": "Marketing",
+    "l2": "Stratégie Client",
+    "l3": "Ciblage Vente Croisée/Montée en Gamme",
+    "desc": "Utilisation de modèles de propension basés sur le machine learning pour proposer des polices complémentaires (par ex., une couverture globale pour les propriétaires) aux clients existants."
+  },
+  {
+    "id": 1108,
+    "l1": "Gestion de la Distribution",
+    "l2": "Exécution des Ventes",
+    "l3": "Devis et Illustration",
+    "desc": "Génération d'estimations de prix personnalisées et d'illustrations visuelles des avantages pour les futurs assurés en fonction des données préliminaires saisies."
+  },
+  {
+    "id": 1109,
+    "l1": "Gestion de la Clientèle",
+    "l2": "Service Client",
+    "l3": "Opérations du Centre de Contact",
+    "desc": "Gestion du support client entrant et sortant omnicanal et de la résolution des demandes."
+  },
+  {
+    "id": 1110,
+    "l1": "Gestion de la Clientèle",
+    "l2": "Expérience Numérique",
+    "l3": "Gestion de l'Expérience Client (CX)",
+    "desc": "Supervision de l'expérience utilisateur numérique de bout en bout sur les applications mobiles, les portails et les interfaces conversationnelles."
+  },
+  {
+    "id": 1111,
+    "l1": "Gestion de la Clientèle",
+    "l2": "Programmes de Fidélité",
+    "l3": "Récompenses et Rétention",
+    "desc": "Conception et gestion de programmes visant à augmenter la valeur à vie du client par des initiatives de récompense et de rétention."
+  },
+  {
+    "id": 1112,
+    "l1": "Souscription et Tarification",
+    "l2": "Affaires Nouvelles",
+    "l3": "Capture de la Demande",
+    "desc": "Ingestion de données structurées et non structurées provenant de portails de devis numériques, de systèmes de gestion de courtage et de formulaires ACORD standard."
+  },
+  {
+    "id": 1113,
+    "l1": "Souscription et Tarification",
+    "l2": "Affaires Nouvelles",
+    "l3": "Génération des Exigences",
+    "desc": "Déclenchement automatique des demandes d'examens médicaux, de dossiers de conduite (MVR) ou d'inspections de biens selon les règles de risque."
+  },
+  {
+    "id": 1114,
+    "l1": "Souscription et Tarification",
+    "l2": "Évaluation des Risques",
+    "l3": "Évaluation de l'Appétit au Risque",
+    "desc": "Comparaison des paramètres de la demande entrante avec les seuils de risque codifiés de l'entreprise, les concentrations géographiques et les embargos."
+  },
+  {
+    "id": 1115,
+    "l1": "Souscription et Tarification",
+    "l2": "Évaluation des Risques",
+    "l3": "Enrichissement des Données",
+    "desc": "Appel d'API tierces externes pour des données télématiques, la modélisation des périls géographiques (géocodage), le scoring de crédit ou l'historique des prescriptions médicales."
+  },
+  {
+    "id": 1116,
+    "l1": "Souscription et Tarification",
+    "l2": "Évaluation des Risques",
+    "l3": "Scoring Prédictif des Risques",
+    "desc": "Application de modèles algorithmiques pour prédire la fréquence et la gravité attendues des pertes futures potentielles sur la base de l'analyse de cohortes."
+  },
+  {
+    "id": 1117,
+    "l1": "Souscription et Tarification",
+    "l2": "Tarification",
+    "l3": "Calcul du Taux de Prime",
+    "desc": "Exécution d'algorithmes actuariels de base pour générer des taux de base, appliquer des facteurs de modification et calculer les primes finales."
+  },
+  {
+    "id": 1118,
+    "l1": "Souscription et Tarification",
+    "l2": "Tarification",
+    "l3": "Gestion de la Tarification et des Revenus",
+    "desc": "Stratégie de tarification au niveau de l'entreprise, modélisation de l'élasticité et optimisation des revenus au-delà de la tarification des polices individuelles."
+  },
+  {
+    "id": 1119,
+    "l1": "Souscription et Tarification",
+    "l2": "Évaluation des Risques",
+    "l3": "Gestion des Subjectivités",
+    "desc": "Gestion des exigences conditionnelles qui doivent être remplies par l'assuré (par ex., installation d'une alarme centrale) avant que la couverture ne soit pleinement garantie."
+  },
+  {
+    "id": 1120,
+    "l1": "Souscription et Tarification",
+    "l2": "Engagement",
+    "l3": "Souscription et Émission",
+    "desc": "Engagement juridique de l'assureur face au risque, génération des documents contractuels physiques ou numériques et lancement du cycle de facturation."
+  },
+  {
+    "id": 1121,
+    "l1": "Gestion des Polices",
+    "l2": "Maintenance des Polices",
+    "l3": "Traitement des Avenants",
+    "desc": "Exécution de modifications en cours de contrat sur les limites de couverture, les franchises, l'ajout d'entités assurées ou la mise à jour des lieux de stationnement."
+  },
+  {
+    "id": 1122,
+    "l1": "Gestion des Polices",
+    "l2": "Maintenance des Polices",
+    "l3": "Traitement Hors Séquence",
+    "desc": "Gestion des avenants rétroactifs complexes et recalcul automatique de toutes les transactions financières et échéanciers de facturation ultérieurs."
+  },
+  {
+    "id": 1123,
+    "l1": "Gestion des Polices",
+    "l2": "Maintenance des Polices",
+    "l3": "Orchestration des Renouvellements",
+    "desc": "Évaluation automatique des polices arrivant à échéance et génération de devis de renouvellement en fonction de modèles de tarification mis à jour et de l'historique récent des sinistres."
+  },
+  {
+    "id": 1124,
+    "l1": "Gestion des Polices",
+    "l2": "Maintenance des Polices",
+    "l3": "Gestion des Résiliations",
+    "desc": "Traitement des résiliations volontaires ou pour non-paiement, y compris le calcul des restitutions de primes au prorata ou à court terme."
+  },
+  {
+    "id": 1125,
+    "l1": "Gestion des Polices",
+    "l2": "Maintenance des Polices",
+    "l3": "Traitement des Remises en Vigueur",
+    "desc": "Restauration des polices résiliées lors de la réception des primes en retard, sous réserve de l'examen automatisé de souscription et des périodes de suspension."
+  },
+  {
+    "id": 1126,
+    "l1": "Gestion Financière",
+    "l2": "Facturation et Recouvrement",
+    "l3": "Facturation et Génération de Relevés",
+    "desc": "Production de factures précises et consolidées pour des polices individuelles ou des comptes commerciaux complexes à polices multiples."
+  },
+  {
+    "id": 1127,
+    "l1": "Gestion Financière",
+    "l2": "Facturation et Recouvrement",
+    "l3": "Audit de Prime",
+    "desc": "Réalisation d'audits a posteriori sur les polices commerciales (ex: accidents du travail) pour ajuster les primes estimées par rapport aux masses salariales réelles."
+  },
+  {
+    "id": 1128,
+    "l1": "Gestion Financière",
+    "l2": "Facturation et Recouvrement",
+    "l3": "Traitement des Paiements",
+    "desc": "Acceptation, tokenisation et compensation sécurisées des virements électroniques, paiements par carte de crédit et chèques physiques."
+  },
+  {
+    "id": 1129,
+    "l1": "Gestion Financière",
+    "l2": "Facturation et Recouvrement",
+    "l3": "Rapprochement de Comptes",
+    "desc": "Rapprochement des flux de données de paiement entrants avec les factures ouvertes, imputation des fonds et résolution des écarts complexes sur les comptes d'attente."
+  },
+  {
+    "id": 1130,
+    "l1": "Gestion Financière",
+    "l2": "Facturation et Recouvrement",
+    "l3": "Relance et Recouvrement",
+    "desc": "Exécution de flux de notification automatisés et échelonnés pour les comptes en souffrance avant d'initier les protocoles de résiliation."
+  },
+  {
+    "id": 1131,
+    "l1": "Gestion des Sinistres",
+    "l2": "Déclaration des Sinistres",
+    "l3": "Premier Avis de Sinistre (FNOL)",
+    "desc": "Capture des premiers détails de l'incident, des informations sur le demandeur et des descriptions préliminaires des dommages via les canaux mobiles, web et vocaux."
+  },
+  {
+    "id": 1132,
+    "l1": "Gestion des Sinistres",
+    "l2": "Déclaration des Sinistres",
+    "l3": "Vérification de la Couverture",
+    "desc": "Contrôle croisé de la date, du lieu de l'incident et du péril spécifique par rapport au système d'administration de la police active pour garantir sa validité."
+  },
+  {
+    "id": 1133,
+    "l1": "Gestion des Sinistres",
+    "l2": "Déclaration des Sinistres",
+    "l3": "Triage et Orientation des Sinistres",
+    "desc": "Segmentation dynamique des sinistres pour un traitement direct (STP) ou affectation à des experts de terrain spécialisés en fonction de la complexité."
+  },
+  {
+    "id": 1134,
+    "l1": "Gestion des Sinistres",
+    "l2": "Instruction des Sinistres",
+    "l3": "Gestion de l'Enquête",
+    "desc": "Orchestration des enquêtes sur le terrain, recueil de déclarations enregistrées de témoins et collecte de rapports officiels de police ou médicaux."
+  },
+  {
+    "id": 1135,
+    "l1": "Gestion des Sinistres",
+    "l2": "Instruction des Sinistres",
+    "l3": "Estimation des Dommages",
+    "desc": "Utilisation d'experts humains, de logiciels tiers ou de l'IA (vision par ordinateur) pour calculer les coûts exacts de réparation ou de remplacement."
+  },
+  {
+    "id": 1136,
+    "l1": "Gestion des Sinistres",
+    "l2": "Instruction des Sinistres",
+    "l3": "Gestion des Réserves",
+    "desc": "Fixation et ajustement dynamique des réserves financières allouées au bilan de l'entreprise pour les règlements de sinistres prévus."
+  },
+  {
+    "id": 1137,
+    "l1": "Gestion des Sinistres",
+    "l2": "Gestion de la Fraude",
+    "l3": "Détection de la Fraude (SIU)",
+    "desc": "Identification de schémas comportementaux ou de données anormaux et transmission des sinistres très suspects aux Unités Spéciales d'Investigation."
+  },
+  {
+    "id": 1138,
+    "l1": "Gestion des Sinistres",
+    "l2": "Gestion de la Fraude",
+    "l3": "Gestion de la Fraude en Entreprise",
+    "desc": "Détection holistique et prévention des activités frauduleuses au-delà des sinistres, englobant la souscription et la fraude interne."
+  },
+  {
+    "id": 1139,
+    "l1": "Gestion des Sinistres",
+    "l2": "Écosystèmes",
+    "l3": "Gestion des Fournisseurs et Réseaux",
+    "desc": "Déploiement et gestion de garages automobiles agréés, de réseaux de prestataires médicaux ou de services de restauration de l'habitat."
+  },
+  {
+    "id": 1140,
+    "l1": "Gestion des Sinistres",
+    "l2": "Écosystèmes",
+    "l3": "Réseau Santé et Bien-être",
+    "desc": "Gestion de partenariats externes avec des prestataires de santé et de bien-être pour fournir des solutions de soins intégrées."
+  },
+  {
+    "id": 1141,
+    "l1": "Gestion des Sinistres",
+    "l2": "Résolution des Sinistres",
+    "l3": "Recouvrement par Subrogation",
+    "desc": "Poursuite de recours légaux et financiers auprès de tiers responsables ou de leurs assureurs pour compenser les indemnités versées."
+  },
+  {
+    "id": 1142,
+    "l1": "Gestion des Sinistres",
+    "l2": "Résolution des Sinistres",
+    "l3": "Gestion des Sauvetages",
+    "desc": "Liquidation d'actifs physiques déclarés en perte totale (par ex., véhicules lourdement endommagés, équipement industriel) lors de ventes aux enchères pour récupérer une partie des coûts."
+  },
+  {
+    "id": 1143,
+    "l1": "Gestion des Sinistres",
+    "l2": "Résolution des Sinistres",
+    "l3": "Versement de l'Indemnité",
+    "desc": "Exécution du flux de paiement financier final, émission des paiements à l'assuré, au tiers réclamant ou directement au prestataire de réparation."
+  },
+  {
+    "id": 1144,
+    "l1": "Gestion de la Réassurance",
+    "l2": "Acceptation / Cession",
+    "l3": "Administration des Traités",
+    "desc": "Gestion des accords de réassurance mondiale proportionnels et non proportionnels sur l'ensemble du portefeuille pour atténuer la concentration de risques catastrophiques."
+  },
+  {
+    "id": 1145,
+    "l1": "Gestion de la Réassurance",
+    "l2": "Acceptation / Cession",
+    "l3": "Cession Facultative",
+    "desc": "Recherche, négociation et placement de couvertures de réassurance individuelles pour des risques spécifiques exceptionnellement importants, uniques ou complexes."
+  },
+  {
+    "id": 1146,
+    "l1": "Gestion de la Réassurance",
+    "l2": "Écosystèmes",
+    "l3": "Gestion de Captives",
+    "desc": "Gestion des services administratifs et de souscription pour des entités d'assurance captives formées par de grands clients corporatifs."
+  },
+  {
+    "id": 1147,
+    "l1": "Moteur de Produits",
+    "l2": "Configuration des Produits",
+    "l3": "Définition des Attributs",
+    "desc": "Définition des variables de données spécifiques (par ex., l'âge du conducteur, le type de construction, la marque du véhicule) qui influencent l'évaluation du risque."
+  },
+  {
+    "id": 1148,
+    "l1": "Moteur de Produits",
+    "l2": "Configuration des Produits",
+    "l3": "Configuration des Couvertures et Périls",
+    "desc": "Mise en place des risques spécifiques assurés, ainsi que de la structure hiérarchique des limites maximales, sous-limites et franchises."
+  },
+  {
+    "id": 1149,
+    "l1": "Moteur de Produits",
+    "l2": "Configuration des Produits",
+    "l3": "Gestion des Variances Réglementaires",
+    "desc": "Gestion des déviations juridictionnelles, garantissant que le produit se comporte différemment en fonction des mandats spécifiques du Département de l'Assurance."
+  },
+  {
+    "id": 1150,
+    "l1": "Moteur de Produits",
+    "l2": "Création de Règles",
+    "l3": "Création de Logique d'Éligibilité",
+    "desc": "Création de tables de décision booléennes complexes qui déterminent si un profil de risque spécifique relève de l'appétit de souscription acceptable."
+  },
+  {
+    "id": 1151,
+    "l1": "Moteur de Produits",
+    "l2": "Création de Règles",
+    "l3": "Développement de la Formule de Tarification",
+    "desc": "Création d'algorithmes actuariels, de séquences de multiplicateurs et de grilles de taux de base nécessaires au calcul de primes précises."
+  },
+  {
+    "id": 1152,
+    "l1": "Moteur de Produits",
+    "l2": "Création de Règles",
+    "l3": "Conception de Règles de Validation",
+    "desc": "Création d'une logique systémique pour garantir l'intégrité des données pendant le processus de devis (par exemple, empêcher la souscription d'une assurance auto commerciale sans numéro VIN valide)."
+  },
+  {
+    "id": 1153,
+    "l1": "Moteur de Produits",
+    "l2": "Gestion des Formulaires",
+    "l3": "Mappage de la Logique Documentaire",
+    "desc": "Association de formulaires réglementaires spécifiques, de mentions légales et de contrats d'assurance à des déclencheurs conditionnels en fonction des couvertures choisies."
+  },
+  {
+    "id": 1154,
+    "l1": "Moteur de Produits",
+    "l2": "Simulation",
+    "l3": "Analyse d'Impact Tarifaire",
+    "desc": "Exécution d'algorithmes de tarification proposés sur des données historiques de portefeuille pour analyser les variations de revenus et d'impacts sur la rétention."
+  },
+  {
+    "id": 1155,
+    "l1": "Moteur de Produits",
+    "l2": "Simulation",
+    "l3": "Tests de Scénarios",
+    "desc": "Injection de fausses combinaisons de données de demande pour vérifier le bon déclenchement des règles d'éligibilité, de validation et de souscription."
+  },
+  {
+    "id": 1156,
+    "l1": "Moteur de Produits",
+    "l2": "Déploiement",
+    "l3": "Contrôle de Version",
+    "desc": "Gestion de plusieurs versions actives et datées d'un ensemble de règles de produit, garantissant une traçabilité, une auditabilité et une capacité de restauration complètes."
+  },
+  {
+    "id": 1157,
+    "l1": "Moteur de Produits",
+    "l2": "Déploiement",
+    "l3": "Déploiement Multi-Juridictionnel",
+    "desc": "Orchestration du lancement séquentiel et planifié des variations de produits dans différents environnements réglementaires étatiques ou nationaux."
+  },
+  {
+    "id": 1158,
+    "l1": "Moteur de Produits",
+    "l2": "Déploiement",
+    "l3": "Syndication de Canaux",
+    "desc": "Envoi direct des définitions de produits mises à jour et des API de tarification vers des portails de distribution externes et des plateformes d'agrégation tierces."
+  },
+  {
+    "id": 1159,
+    "l1": "Moteur de Produits",
+    "l2": "Gestion du Cycle de Vie",
+    "l3": "Règles de Migration des Contrats en Vigueur",
+    "desc": "Mappage des schémas de données pour faciliter la migration systématique des assurés existants d'une ancienne version de produit vers une version nouvellement déployée."
+  },
+  {
+    "id": 1160,
+    "l1": "Moteur de Produits",
+    "l2": "Gestion du Cycle de Vie",
+    "l3": "Retrait de Produit",
+    "desc": "Désactivation en toute sécurité de la génération d'affaires nouvelles pour un produit obsolète, tout en maintenant les règles de calcul pour les renouvellements actifs et la liquidation des sinistres."
+  },
+  {
+    "id": 1161,
+    "l1": "Secteur",
+    "l2": "Ligne d'Activité",
+    "l3": "Produit Spécifique",
+    "desc": "Mécanisme de Risque et Description de l'Architecture d'Entreprise"
+  },
+  {
+    "id": 1162,
+    "l1": "IARD",
+    "l2": "Assurance de Biens Professionnels",
+    "l3": "Risques d'Incendie Commerciaux et Risques Annexes",
+    "desc": "Couverture pour les entreprises commerciales contre les incendies, la foudre et les risques naturels. Nécessite un géocodage détaillé et des données de classe de construction."
+  },
+  {
+    "id": 1163,
+    "l1": "IARD",
+    "l2": "Assurance de Biens Professionnels",
+    "l3": "Risque Chantier",
+    "desc": "Assure les bâtiments commerciaux, les machines brutes et les équipements lourds pendant le processus actif de construction."
+  },
+  {
+    "id": 1164,
+    "l1": "IARD",
+    "l2": "Assurance de Biens Professionnels",
+    "l3": "Perte d'Exploitation",
+    "desc": "Remplace le revenu d'entreprise perdu et paie les dépenses d'exploitation en cours à la suite d'un dommage matériel couvert."
+  },
+  {
+    "id": 1165,
+    "l1": "IARD",
+    "l2": "Assurance de Biens Professionnels",
+    "l3": "Bris de Glace",
+    "desc": "Couverture spécialisée à haute fréquence pour les vitrines commerciales et les verres architecturaux structurels."
+  },
+  {
+    "id": 1166,
+    "l1": "IARD",
+    "l2": "Assurance de Biens Professionnels",
+    "l3": "Bris de Machine (Chaudière et Machinerie)",
+    "desc": "Couverture contre les pannes accidentelles des équipements mécaniques, électriques ou sous pression."
+  },
+  {
+    "id": 1167,
+    "l1": "IARD",
+    "l2": "Assurance de Biens Professionnels",
+    "l3": "Différence de Conditions (DIC)",
+    "desc": "Couverture des catastrophes comblant les lacunes des polices dommages standard, souvent pour les inondations et les tremblements de terre."
+  },
+  {
+    "id": 1168,
+    "l1": "IARD",
+    "l2": "Multirisque Professionnelle",
+    "l3": "Police d'Assurance pour les Entreprises (BOP)",
+    "desc": "Couverture préétablie combinant propriété et responsabilité, conçue spécifiquement pour les PME peu complexes."
+  },
+  {
+    "id": 1169,
+    "l1": "IARD",
+    "l2": "Multirisque Professionnelle",
+    "l3": "Assurance Multirisque Entreprise (CPP)",
+    "desc": "Combinaison hautement personnalisable de couvertures spécifiques conçue pour les entreprises plus grandes et complexes."
+  },
+  {
+    "id": 1170,
+    "l1": "IARD",
+    "l2": "Multirisque Professionnelle",
+    "l3": "Police de Fabrication",
+    "desc": "Couverture tous risques pour les matières premières de fabrication et les actifs finis situés hors des locaux principaux standard."
+  },
+  {
+    "id": 1171,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Responsabilité Civile Flotte Automobile",
+    "desc": "Couverture en responsabilité pour les dommages corporels et matériels causés à des tiers, conçue pour les grandes flottes de véhicules d'entreprise."
+  },
+  {
+    "id": 1172,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Dommages Matériels Automobile Commerciale",
+    "desc": "Couverture tous risques et collision spécifiquement pour les véhicules lourds et légers appartenant à l'entreprise."
+  },
+  {
+    "id": 1173,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Responsabilité Civile de Gardiennage",
+    "desc": "Protège les véhicules des clients lorsqu'ils sont temporairement sous la garde, le contrôle ou la responsabilité d'une entreprise de réparation automobile."
+  },
+  {
+    "id": 1174,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Fret Routier Motorisé",
+    "desc": "Couvre le fret ou les marchandises transportées par un transporteur public pendant le transport."
+  },
+  {
+    "id": 1175,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Responsabilité Auto Location et Véhicules Non Possédés",
+    "desc": "Couverture en responsabilité pour les véhicules utilisés pour les affaires mais n'appartenant pas à l'entreprise (par ex., véhicules des employés, locations)."
+  },
+  {
+    "id": 1176,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Générale",
+    "l3": "Responsabilité des Locaux et des Opérations",
+    "desc": "Protège les entreprises contre les blessures ou dommages subis par des tiers se produisant directement sur le lieu de l'entreprise."
+  },
+  {
+    "id": 1177,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Générale",
+    "l3": "Produits et Opérations Achevées",
+    "desc": "Couverture en responsabilité pour les produits manufacturés défectueux ou les travaux contractuels achevés causant des dommages après la livraison."
+  },
+  {
+    "id": 1178,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Générale",
+    "l3": "Responsabilité Contractuelle",
+    "desc": "Couverture d'indemnisation pour les obligations explicitement assumées par l'assuré dans le cadre de contrats commerciaux oraux ou écrits."
+  },
+  {
+    "id": 1179,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Générale",
+    "l3": "Propriétaires et Entrepreneurs",
+    "desc": "Protège les propriétaires immobiliers des responsabilités indirectes découlant des actions d'entrepreneurs indépendants embauchés."
+  },
+  {
+    "id": 1180,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Générale",
+    "l3": "Responsabilité liée à la Vente d'Alcool",
+    "desc": "Protège les entreprises qui fabriquent, vendent ou servent de l'alcool contre les graves dommages causés à des tiers liés à l'intoxication."
+  },
+  {
+    "id": 1181,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Générale",
+    "l3": "Parapluie Commercial / Responsabilité Excédentaire",
+    "desc": "Couverture responsabilité civile à plafond élevé dépassant les polices de base en responsabilité civile générale, auto et employeurs."
+  },
+  {
+    "id": 1182,
+    "l1": "IARD",
+    "l2": "Accidents du Travail",
+    "l3": "Accidents du Travail Légaux",
+    "desc": "Couverture mandatée par l'État payant les frais médicaux et la perte de salaire des employés directement à cause de blessures au travail."
+  },
+  {
+    "id": 1183,
+    "l1": "IARD",
+    "l2": "Accidents du Travail",
+    "l3": "Responsabilité de l'Employeur",
+    "desc": "Protège les entreprises contre des poursuites civiles supplémentaires intentées par les employés alléguant une négligence grave sur le lieu de travail."
+  },
+  {
+    "id": 1184,
+    "l1": "IARD",
+    "l2": "Accidents du Travail",
+    "l3": "Accidents du Travail Hors de l'État",
+    "desc": "Couverture réglementaire spécialisée pour les employés opérant au-delà de frontières complexes entre différentes juridictions et états."
+  },
+  {
+    "id": 1185,
+    "l1": "IARD",
+    "l2": "Accidents du Travail",
+    "l3": "USL&H / Loi Jones",
+    "desc": "Assurance accidents du travail spécialisée pour les employés maritimes et les dockers."
+  },
+  {
+    "id": 1186,
+    "l1": "IARD",
+    "l2": "Criminalité Commerciale",
+    "l3": "Malhonnêteté des Employés",
+    "desc": "Protège contre les pertes financières résultant d'actes frauduleux commis par des employés."
+  },
+  {
+    "id": 1187,
+    "l1": "IARD",
+    "l2": "Criminalité Commerciale",
+    "l3": "Faux et Altérations",
+    "desc": "Couvre les pertes résultant de la falsification ou de l'altération de chèques sortants ou de billets à ordre."
+  },
+  {
+    "id": 1188,
+    "l1": "IARD",
+    "l2": "Responsabilité Commerciale",
+    "l3": "Criminalité Commerciale / Fidélité",
+    "desc": "Protège les entreprises des pertes financières dues au vol, à la fraude ou au détournement de fonds par les employés."
+  },
+  {
+    "id": 1189,
+    "l1": "IARD",
+    "l2": "Responsabilité Commerciale",
+    "l3": "Assurance Parapluie Commerciale",
+    "desc": "Fournit des limites de responsabilité excédentaires au-delà des polices d'assurance risques divers primaires."
+  },
+  {
+    "id": 1190,
+    "l1": "IARD",
+    "l2": "Responsabilité Commerciale",
+    "l3": "Responsabilité Commerciale Excédentaire",
+    "desc": "Couverture d'accompagnement qui ajoute des plafonds en plus des polices de responsabilité sous-jacentes sans étendre les termes de la couverture."
+  },
+  {
+    "id": 1191,
+    "l1": "IARD",
+    "l2": "Responsabilité Commerciale",
+    "l3": "Responsabilité pour Défauts de Construction",
+    "desc": "Couvre les réclamations pour dommages matériels résultant de malfaçons ou de matériaux défectueux dans le cadre de la construction."
+  },
+  {
+    "id": 1192,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Responsabilité Civile Camionnage",
+    "desc": "Responsabilité civile spécialisée pour l'industrie du transport routier couvrant les dommages corporels et matériels causés aux tiers."
+  },
+  {
+    "id": 1193,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Véhicules Publics / Transport Rémunéré",
+    "desc": "Couverture pour les véhicules utilisés pour le transport de personnes moyennant rémunération, y compris les taxis, limousines et véhicules de transport avec chauffeur."
+  },
+  {
+    "id": 1194,
+    "l1": "IARD",
+    "l2": "Assurance Auto Commerciale",
+    "l3": "Fret Routier Motorisé",
+    "desc": "Couvre la responsabilité pour la perte ou l'endommagement du fret en transit lorsqu'il est sous la garde d'un transporteur public."
+  },
+  {
+    "id": 1195,
+    "l1": "IARD / Vie",
+    "l2": "Spécialisé",
+    "l3": "Micro-assurance",
+    "desc": "Polices à primes et couvertures faibles, adaptées aux populations à faibles revenus ou aux marchés émergents."
+  },
+  {
+    "id": 1196,
+    "l1": "Secteur",
+    "l2": "Ligne d'Activité",
+    "l3": "Produit Spécifique",
+    "desc": "Mécanisme de Risque et Description de l'Architecture d'Entreprise"
+  },
+  {
+    "id": 1197,
+    "l1": "IARD",
+    "l2": "Assurance Auto Particulier",
+    "l3": "Responsabilité Civile Auto Particulier",
+    "desc": "Couverture responsabilité civile obligatoire minimum pour les dommages corporels et matériels causés à des tiers par des conducteurs particuliers."
+  },
+  {
+    "id": 1198,
+    "l1": "IARD",
+    "l2": "Assurance Auto Particulier",
+    "l3": "Collision Auto Particulier",
+    "desc": "Indemnisation des dommages matériels au véhicule de l'assuré résultant directement d'un choc avec un objet ou un véhicule."
+  }
+]

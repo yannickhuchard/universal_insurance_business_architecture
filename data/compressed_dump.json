@@ -1,0 +1,3887 @@
+[
+  {
+    "id": 1099,
+    "l1": "Distribution Mgmt",
+    "l2": "Partner Management",
+    "l3": "Agency/Broker Onboarding",
+    "desc": "Managing the administrative intake, background verification, and contractual appointment of third-party intermediaries."
+  },
+  {
+    "id": 1100,
+    "l1": "Distribution Mgmt",
+    "l2": "Partner Management",
+    "l3": "Licensing & Credentialing",
+    "desc": "Tracking state-by-state licensing requirements and continuing education credits to ensure regulatory compliance prior to policy binding."
+  },
+  {
+    "id": 1101,
+    "l1": "Distribution Mgmt",
+    "l2": "Compensation",
+    "l3": "Commission Management",
+    "desc": "Calculating, validating, and dispersing complex tiered commissions, overrides, and performance bonuses to the distribution network."
+  },
+  {
+    "id": 1102,
+    "l1": "Distribution Mgmt",
+    "l2": "Channel Analytics",
+    "l3": "Channel Performance Analytics",
+    "desc": "Monitoring the profitability, quote-to-bind conversion rates, and localized loss ratios of specific distribution networks and geographic regions."
+  },
+  {
+    "id": 1103,
+    "l1": "Distribution Mgmt",
+    "l2": "Digital Channels",
+    "l3": "Aggregator Integration",
+    "desc": "Managing real-time, high-throughput API integrations with third-party comparative rating platforms and digital marketplaces."
+  },
+  {
+    "id": 1104,
+    "l1": "Marketing",
+    "l2": "Campaign Management",
+    "l3": "Campaign Execution",
+    "desc": "Designing, funding, and executing omni-channel marketing initiatives to drive top-of-funnel lead generation.10"
+  },
+  {
+    "id": 1105,
+    "l1": "Marketing",
+    "l2": "Lead Management",
+    "l3": "Lead Triage & Routing",
+    "desc": "Scoring prospective leads based on demographic risk factors and dynamically routing them to internal sales agents or external specialists."
+  },
+  {
+    "id": 1106,
+    "l1": "Customer Mgmt",
+    "l2": "Profile Management",
+    "l3": "Customer Profile Management",
+    "desc": "Maintaining a 360-degree, Master Data Management (MDM) view of the policyholder across all enterprise interactions and product lines.20"
+  },
+  {
+    "id": 1107,
+    "l1": "Marketing",
+    "l2": "Customer Strategy",
+    "l3": "Cross-Sell/Up-Sell Targeting",
+    "desc": "Utilizing machine learning propensity models to offer complementary policies (e.g., umbrella coverage to homeowners) to existing clients."
+  },
+  {
+    "id": 1108,
+    "l1": "Distribution Mgmt",
+    "l2": "Sales Execution",
+    "l3": "Quoting & Illustration",
+    "desc": "Generating personalized price estimates and visual benefit illustrations for prospective policyholders based on preliminary data inputs."
+  },
+  {
+    "id": 1109,
+    "l1": "Customer Mgmt",
+    "l2": "Customer Service",
+    "l3": "Contact Center Operations",
+    "desc": "Managing omni-channel inbound and outbound customer support and inquiry resolution."
+  },
+  {
+    "id": 1110,
+    "l1": "Customer Mgmt",
+    "l2": "Digital Experience",
+    "l3": "CX Management",
+    "desc": "Overseeing the end-to-end digital user experience across mobile apps, portals, and conversational interfaces."
+  },
+  {
+    "id": 1111,
+    "l1": "Customer Mgmt",
+    "l2": "Loyalty Programs",
+    "l3": "Rewards & Retention",
+    "desc": "Designing and managing programs to increase customer lifetime value through rewards and retention initiatives."
+  },
+  {
+    "id": 1112,
+    "l1": "Underwriting & Pricing",
+    "l2": "New Business",
+    "l3": "Application Capture",
+    "desc": "Ingesting structured and unstructured data from digital quoting portals, broker management systems, and standard ACORD forms."
+  },
+  {
+    "id": 1113,
+    "l1": "Underwriting & Pricing",
+    "l2": "New Business",
+    "l3": "Requirement Generation",
+    "desc": "Automatically triggering requests for medical examinations, motor vehicle records (MVRs), or property inspections based on risk rules."
+  },
+  {
+    "id": 1114,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Risk Appetite Evaluation",
+    "desc": "Comparing incoming application parameters against codified corporate risk thresholds, geographic concentrations, and embargoes."
+  },
+  {
+    "id": 1115,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Data Enrichment",
+    "desc": "Calling external third-party APIs for telematics data, geographic peril modeling (geocoding), credit scoring, or prescription drug histories."
+  },
+  {
+    "id": 1116,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Predictive Risk Scoring",
+    "desc": "Applying algorithmic models to predict the expected frequency and severity of potential future losses based on cohort analysis.23"
+  },
+  {
+    "id": 1117,
+    "l1": "Underwriting & Pricing",
+    "l2": "Pricing",
+    "l3": "Premium Rating Calculation",
+    "desc": "Executing core actuarial algorithms to generate base rates, apply modification factors, and output final premiums.23"
+  },
+  {
+    "id": 1118,
+    "l1": "Underwriting & Pricing",
+    "l2": "Pricing",
+    "l3": "Pricing & Revenue Mgmt",
+    "desc": "Enterprise-level pricing strategy, elasticity modeling, and revenue optimization beyond individual policy rating."
+  },
+  {
+    "id": 1119,
+    "l1": "Underwriting & Pricing",
+    "l2": "Risk Evaluation",
+    "l3": "Subjectivity Management",
+    "desc": "Managing conditional requirements that must be met by the insured (e.g., installing a central alarm) before coverage is fully guaranteed."
+  },
+  {
+    "id": 1120,
+    "l1": "Underwriting & Pricing",
+    "l2": "Binding",
+    "l3": "Binding & Issuance",
+    "desc": "Legally committing the carrier to the risk, generating the physical or digital contract documents, and initiating the billing lifecycle."
+  },
+  {
+    "id": 1121,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Endorsement Processing",
+    "desc": "Executing mid-term changes to coverage limits, deductibles, adding insured entities, or updating garaging locations."
+  },
+  {
+    "id": 1122,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Out-of-Sequence Processing",
+    "desc": "Managing complex retroactive endorsements and automatically recalculating all subsequent financial transactions and billing schedules."
+  },
+  {
+    "id": 1123,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Renewal Orchestration",
+    "desc": "Automatically assessing expiring policies and generating renewal quotes based on updated pricing models and recent loss histories."
+  },
+  {
+    "id": 1124,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Cancellation Management",
+    "desc": "Processing voluntary or non-payment cancellations, including the calculation of short-rate or pro-rata premium returns.25"
+  },
+  {
+    "id": 1125,
+    "l1": "Policy Admin",
+    "l2": "Policy Maintenance",
+    "l3": "Reinstatement Processing",
+    "desc": "Restoring cancelled policies upon receipt of delayed premiums, subject to automated underwriting review and lapse periods."
+  },
+  {
+    "id": 1126,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Invoicing & Statement Gen.",
+    "desc": "Producing accurate, consolidated bills for single policies or complex multi-policy commercial accounts."
+  },
+  {
+    "id": 1127,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Premium Audit",
+    "desc": "Conducting post-term audits on commercial policies (e.g., Workers' Compensation) to true-up estimated premiums against actual payrolls."
+  },
+  {
+    "id": 1128,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Payment Processing",
+    "desc": "Securely accepting, tokenizing, and clearing electronic funds transfers, credit card payments, and physical checks."
+  },
+  {
+    "id": 1129,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Account Reconciliation",
+    "desc": "Matching incoming payment data streams against open invoices, applying funds, and resolving complex suspense account discrepancies."
+  },
+  {
+    "id": 1130,
+    "l1": "Financial Mgmt",
+    "l2": "Billing & Collections",
+    "l3": "Dunning & Collections",
+    "desc": "Executing tiered, automated notification workflows for past-due accounts prior to initiating cancellation protocols."
+  },
+  {
+    "id": 1131,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Intake",
+    "l3": "First Notice of Loss (FNOL)",
+    "desc": "Capturing initial incident details, claimant information, and preliminary damage descriptions across mobile, web, and voice channels."
+  },
+  {
+    "id": 1132,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Intake",
+    "l3": "Coverage Verification",
+    "desc": "Cross-referencing the incident date, location, and specific peril against the active policy administration system to ensure validity."
+  },
+  {
+    "id": 1133,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Intake",
+    "l3": "Claims Triage & Routing",
+    "desc": "Segmenting claims dynamically for immediate straight-through processing or assigning them to specialized field adjusters based on complexity.26"
+  },
+  {
+    "id": 1134,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Adjudication",
+    "l3": "Investigation Management",
+    "desc": "Orchestrating field investigations, taking recorded statements from witnesses, and gathering official police or medical reports."
+  },
+  {
+    "id": 1135,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Adjudication",
+    "l3": "Damage Estimation",
+    "desc": "Utilizing human adjusters, third-party software, or computer vision AI to calculate accurate repair or replacement costs.23"
+  },
+  {
+    "id": 1136,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Adjudication",
+    "l3": "Reserve Management",
+    "desc": "Setting and dynamically adjusting the financial reserves allocated on the corporate balance sheet for expected claim payouts."
+  },
+  {
+    "id": 1137,
+    "l1": "Claims Mgmt",
+    "l2": "Fraud Management",
+    "l3": "Fraud Detection (SIU)",
+    "desc": "Identifying anomalous behavioral or data patterns and referring highly suspicious claims to Special Investigative Units.23"
+  },
+  {
+    "id": 1138,
+    "l1": "Claims Mgmt",
+    "l2": "Fraud Management",
+    "l3": "Enterprise Fraud Mgmt",
+    "desc": "Holistic detection and prevention of fraudulent activities beyond claims, encompassing underwriting and internal fraud."
+  },
+  {
+    "id": 1139,
+    "l1": "Claims Mgmt",
+    "l2": "Ecosystems",
+    "l3": "Vendor & Network Mgmt",
+    "desc": "Dispatching and managing approved auto repair shops, medical provider networks, or home restoration services."
+  },
+  {
+    "id": 1140,
+    "l1": "Claims Mgmt",
+    "l2": "Ecosystems",
+    "l3": "Health & Wellness Network",
+    "desc": "Managing external partnerships with health and wellness providers to deliver integrated care solutions."
+  },
+  {
+    "id": 1141,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Resolution",
+    "l3": "Subrogation Recovery",
+    "desc": "Pursuing legal and financial recovery from at-fault third parties or their insurers to offset claim payouts.23"
+  },
+  {
+    "id": 1142,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Resolution",
+    "l3": "Salvage Management",
+    "desc": "Liquidating totaled physical assets (e.g., heavily damaged vehicles, industrial equipment) via auctions to recoup partial loss expenses."
+  },
+  {
+    "id": 1143,
+    "l1": "Claims Mgmt",
+    "l2": "Claims Resolution",
+    "l3": "Settlement Disbursal",
+    "desc": "Executing the final financial payout workflow, issuing payments to the insured, third-party claimant, or directly to the repair vendor."
+  },
+  {
+    "id": 1144,
+    "l1": "Reinsurance Mgmt",
+    "l2": "Inward/Outward",
+    "l3": "Treaty Administration",
+    "desc": "Managing proportional and non-proportional global reinsurance agreements across the entire portfolio to mitigate catastrophic risk concentration."
+  },
+  {
+    "id": 1145,
+    "l1": "Reinsurance Mgmt",
+    "l2": "Inward/Outward",
+    "l3": "Facultative Cedation",
+    "desc": "Seeking, negotiating, and binding individual reinsurance coverage for exceptionally large, unique, or complex individual risks."
+  },
+  {
+    "id": 1146,
+    "l1": "Reinsurance Mgmt",
+    "l2": "Ecosystems",
+    "l3": "Captive Management",
+    "desc": "Managing administrative and underwriting services for captive insurance entities formed by large corporate clients."
+  },
+  {
+    "id": 1147,
+    "l1": "Product Engine",
+    "l2": "Product Configuration",
+    "l3": "Attribute Definition",
+    "desc": "Defining the specific data variables (e.g., driver age, building construction type, vehicle make) that impact risk assessment."
+  },
+  {
+    "id": 1148,
+    "l1": "Product Engine",
+    "l2": "Product Configuration",
+    "l3": "Coverages & Perils Setup",
+    "desc": "Establishing the specific risks insured against, along with the hierarchical structure of maximum limits, sub-limits, and deductibles."
+  },
+  {
+    "id": 1149,
+    "l1": "Product Engine",
+    "l2": "Product Configuration",
+    "l3": "State Variance Management",
+    "desc": "Managing jurisdictional deviations, ensuring the product behaves differently based on specific Department of Insurance mandates."
+  },
+  {
+    "id": 1150,
+    "l1": "Product Engine",
+    "l2": "Rules Authoring",
+    "l3": "Eligibility Logic Creation",
+    "desc": "Authoring complex Boolean decision tables that dictate whether a specific risk profile falls within the acceptable underwriting appetite.27"
+  },
+  {
+    "id": 1151,
+    "l1": "Product Engine",
+    "l2": "Rules Authoring",
+    "l3": "Rating Formula Development",
+    "desc": "Building actuarial algorithms, multiplier sequences, and base-rate tables required to calculate precise premiums.26"
+  },
+  {
+    "id": 1152,
+    "l1": "Product Engine",
+    "l2": "Rules Authoring",
+    "l3": "Validation Rule Design",
+    "desc": "Creating systemic logic to ensure data integrity during quoting (e.g., preventing the binding of a commercial auto policy without a valid VIN)."
+  },
+  {
+    "id": 1153,
+    "l1": "Product Engine",
+    "l2": "Form Management",
+    "l3": "Document Logic Mapping",
+    "desc": "Linking specific regulatory forms, legal disclosures, and policy jackets to conditional triggers based on selected coverages."
+  },
+  {
+    "id": 1154,
+    "l1": "Product Engine",
+    "l2": "Simulation",
+    "l3": "Rate Impact Analysis",
+    "desc": "Running proposed pricing algorithms against historical book-of-business data to analyze potential revenue shifts and retention impacts."
+  },
+  {
+    "id": 1155,
+    "l1": "Product Engine",
+    "l2": "Simulation",
+    "l3": "Scenario Testing",
+    "desc": "Injecting mock application data combinations to verify that eligibility, validation, and underwriting rules trigger correctly.27"
+  },
+  {
+    "id": 1156,
+    "l1": "Product Engine",
+    "l2": "Deployment",
+    "l3": "Version Control",
+    "desc": "Managing multiple active, dated versions of a product rule set, ensuring complete traceability, auditability, and rollback capability."
+  },
+  {
+    "id": 1157,
+    "l1": "Product Engine",
+    "l2": "Deployment",
+    "l3": "Multi-Jurisdiction Rollout",
+    "desc": "Orchestrating the sequential, scheduled launch of product variations across different state or national regulatory environments."
+  },
+  {
+    "id": 1158,
+    "l1": "Product Engine",
+    "l2": "Deployment",
+    "l3": "Channel Syndication",
+    "desc": "Pushing updated product definitions and rating APIs directly to external distribution portals and third-party aggregator platforms."
+  },
+  {
+    "id": 1159,
+    "l1": "Product Engine",
+    "l2": "Lifecycle Mgmt",
+    "l3": "In-Force Migration Rules",
+    "desc": "Mapping data schemas to facilitate the systematic migration of existing policyholders from a legacy product version to a newly deployed version."
+  },
+  {
+    "id": 1160,
+    "l1": "Product Engine",
+    "l2": "Lifecycle Mgmt",
+    "l3": "Product Sunsetting",
+    "desc": "Safely disabling new business generation for a deprecated product while maintaining calculation rules for active renewals and run-offs.27"
+  },
+  {
+    "id": 1161,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1162,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Commercial Fire & Allied Lines",
+    "desc": "Coverage for commercial ventures against fire, lightning, and natural perils. Requires detailed geocoding and construction class data."
+  },
+  {
+    "id": 1163,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Builders Risk",
+    "desc": "Insures commercial buildings, raw machinery, and heavy equipment during the active course of construction."
+  },
+  {
+    "id": 1164,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Business Interruption",
+    "desc": "Replaces lost corporate income and pays ongoing operating expenses following a covered physical property loss."
+  },
+  {
+    "id": 1165,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Glass Breakage",
+    "desc": "Specialized, high-frequency coverage for storefront and structural architectural glass."
+  },
+  {
+    "id": 1166,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Equipment Breakdown (Boiler & Machinery)",
+    "desc": "Coverage for accidental breakdown of mechanical, electrical, or pressure equipment."
+  },
+  {
+    "id": 1167,
+    "l1": "P&C",
+    "l2": "Commercial Property",
+    "l3": "Difference in Conditions (DIC)",
+    "desc": "Catastrophic coverage filling gaps in standard property policies, often for flood and earthquake."
+  },
+  {
+    "id": 1168,
+    "l1": "P&C",
+    "l2": "Commercial Multi-Peril",
+    "l3": "Businessowners Policy (BOP)",
+    "desc": "Pre-packaged property and liability coverage tailored specifically for low-complexity small-to-medium enterprises (SMEs)."
+  },
+  {
+    "id": 1169,
+    "l1": "P&C",
+    "l2": "Commercial Multi-Peril",
+    "l3": "Commercial Package Policy (CPP)",
+    "desc": "Highly customizable combination of specific coverages designed for larger, more complex corporate entities."
+  },
+  {
+    "id": 1170,
+    "l1": "P&C",
+    "l2": "Commercial Multi-Peril",
+    "l3": "Manufacturers Output Policy",
+    "desc": "Broad-peril coverage for manufacturing raw materials and finished assets located away from standard primary premises."
+  },
+  {
+    "id": 1171,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Commercial Auto Fleet Liability",
+    "desc": "Third-party bodily injury and property damage coverage designed for large-scale corporate vehicle fleets."
+  },
+  {
+    "id": 1172,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Commercial Auto Physical Damage",
+    "desc": "Comprehensive and collision coverage specifically for corporate-owned heavy and light vehicles."
+  },
+  {
+    "id": 1173,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Garagekeepers Liability",
+    "desc": "Protects customers' vehicles while they are temporarily in the care, custody, or control of an auto repair business."
+  },
+  {
+    "id": 1174,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Motor Truck Cargo",
+    "desc": "Covers freight or commodity hauled by a for-hire trucker while in transit."
+  },
+  {
+    "id": 1175,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Hired and Non-Owned Auto Liability",
+    "desc": "Liability coverage for vehicles used for business but not owned by the business (e.g., employee vehicles, rentals)."
+  },
+  {
+    "id": 1176,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Premises & Operations Liability",
+    "desc": "Protects corporate entities against third-party injuries or damages occurring directly at the business location."
+  },
+  {
+    "id": 1177,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Products & Completed Operations",
+    "desc": "Liability coverage for defective manufactured products or completed contractual work causing harm post-delivery."
+  },
+  {
+    "id": 1178,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Contractual Liability",
+    "desc": "Indemnification coverage for obligations explicitly assumed by the insured through oral or written business contracts."
+  },
+  {
+    "id": 1179,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Owners & Contractors Protective",
+    "desc": "Protects property owners from vicarious liabilities arising from the actions of hired independent contractors."
+  },
+  {
+    "id": 1180,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Liquor Liability",
+    "desc": "Protects businesses that manufacture, sell, or serve alcohol against severe intoxication-related third-party damages."
+  },
+  {
+    "id": 1181,
+    "l1": "P&C",
+    "l2": "General Liability",
+    "l3": "Commercial Umbrella / Excess Liability",
+    "desc": "High-limit liability coverage exceeding primary general, auto, and employers liability policies."
+  },
+  {
+    "id": 1182,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "Statutory Workers' Compensation",
+    "desc": "State-mandated coverage paying for employee medical expenses and lost wages due directly to workplace injuries."
+  },
+  {
+    "id": 1183,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "Employers Liability",
+    "desc": "Protects businesses against additional civil lawsuits filed by employees alleging gross workplace negligence."
+  },
+  {
+    "id": 1184,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "Out-of-State Workers' Comp",
+    "desc": "Specialized regulatory coverage for employees operating across complex jurisdictional and state boundaries."
+  },
+  {
+    "id": 1185,
+    "l1": "P&C",
+    "l2": "Workers' Compensation",
+    "l3": "USL&H / Jones Act",
+    "desc": "Specialized workers' compensation for maritime employees and longshoremen."
+  },
+  {
+    "id": 1186,
+    "l1": "P&C",
+    "l2": "Commercial Crime",
+    "l3": "Employee Dishonesty",
+    "desc": "Protects against financial loss from fraudulent acts committed by employees."
+  },
+  {
+    "id": 1187,
+    "l1": "P&C",
+    "l2": "Commercial Crime",
+    "l3": "Forgery or Alteration",
+    "desc": "Covers losses resulting from forgery or alteration of outgoing checks or promissory notes."
+  },
+  {
+    "id": 1188,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Commercial Crime / Fidelity",
+    "desc": "Protects businesses from financial losses due to employee theft, fraud, or embezzlement."
+  },
+  {
+    "id": 1189,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Commercial Umbrella Liability",
+    "desc": "Provides excess liability limits over primary commercial casualty policies."
+  },
+  {
+    "id": 1190,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Commercial Excess Liability",
+    "desc": "Follow-form coverage that adds limits on top of underlying liability policies without expanding terms."
+  },
+  {
+    "id": 1191,
+    "l1": "P&C",
+    "l2": "Commercial Liability",
+    "l3": "Construction Defect Liability",
+    "desc": "Covers claims of property damage arising from faulty workmanship or defective materials in construction."
+  },
+  {
+    "id": 1192,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Trucking Liability",
+    "desc": "Specialized liability for the motor carrier industry covering third-party bodily injury and property damage."
+  },
+  {
+    "id": 1193,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Public Auto / Livery",
+    "desc": "Coverage for vehicles used to transport people for a fee, including taxis, limousines, and ride-shares."
+  },
+  {
+    "id": 1194,
+    "l1": "P&C",
+    "l2": "Commercial Auto",
+    "l3": "Motor Truck Cargo",
+    "desc": "Covers the liability for the loss or damage to freight in transit while in the care of a motor carrier."
+  },
+  {
+    "id": 1195,
+    "l1": "P&C / Life",
+    "l2": "Specialized",
+    "l3": "Microinsurance",
+    "desc": "Low-premium, low-coverage policies tailored for low-income demographics or emerging markets."
+  },
+  {
+    "id": 1196,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1197,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Auto Liability",
+    "desc": "Mandatory minimum third-party bodily injury and property damage coverage for personal drivers."
+  },
+  {
+    "id": 1198,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Auto Collision",
+    "desc": "Indemnification for physical damage to the insured's vehicle resulting directly from an impact with an object or vehicle."
+  },
+  {
+    "id": 1199,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Auto Comprehensive",
+    "desc": "Coverage for vehicle damage arising from non-collision events, including theft, severe weather, and vandalism."
+  },
+  {
+    "id": 1200,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Uninsured/Underinsured Motorist",
+    "desc": "Protection for the insured against damages and medical costs caused by at-fault drivers lacking adequate insurance."
+  },
+  {
+    "id": 1201,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Personal Injury Protection (PIP)",
+    "desc": "No-fault medical, rehabilitation, and wage-loss coverage for the insured driver and passengers regardless of liability."
+  },
+  {
+    "id": 1202,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Antique/Classic Auto",
+    "desc": "Agreed-value physical damage coverage for collectible vehicles driven on a limited basis."
+  },
+  {
+    "id": 1203,
+    "l1": "P&C",
+    "l2": "Personal Auto",
+    "l3": "Usage-Based Insurance (UBI) / Telematics",
+    "desc": "Dynamic premium rating based on real-time driving behavior data captured via mobile apps or IoT devices."
+  },
+  {
+    "id": 1204,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Owner-Occupied Homeowners (HO-3)",
+    "desc": "Standard open-peril property coverage for residential dwellings, appurtenant structures, and personal property."
+  },
+  {
+    "id": 1205,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Renters Insurance (HO-4)",
+    "desc": "Coverage limited to personal property and personal liability for tenants occupying leased residential spaces."
+  },
+  {
+    "id": 1206,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Condominium Owners (HO-6)",
+    "desc": "\"Walls-in\" property and liability coverage uniquely tailored for condominium unit owners and their internal fixtures."
+  },
+  {
+    "id": 1207,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Mobile Homeowners (HO-7)",
+    "desc": "Specialized property coverage requiring unique valuation models for manufactured homes situated at fixed locations."
+  },
+  {
+    "id": 1208,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "Older Home (HO-8)",
+    "desc": "Coverage for older homes where replacement cost vastly exceeds market value, using functional replacement valuation."
+  },
+  {
+    "id": 1209,
+    "l1": "P&C",
+    "l2": "Homeowners",
+    "l3": "High-Value Homeowners",
+    "desc": "Bespoke coverage forms and valuation models for luxury residential properties exceeding standard insurance market values."
+  },
+  {
+    "id": 1210,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Comprehensive Personal Liability",
+    "desc": "Standalone non-business liability protection for individuals and family members against civil litigation."
+  },
+  {
+    "id": 1211,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Personal Umbrella Liability",
+    "desc": "Excess liability coverage extending limits exponentially beyond underlying primary auto and homeowner policies."
+  },
+  {
+    "id": 1212,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Scheduled Personal Property",
+    "desc": "Specific, appraised all-risk coverage for high-value items like jewelry, fine art, and collectibles."
+  },
+  {
+    "id": 1213,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Identity Theft Protection",
+    "desc": "Reimburses expenses incurred to restore a stolen identity, including legal fees and lost wages."
+  },
+  {
+    "id": 1214,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Home Cyber Protection",
+    "desc": "Coverage for personal data breaches, cyber extortion, and online fraud affecting home networks."
+  },
+  {
+    "id": 1215,
+    "l1": "P&C",
+    "l2": "Recreational",
+    "l3": "Motorcycle / ATV",
+    "desc": "Specialized physical damage and liability rating models for two-wheeled and off-road vehicles."
+  },
+  {
+    "id": 1216,
+    "l1": "P&C",
+    "l2": "Recreational",
+    "l3": "Boat/Watercraft",
+    "desc": "Navigational coverage for physical hull damage and marine liability for personal watercraft."
+  },
+  {
+    "id": 1217,
+    "l1": "P&C",
+    "l2": "Recreational",
+    "l3": "Recreational Vehicle (RV)",
+    "desc": "Blends personal auto and homeowners characteristics for motorhomes and travel trailers."
+  },
+  {
+    "id": 1218,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Scheduled Personal Property",
+    "desc": "Specific, itemized coverage for high-value items like jewelry, fine art, and collectibles without standard limits."
+  },
+  {
+    "id": 1219,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Earthquake (Personal)",
+    "desc": "Specific peril coverage for dwelling and contents damage caused by seismic activity."
+  },
+  {
+    "id": 1220,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Private Flood Insurance",
+    "desc": "Non-federal (private market) flood coverage offering higher limits or broader terms than the NFIP."
+  },
+  {
+    "id": 1221,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "RV / Motorhome Insurance",
+    "desc": "Specialized auto and dwelling hybrid coverage for recreational vehicles and motorhomes."
+  },
+  {
+    "id": 1222,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Motorcycle Insurance",
+    "desc": "Liability and physical damage coverage specifically tailored for two-wheeled motorized vehicles."
+  },
+  {
+    "id": 1223,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "ATV / Off-Road Vehicle Insurance",
+    "desc": "Specialized coverage for all-terrain vehicles, dirt bikes, and recreational off-road utility vehicles."
+  },
+  {
+    "id": 1224,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Snowmobile Insurance",
+    "desc": "Liability and physical damage coverage specifically tailored for winter recreational snowmobiles."
+  },
+  {
+    "id": 1225,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Boat / Personal Watercraft",
+    "desc": "Marine liability and hull coverage for personal pleasure craft and jet skis."
+  },
+  {
+    "id": 1226,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Yacht Insurance",
+    "desc": "Broader navigational limits and higher liability coverage for luxury personal marine vessels."
+  },
+  {
+    "id": 1227,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Classic / Collector Car Insurance",
+    "desc": "Agreed-value physical damage coverage with strict mileage and usage restrictions for vintage automobiles."
+  },
+  {
+    "id": 1228,
+    "l1": "P&C",
+    "l2": "Personal Auto & Rec",
+    "l3": "Aviation: Private Pilot Insurance",
+    "desc": "Hull and liability coverage for personal, non-commercial light aircraft and recreational pilots."
+  },
+  {
+    "id": 1229,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Identity Theft Protection",
+    "desc": "Reimburses expenses incurred restoring a stolen identity and provides credit monitoring services."
+  },
+  {
+    "id": 1230,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Home Warranty",
+    "desc": "Service contracts covering the repair or replacement of major home systems and appliances due to normal wear and tear."
+  },
+  {
+    "id": 1231,
+    "l1": "P&C",
+    "l2": "Personal Property",
+    "l3": "Landlord / Dwelling Fire (DP-1/2/3)",
+    "desc": "Coverage for non-owner-occupied residential rental properties ranging from basic to special form perils."
+  },
+  {
+    "id": 1232,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Travel Insurance (Personal/Leisure)",
+    "desc": "Reimburses non-refundable trip costs for cancellations, interruptions, and lost baggage."
+  },
+  {
+    "id": 1233,
+    "l1": "P&C",
+    "l2": "Personal Specialty",
+    "l3": "Cyber Insurance (Personal)",
+    "desc": "Protection against online extortion, cyberbullying, and financial fraud targeting individuals and families."
+  },
+  {
+    "id": 1234,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1235,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Equipment Floater",
+    "desc": "Coverage for mobile machinery, tools, and heavy equipment that continuously moves between various job sites."
+  },
+  {
+    "id": 1236,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Jewelers' Block",
+    "desc": "Comprehensive, high-security coverage tailored specifically for jewelry retailers, wholesalers, and manufacturers."
+  },
+  {
+    "id": 1237,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Fine Arts & Specie",
+    "desc": "Specialized, appraised protection for museums, galleries, and exceptionally high-value private collections."
+  },
+  {
+    "id": 1238,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Electronic Data Processing (EDP)",
+    "desc": "Protects enterprise computing hardware, software infrastructure, and raw data assets from physical destruction."
+  },
+  {
+    "id": 1239,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Animal Mortality",
+    "desc": "Specific death benefit insurance policies for high-value livestock, racehorses, and breeding animals."
+  },
+  {
+    "id": 1240,
+    "l1": "Specialty",
+    "l2": "Inland Marine",
+    "l3": "Builders Risk / Installation Floater",
+    "desc": "Property coverage for materials and fixtures being installed at a commercial or residential site."
+  },
+  {
+    "id": 1241,
+    "l1": "Specialty",
+    "l2": "Ocean Marine",
+    "l3": "Hull Insurance",
+    "desc": "Physical damage coverage for commercial shipping vessels, barges, and large-scale watercraft."
+  },
+  {
+    "id": 1242,
+    "l1": "Specialty",
+    "l2": "Ocean Marine",
+    "l3": "Marine Cargo",
+    "desc": "Indemnification for high-value goods lost, stolen, or damaged during complex international sea transits."
+  },
+  {
+    "id": 1243,
+    "l1": "Specialty",
+    "l2": "Ocean Marine",
+    "l3": "Protection and Indemnity (P&I)",
+    "desc": "Broad, specialized marine liability coverage for vessel owners, operators, and maritime employers."
+  },
+  {
+    "id": 1244,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Directors & Officers (D&O)",
+    "desc": "Protects corporate executives and board members against civil legal action arising from managerial decisions."
+  },
+  {
+    "id": 1245,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Errors & Omissions (E&O)",
+    "desc": "Covers specialized professionals (e.g., architects, software engineers) for financial loss caused by service negligence."
+  },
+  {
+    "id": 1246,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Employment Practices Liab (EPLI)",
+    "desc": "Defense and indemnification against wrongful termination, discrimination, and sexual harassment claims."
+  },
+  {
+    "id": 1247,
+    "l1": "Specialty",
+    "l2": "Professional Liab.",
+    "l3": "Fiduciary Liability",
+    "desc": "Protection for corporate plan administrators against ERISA-related mismanagement claims regarding retirement funds."
+  },
+  {
+    "id": 1248,
+    "l1": "Specialty",
+    "l2": "Cyber Liability",
+    "l3": "Data Breach Response",
+    "desc": "Covers digital forensics, mandated public notification, and credit monitoring costs post-breach."
+  },
+  {
+    "id": 1249,
+    "l1": "Specialty",
+    "l2": "Cyber Liability",
+    "l3": "Ransomware & Cyber Extortion",
+    "desc": "Reimburses costs and negotiation fees associated with mitigating digital extortion and ransomware threats."
+  },
+  {
+    "id": 1250,
+    "l1": "Specialty",
+    "l2": "Cyber Liability",
+    "l3": "Network Security Liability",
+    "desc": "Covers third-party claims arising from a failure to secure the enterprise network from malware or unauthorized access."
+  },
+  {
+    "id": 1251,
+    "l1": "Specialty",
+    "l2": "Medical Malpractice",
+    "l3": "Hospital MedMal",
+    "desc": "Institutional liability coverage for clinical negligence at large-scale healthcare facilities and networks."
+  },
+  {
+    "id": 1252,
+    "l1": "Specialty",
+    "l2": "Medical Malpractice",
+    "l3": "Physician/Surgeon MedMal",
+    "desc": "Individual professional liability for medical practitioners, available as Claims-Made or Occurrence triggers."
+  },
+  {
+    "id": 1253,
+    "l1": "Specialty",
+    "l2": "Medical Malpractice",
+    "l3": "Allied Health Professional Liab.",
+    "desc": "Coverage for non-physician healthcare providers such as nurses, physical therapists, and pharmacists."
+  },
+  {
+    "id": 1254,
+    "l1": "Specialty",
+    "l2": "Financial Guaranty",
+    "l3": "Mortgage Guaranty",
+    "desc": "Protects financial lenders against borrower default on high-LTV residential and commercial mortgages."
+  },
+  {
+    "id": 1255,
+    "l1": "Specialty",
+    "l2": "Financial Guaranty",
+    "l3": "Surety Bonds (Contract)",
+    "desc": "Financial instruments (bid, performance, payment) guaranteeing the fulfillment of construction obligations."
+  },
+  {
+    "id": 1256,
+    "l1": "Specialty",
+    "l2": "Financial Guaranty",
+    "l3": "Surety Bonds (Commercial)",
+    "desc": "License and permit bonds required by government entities for business operations."
+  },
+  {
+    "id": 1257,
+    "l1": "Specialty",
+    "l2": "Aviation & Space",
+    "l3": "Aircraft Hull & Liability",
+    "desc": "Comprehensive risk transfer mechanisms for commercial airlines and private aviation physical assets."
+  },
+  {
+    "id": 1258,
+    "l1": "Specialty",
+    "l2": "Aviation & Space",
+    "l3": "Satellite & Space Insurance",
+    "desc": "Covers catastrophic launch failures and in-orbit operational anomalies for commercial space assets."
+  },
+  {
+    "id": 1259,
+    "l1": "Specialty",
+    "l2": "Aviation & Space",
+    "l3": "Drone / UAV Liability",
+    "desc": "Specialized liability and physical damage coverage for commercial unmanned aerial vehicles."
+  },
+  {
+    "id": 1260,
+    "l1": "Specialty",
+    "l2": "Crisis Management",
+    "l3": "Product Recall",
+    "desc": "Covers immense logistics, communications, and brand rehabilitation costs following a product safety recall."
+  },
+  {
+    "id": 1261,
+    "l1": "Specialty",
+    "l2": "Crisis Management",
+    "l3": "Kidnap & Ransom (K&R)",
+    "desc": "Reimburses ransom payments, extortion costs, and specialized crisis consulting for corporate executives."
+  },
+  {
+    "id": 1262,
+    "l1": "Specialty",
+    "l2": "Crisis Management",
+    "l3": "Terrorism & Political Violence",
+    "desc": "Property damage and severe business interruption coverage necessitated by politically motivated attacks."
+  },
+  {
+    "id": 1263,
+    "l1": "Specialty",
+    "l2": "Environmental",
+    "l3": "Pollution Legal Liability (PLL)",
+    "desc": "Covers cleanup costs, third-party bodily injury, and property damage resulting from pollution conditions."
+  },
+  {
+    "id": 1264,
+    "l1": "Specialty",
+    "l2": "Environmental",
+    "l3": "Contractors Pollution Liability (CPL)",
+    "desc": "Protects contractors against pollution claims arising from their operations at a job site."
+  },
+  {
+    "id": 1265,
+    "l1": "P&C",
+    "l2": "Cyber Liability",
+    "l3": "Cyber Liability (First-Party)",
+    "desc": "Reimburses the insured for direct costs of a breach, including forensics, notification, and ransomware payments."
+  },
+  {
+    "id": 1266,
+    "l1": "P&C",
+    "l2": "Cyber Liability",
+    "l3": "Cyber Liability (Third-Party)",
+    "desc": "Covers defense and settlement costs for lawsuits from clients or partners harmed by the insured's data breach."
+  },
+  {
+    "id": 1267,
+    "l1": "P&C",
+    "l2": "Cyber Liability",
+    "l3": "Parametric Cyber Insurance",
+    "desc": "Trigger-based coverage paying a set amount automatically upon a verified cyber event, like prolonged cloud downtime."
+  },
+  {
+    "id": 1268,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Fiduciary Liability",
+    "desc": "Protects fiduciaries and trustees of employee benefit plans against claims of mismanagement or breach of duty."
+  },
+  {
+    "id": 1269,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Trade Credit / Export Credit",
+    "desc": "Protects accounts receivable from non-payment due to insolvency, prolonged default, or political risk."
+  },
+  {
+    "id": 1270,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Representations & Warranties (M&A)",
+    "desc": "Protects buyers or sellers in M&A transactions against breaches of representations made in the purchase agreement."
+  },
+  {
+    "id": 1271,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Tax Indemnity Insurance",
+    "desc": "Protects against the financial consequences of a tax authority challenging a specific, disclosed tax position."
+  },
+  {
+    "id": 1272,
+    "l1": "P&C",
+    "l2": "Financial Lines",
+    "l3": "Title Insurance (Commercial)",
+    "desc": "Indemnifies commercial real estate owners and lenders against loss arising from unknown defects in property titles."
+  },
+  {
+    "id": 1273,
+    "l1": "P&C",
+    "l2": "Professional Liability",
+    "l3": "Media Liability",
+    "desc": "Specialized E&O covering publishers and broadcasters against defamation, plagiarism, and copyright infringement."
+  },
+  {
+    "id": 1274,
+    "l1": "P&C",
+    "l2": "Professional Liability",
+    "l3": "Technology Errors & Omissions",
+    "desc": "Protects tech companies against claims of financial loss due to software failures, downtime, or implementation errors."
+  },
+  {
+    "id": 1275,
+    "l1": "P&C",
+    "l2": "Specialty Casualty",
+    "l3": "Environmental Impairment / Pollution",
+    "desc": "Covers site cleanup costs and third-party bodily injury/property damage arising from pollution events."
+  },
+  {
+    "id": 1276,
+    "l1": "P&C",
+    "l2": "Specialty Casualty",
+    "l3": "Contingency: Prize Indemnity",
+    "desc": "Insures the payout of large promotional prizes (e.g., hole-in-one, half-court shot) if successfully claimed."
+  },
+  {
+    "id": 1277,
+    "l1": "P&C",
+    "l2": "Specialty Casualty",
+    "l3": "Contingency: Over-redemption",
+    "desc": "Protects retailers and marketers from financial losses if promotional coupons or rebates are redeemed at higher-than-expected rates."
+  },
+  {
+    "id": 1278,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Bid Bonds",
+    "desc": "Guarantees that a contractor bidding on a project will enter into the contract and provide performance bonds if awarded."
+  },
+  {
+    "id": 1279,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Performance Bonds",
+    "desc": "Guarantees the completion of a construction contract according to its terms and specifications."
+  },
+  {
+    "id": 1280,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Payment Bonds",
+    "desc": "Guarantees that the contractor will pay all subcontractors and material suppliers on the project."
+  },
+  {
+    "id": 1281,
+    "l1": "P&C",
+    "l2": "Surety",
+    "l3": "Surety: Ancillary Bonds",
+    "desc": "Miscellaneous surety bonds such as customs bonds, license and permit bonds, or court bonds."
+  },
+  {
+    "id": 1282,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Contractor's Equipment",
+    "desc": "Broad physical damage coverage for mobile heavy machinery and tools used in contracting operations."
+  },
+  {
+    "id": 1283,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Transit / Transportation",
+    "desc": "Covers property while actively in the course of transit by rail, truck, or air."
+  },
+  {
+    "id": 1284,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Bailee's Customer",
+    "desc": "Covers the insured's liability for damage to customer property left in their care, custody, or control."
+  },
+  {
+    "id": 1285,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Installation Floater",
+    "desc": "Covers machinery and materials intended for installation at a job site until the work is accepted."
+  },
+  {
+    "id": 1286,
+    "l1": "P&C",
+    "l2": "Inland Marine",
+    "l3": "Inland Marine: Riggers Liability",
+    "desc": "Specialized liability for the unique risks of lifting, hoisting, and moving heavy property of others."
+  },
+  {
+    "id": 1287,
+    "l1": "P&C",
+    "l2": "Ocean Marine",
+    "l3": "Ocean Marine: Freight Insurance",
+    "desc": "Covers the financial loss of shipping freight revenue if a vessel is unable to complete its voyage."
+  },
+  {
+    "id": 1288,
+    "l1": "P&C",
+    "l2": "Aviation",
+    "l3": "Aviation: Hangar-keepers Liability",
+    "desc": "Bailee coverage protecting aviation facilities from liability for damage to non-owned aircraft stored in their hangars."
+  },
+  {
+    "id": 1289,
+    "l1": "P&C",
+    "l2": "Aviation",
+    "l3": "Aviation: Non-Owned Aircraft",
+    "desc": "Liability coverage for corporations chartering or renting aircraft they do not own."
+  },
+  {
+    "id": 1290,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1291,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Multiple Peril Crop Insurance (MPCI)",
+    "desc": "Federally reinsured coverage protecting farmers against systemic agricultural risks like widespread drought."
+  },
+  {
+    "id": 1292,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Crop-Hail",
+    "desc": "Private market, non-subsidized coverage specifically for highly localized hail and fire damage to yields."
+  },
+  {
+    "id": 1293,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Crop Revenue Coverage (CRC)",
+    "desc": "Protects agricultural producers against combined yield physical losses and severe commodity price fluctuations."
+  },
+  {
+    "id": 1294,
+    "l1": "P&C",
+    "l2": "Crop Insurance",
+    "l3": "Pasture, Rangeland, and Forage",
+    "desc": "Parametric insurance indexed to rainfall levels to protect livestock producers' feed sources."
+  },
+  {
+    "id": 1295,
+    "l1": "P&C",
+    "l2": "Flood Insurance",
+    "l3": "Federal Flood (NFIP)",
+    "desc": "Primary property flood coverage backed and managed by government programs requiring strict compliance reporting."
+  },
+  {
+    "id": 1296,
+    "l1": "P&C",
+    "l2": "Flood Insurance",
+    "l3": "Private Residential Flood",
+    "desc": "Non-NFIP primary flood coverage offering higher limits and broader protection through private carriers."
+  },
+  {
+    "id": 1297,
+    "l1": "P&C",
+    "l2": "Flood Insurance",
+    "l3": "Commercial Excess Flood",
+    "desc": "Private market commercial coverage extending financial limits far above the federal flood programmatic caps."
+  },
+  {
+    "id": 1298,
+    "l1": "P&C",
+    "l2": "Farmowners",
+    "l3": "Commercial Farm & Ranch",
+    "desc": "Comprehensive package policy for agricultural businesses covering outbuildings, livestock, and operational liability."
+  },
+  {
+    "id": 1299,
+    "l1": "P&C",
+    "l2": "Event Insurance",
+    "l3": "Event Cancellation",
+    "desc": "Indemnifies severe financial loss if a major event is canceled due to weather or unforeseen catastrophic causes."
+  },
+  {
+    "id": 1300,
+    "l1": "P&C",
+    "l2": "Event Insurance",
+    "l3": "Prize Indemnity",
+    "desc": "Covers the cost of large promotional prizes (e.g., hole-in-one golf tournaments) if won by a participant."
+  },
+  {
+    "id": 1301,
+    "l1": "P&C",
+    "l2": "Event Insurance",
+    "l3": "Weather Parametric",
+    "desc": "Automated payouts triggered instantly when specific meteorological parameters (e.g., wind speed) are breached."
+  },
+  {
+    "id": 1302,
+    "l1": "P&C",
+    "l2": "Pet Insurance",
+    "l3": "Companion Animal Medical",
+    "desc": "Actuarially modeled reimbursement for veterinary surgical costs for accidents and illnesses in domestic pets."
+  },
+  {
+    "id": 1303,
+    "l1": "P&C",
+    "l2": "Title Insurance",
+    "l3": "Real Estate Title",
+    "desc": "Indemnifies the buyer or lender against financial loss from defects in real property titles or liens."
+  },
+  {
+    "id": 1304,
+    "l1": "P&C",
+    "l2": "Agriculture",
+    "l3": "Crop: Named Peril",
+    "desc": "Covers crop yield losses caused by specific, specifically scheduled weather perils like hail or fire."
+  },
+  {
+    "id": 1305,
+    "l1": "P&C",
+    "l2": "Agriculture",
+    "l3": "Livestock & Bloodstock",
+    "desc": "Mortality and specific peril coverage for farm animals, high-value breeding stock, and racehorses."
+  },
+  {
+    "id": 1306,
+    "l1": "P&C",
+    "l2": "Climate / Parametric",
+    "l3": "Parametric Weather Insurance",
+    "desc": "Index-based coverage paying predetermined amounts when objective weather metrics (e.g., rainfall, temperature) exceed thresholds."
+  },
+  {
+    "id": 1307,
+    "l1": "P&C",
+    "l2": "Climate / Parametric",
+    "l3": "Parametric Earthquake Insurance",
+    "desc": "Pays out rapidly based solely on the recorded magnitude and location of a seismic event, regardless of actual physical damage."
+  },
+  {
+    "id": 1308,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1309,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "10-Year Term Life",
+    "desc": "Pure mortality protection with level premiums mathematically guaranteed for exactly 10 years."
+  },
+  {
+    "id": 1310,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "20-Year Term Life",
+    "desc": "Level premium protection over a two-decade horizon, traditionally utilized for primary mortgage protection."
+  },
+  {
+    "id": 1311,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "Decreasing Term Life",
+    "desc": "Death benefit linearly reduces over time, commonly tied mathematically to an amortizing commercial loan."
+  },
+  {
+    "id": 1312,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "Return of Premium Term",
+    "desc": "Refunds all paid premiums if the insured outlives the specified policy term, requiring unique accounting reserves."
+  },
+  {
+    "id": 1313,
+    "l1": "Life",
+    "l2": "Term Life",
+    "l3": "Annual Renewable Term (ART)",
+    "desc": "One-year term policy guaranteeing renewability, with premiums recalculating and increasing annually based on attained age."
+  },
+  {
+    "id": 1314,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Whole Life (Participating)",
+    "desc": "Lifelong coverage featuring a guaranteed cash value and the potential to earn dividends from the carrier's surplus."
+  },
+  {
+    "id": 1315,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Whole Life (Non-Participating)",
+    "desc": "Lifelong coverage with fully fixed premiums, death benefits, and cash values, assuming no dividend sharing."
+  },
+  {
+    "id": 1316,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Universal Life",
+    "desc": "Highly flexible premium and adjustable death benefit structures with an interest-bearing cash value component."
+  },
+  {
+    "id": 1317,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Indexed Universal Life (IUL)",
+    "desc": "Cash value growth tied algorithmically to a market index (e.g., S&P 500) featuring strict downside protection floors."
+  },
+  {
+    "id": 1318,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Variable Universal Life (VUL)",
+    "desc": "Cash value is actively invested in market sub-accounts, transferring the primary investment risk to the policyholder."
+  },
+  {
+    "id": 1319,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Survivorship (Second-to-Die)",
+    "desc": "Covers two lives simultaneously, paying out only after the second death; heavily utilized in estate tax planning."
+  },
+  {
+    "id": 1320,
+    "l1": "Life",
+    "l2": "Permanent Life",
+    "l3": "Joint Life (First-to-Die)",
+    "desc": "Pays out upon the death of the first of two insured individuals, often used for business continuity planning."
+  },
+  {
+    "id": 1321,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Final Expense (Burial)",
+    "desc": "Small face-value whole life policies designed strictly to cover funeral costs, featuring simplified underwriting."
+  },
+  {
+    "id": 1322,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Guaranteed Issue Life",
+    "desc": "Policies issued entirely without medical underwriting, generally targeted at older, higher-risk demographics."
+  },
+  {
+    "id": 1323,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Group Life",
+    "desc": "Employer-sponsored life insurance issued administratively on a massive master contract basis."
+  },
+  {
+    "id": 1324,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Credit Life",
+    "desc": "Pays off a specific outstanding debt (e.g., auto loan) upon the borrower's death, usually force-placed."
+  },
+  {
+    "id": 1325,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Corporate-Owned Life (COLI)",
+    "desc": "Life insurance purchased by a corporation on key employees to finance executive benefit plans."
+  },
+  {
+    "id": 1326,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Bank-Owned Life (BOLI)",
+    "desc": "Specialized tax-advantaged life insurance purchased by banks to offset the cost of employee benefits."
+  },
+  {
+    "id": 1327,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Fixed Deferred Annuity",
+    "desc": "Guarantees a specific, locked rate of return on the accumulated principal over a set deferral duration."
+  },
+  {
+    "id": 1328,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Variable Deferred Annuity",
+    "desc": "Returns fluctuate continuously based on the daily performance of selected mutual fund sub-accounts."
+  },
+  {
+    "id": 1329,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Fixed Indexed Annuity (FIA)",
+    "desc": "Principal protection with returns mathematically linked to external market indices, capping both upside and downside."
+  },
+  {
+    "id": 1330,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Multi-Year Guarantee Annuity",
+    "desc": "A fixed annuity that offers a mathematically locked-in interest rate for a specific multi-year term (e.g., 3, 5, or 7 years)."
+  },
+  {
+    "id": 1331,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Single Premium Immediate Annuity",
+    "desc": "Converts a lump-sum premium into an irrevocable, mathematically calculated income stream starting immediately."
+  },
+  {
+    "id": 1332,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Deferred Income Annuity (DIA)",
+    "desc": "Locks in future guaranteed income payments that begin at a specific delayed date, mitigating longevity risk."
+  },
+  {
+    "id": 1333,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Joint & Survivor Annuity",
+    "desc": "Lifetime payments that continue uninterrupted until both specified joint annuitants have passed away."
+  },
+  {
+    "id": 1334,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Period Certain Annuity",
+    "desc": "Guaranteed payout payments for a set duration (e.g., 20 years), which continue to heirs even if the annuitant dies."
+  },
+  {
+    "id": 1335,
+    "l1": "Annuity",
+    "l2": "Payout Annuity",
+    "l3": "Qualified Longevity Annuity (QLAC)",
+    "desc": "Specialized deferred annuity funded from a qualified retirement plan to delay required minimum distributions (RMDs)."
+  },
+  {
+    "id": 1336,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Simplified Issue Life",
+    "desc": "Life insurance issued quickly with no medical exam, relying instead on health questionnaires and prescription databases."
+  },
+  {
+    "id": 1337,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Group Universal Life (GUL)",
+    "desc": "Employer-sponsored universal life insurance combining term protection with an optional, employee-funded savings component."
+  },
+  {
+    "id": 1338,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Terminal Illness / Accelerated Death Rider",
+    "desc": "Allows the insured to receive a portion of the death benefit early if diagnosed with a qualifying terminal illness."
+  },
+  {
+    "id": 1339,
+    "l1": "Life",
+    "l2": "Specialized Life",
+    "l3": "Accidental Death Rider",
+    "desc": "Provides an additional, supplemental death benefit if the insured's death is the direct result of a covered accident."
+  },
+  {
+    "id": 1340,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Market Value Adjusted Annuity (MVA)",
+    "desc": "A fixed annuity where early withdrawals are subject to a positive or negative adjustment based on prevailing interest rate movements."
+  },
+  {
+    "id": 1341,
+    "l1": "Annuity",
+    "l2": "Accumulation Annuity",
+    "l3": "Registered Index-Linked Annuity (RILA)",
+    "desc": "A complex annuity blending features of indexed and variable products, exposing the owner to some downside risk for higher upside potential."
+  },
+  {
+    "id": 1342,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1343,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Individual Major Medical",
+    "desc": "Comprehensive coverage for hospital, surgical, and preventative care for individuals without employer coverage."
+  },
+  {
+    "id": 1344,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Group Health (Employer)",
+    "desc": "Sponsored healthcare coverage managed administratively through a corporate enterprise master policy."
+  },
+  {
+    "id": 1345,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Health Maintenance Org. (HMO)",
+    "desc": "Restrictive network plans requiring a primary care physician gatekeeper and offering minimal out-of-network benefits."
+  },
+  {
+    "id": 1346,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Preferred Provider Org. (PPO)",
+    "desc": "Flexible plans allowing insureds to see out-of-network specialists without referrals, subject to higher deductibles."
+  },
+  {
+    "id": 1347,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "High-Deductible Health Plan",
+    "desc": "Health plans pairing exceptionally low premiums with tax-advantaged Health Savings Accounts (HSAs)."
+  },
+  {
+    "id": 1348,
+    "l1": "Health",
+    "l2": "Major Medical",
+    "l3": "Short-Term Health Insurance",
+    "desc": "Temporary, limited-duration coverage designed to bridge gaps between major medical plan enrollments."
+  },
+  {
+    "id": 1349,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicare Advantage (Part C)",
+    "desc": "Private managed care alternative to Original Medicare, often bundling prescription and dental benefits."
+  },
+  {
+    "id": 1350,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicare Supplement (Medigap)",
+    "desc": "Private insurance specifically covering out-of-pocket costs and deductibles not covered by Original Medicare."
+  },
+  {
+    "id": 1351,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicare Part D (Prescription)",
+    "desc": "Standalone federally regulated plans designed strictly for outpatient prescription drug coverage."
+  },
+  {
+    "id": 1352,
+    "l1": "Health",
+    "l2": "Government",
+    "l3": "Medicaid Managed Care",
+    "desc": "State-contracted private health administration for low-income and disabled populations."
+  },
+  {
+    "id": 1353,
+    "l1": "Health",
+    "l2": "Income Protection",
+    "l3": "Short-Term Disability",
+    "desc": "Replaces a portion of income for temporary inability to work (e.g., 3-6 months) due to non-work injuries."
+  },
+  {
+    "id": 1354,
+    "l1": "Health",
+    "l2": "Income Protection",
+    "l3": "Long-Term Disability",
+    "desc": "Sustained income replacement for severe, lasting occupational incapacitation extending for years."
+  },
+  {
+    "id": 1355,
+    "l1": "Health",
+    "l2": "Income Protection",
+    "l3": "Statutory Disability Benefits",
+    "desc": "State-mandated coverage specifically for non-occupational injuries, illnesses, and pregnancy."
+  },
+  {
+    "id": 1356,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Critical Illness Insurance",
+    "desc": "Lump-sum financial payout triggered upon the verified diagnosis of specific severe conditions like cancer or stroke."
+  },
+  {
+    "id": 1357,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Accidental Death & Dismemberment",
+    "desc": "Specific indemnification for severe bodily injuries or death resulting directly and solely from accidents."
+  },
+  {
+    "id": 1358,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Long-Term Care (LTC)",
+    "desc": "Covers extensive custodial care costs in nursing homes, assisted living facilities, or home care scenarios."
+  },
+  {
+    "id": 1359,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Dental Insurance",
+    "desc": "Standalone coverage for preventative maintenance, basic procedures, and major restorative dental work."
+  },
+  {
+    "id": 1360,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Vision Insurance",
+    "desc": "Standalone coverage for optical eye exams, corrective lenses, and specialized optical care."
+  },
+  {
+    "id": 1361,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Hospital Indemnity",
+    "desc": "Pays a predetermined fixed cash benefit for each day the insured is confined to a hospital."
+  },
+  {
+    "id": 1362,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Travel Medical",
+    "desc": "Specialized short-term health coverage for medical emergencies occurring while traveling internationally."
+  },
+  {
+    "id": 1363,
+    "l1": "Health",
+    "l2": "Institutional",
+    "l3": "Provider Excess Stop Loss",
+    "desc": "Protects self-funded healthcare entities and hospital systems against catastrophic individual patient claims."
+  },
+  {
+    "id": 1364,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Critical Illness / Specified Disease (Group)",
+    "desc": "Employer-sponsored lump-sum coverage for severe disease diagnoses, facilitating financial stability during recovery."
+  },
+  {
+    "id": 1365,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Hospital Indemnity (Group)",
+    "desc": "Employer-sponsored fixed daily cash benefits for hospital confinements to offset high medical deductibles."
+  },
+  {
+    "id": 1366,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Cancer Insurance",
+    "desc": "Standalone policy specifically focused on covering the extensive out-of-pocket costs associated with oncology treatments."
+  },
+  {
+    "id": 1367,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Expatriate Health Insurance",
+    "desc": "Comprehensive major medical coverage tailored for employees working outside their home country on long-term assignments."
+  },
+  {
+    "id": 1368,
+    "l1": "Health",
+    "l2": "Supplemental",
+    "l3": "Student Health Insurance",
+    "desc": "Sponsored medical coverage designed for domestic and international students enrolled at universities."
+  },
+  {
+    "id": 1369,
+    "l1": "Health",
+    "l2": "Institutional",
+    "l3": "Stop Loss: Specific (Employer)",
+    "desc": "Protects self-funded employer health plans against massive individual claims exceeding a specific dollar threshold."
+  },
+  {
+    "id": 1370,
+    "l1": "Health",
+    "l2": "Institutional",
+    "l3": "Stop Loss: Aggregate (Employer)",
+    "desc": "Protects self-funded employer health plans against the total portfolio of claims exceeding an expected cumulative threshold."
+  },
+  {
+    "id": 1371,
+    "l1": "Health",
+    "l2": "Specialized",
+    "l3": "Hybrid Life / Long-Term Care",
+    "desc": "Combines a permanent life insurance death benefit with an accelerated rider specifically reserved for long-term care expenses."
+  },
+  {
+    "id": 1372,
+    "l1": "Health",
+    "l2": "Specialized",
+    "l3": "Credit Disability Insurance",
+    "desc": "Pays the monthly minimum on specific debts or loans if the borrower becomes totally disabled and unable to work."
+  },
+  {
+    "id": 1373,
+    "l1": "Sector",
+    "l2": "Line of Business",
+    "l3": "Specific Product / Service",
+    "desc": "Risk Mechanism and EA Description"
+  },
+  {
+    "id": 1374,
+    "l1": "Ancillary",
+    "l2": "Roadside & Mobility",
+    "l3": "Roadside Assistance",
+    "desc": "Dispatch services for towing, battery jumps, and lockouts, often integrated via APIs with third-party networks."
+  },
+  {
+    "id": 1375,
+    "l1": "Ancillary",
+    "l2": "Roadside & Mobility",
+    "l3": "Rental Car Reimbursement",
+    "desc": "Direct payment to rental agencies to provide temporary transportation while a damaged vehicle is repaired."
+  },
+  {
+    "id": 1376,
+    "l1": "Ancillary",
+    "l2": "Risk Engineering",
+    "l3": "Loss Control Consulting",
+    "desc": "Expert safety inspections, ergonomic assessments, and hazard mitigation training provided to commercial clients."
+  },
+  {
+    "id": 1377,
+    "l1": "Ancillary",
+    "l2": "Risk Engineering",
+    "l3": "IoT Structural Monitoring",
+    "desc": "Deploying smart sensors to commercial properties for real-time detection of water leaks or structural stress."
+  },
+  {
+    "id": 1378,
+    "l1": "Ancillary",
+    "l2": "Cyber Services",
+    "l3": "Security Awareness Training",
+    "desc": "Offering phishing simulations and cyber hygiene courses to commercial insureds to proactively reduce breach risk."
+  },
+  {
+    "id": 1379,
+    "l1": "Ancillary",
+    "l2": "Cyber Services",
+    "l3": "Dark Web Monitoring",
+    "desc": "Continuous scanning of illicit marketplaces for compromised credentials or PII belonging to the insured."
+  },
+  {
+    "id": 1380,
+    "l1": "Ancillary",
+    "l2": "Health & Wellness",
+    "l3": "Telehealth Services",
+    "desc": "Providing policyholders with 24/7 on-demand digital access to medical professionals for minor consultations."
+  },
+  {
+    "id": 1381,
+    "l1": "Ancillary",
+    "l2": "Health & Wellness",
+    "l3": "Wellness Rewards Programs",
+    "desc": "Incentivizing healthy behaviors (e.g., hitting step goals via wearables) with premium discounts or gift cards."
+  },
+  {
+    "id": 1382,
+    "l1": "Ancillary",
+    "l2": "Legal Services",
+    "l3": "Prepaid Legal Plans",
+    "desc": "Retainer-based access to legal consultation, document review, and limited representation for individuals or businesses."
+  },
+  {
+    "id": 1383,
+    "l1": "Wealth Mgmt",
+    "l2": "Client Acquisition",
+    "l3": "Lead Generation & Scoring",
+    "desc": "Identifying and tracking high-net-worth prospects through sophisticated digital marketing pipelines and CRM tools.10"
+  },
+  {
+    "id": 1384,
+    "l1": "Wealth Mgmt",
+    "l2": "Client Acquisition",
+    "l3": "Client Onboarding & KYC",
+    "desc": "Digitizing the secure intake process, including Identity Management, biometric verification, and \"Know Your Customer\" protocols.6"
+  },
+  {
+    "id": 1385,
+    "l1": "Wealth Mgmt",
+    "l2": "Advisory Services",
+    "l3": "Financial Needs Analysis",
+    "desc": "Comprehensively assessing a client's total financial picture, risk tolerance, estate plans, and retirement goals.46"
+  },
+  {
+    "id": 1386,
+    "l1": "Wealth Mgmt",
+    "l2": "Advisory Services",
+    "l3": "Multi-Goal Scenario Planning",
+    "desc": "Simulating various macroeconomic market conditions to stochastically stress-test the viability of retirement plans."
+  },
+  {
+    "id": 1387,
+    "l1": "Wealth Mgmt",
+    "l2": "Portfolio Construction",
+    "l3": "Asset Allocation",
+    "desc": "Determining the optimal mathematical mix of global equities, fixed income, and alternative investments based on risk profiles."
+  },
+  {
+    "id": 1388,
+    "l1": "Wealth Mgmt",
+    "l2": "Portfolio Construction",
+    "l3": "Direct Indexing",
+    "desc": "Replicating broad market indices within individual portfolios while harvesting losses in a highly tax-efficient manner.2"
+  },
+  {
+    "id": 1389,
+    "l1": "Wealth Mgmt",
+    "l2": "Order Management",
+    "l3": "Trade Generation",
+    "desc": "Translating high-level asset allocation decisions and rebalancing needs into specific, executable market orders.10"
+  },
+  {
+    "id": 1390,
+    "l1": "Wealth Mgmt",
+    "l2": "Order Management",
+    "l3": "Pre-Trade Compliance",
+    "desc": "Systematically ensuring proposed trades do not violate specific client mandates, ESG requirements, or regulatory restrictions."
+  },
+  {
+    "id": 1391,
+    "l1": "Asset Mgmt",
+    "l2": "Risk Management",
+    "l3": "Market Risk Analytics",
+    "desc": "Calculating complex metrics like Value at Risk (VaR) and exposure to systemic global market volatility scenarios.10"
+  },
+  {
+    "id": 1392,
+    "l1": "Asset Mgmt",
+    "l2": "Risk Management",
+    "l3": "Credit & Counterparty Risk",
+    "desc": "Assessing the statistical likelihood of default by trading partners, bond issuers, or derivative counterparties."
+  },
+  {
+    "id": 1393,
+    "l1": "Asset Mgmt",
+    "l2": "Compliance Monitoring",
+    "l3": "Post-Trade Compliance",
+    "desc": "Auditing executed trades retroactively against internal risk policies and external regulatory frameworks (e.g., SEC, MiFID II).10"
+  },
+  {
+    "id": 1394,
+    "l1": "Asset Mgmt",
+    "l2": "Compliance Monitoring",
+    "l3": "AML / Sanctions Screening",
+    "desc": "Continuously screening global asset flows against Anti-Money Laundering databases and OFAC sanctions lists."
+  },
+  {
+    "id": 1395,
+    "l1": "Asset Mgmt",
+    "l2": "Performance Analytics",
+    "l3": "Return Attribution",
+    "desc": "Dissecting portfolio returns mathematically to isolate the impact of strategic asset allocation versus tactical stock selection."
+  },
+  {
+    "id": 1396,
+    "l1": "Asset Mgmt",
+    "l2": "Performance Analytics",
+    "l3": "Benchmark Comparison",
+    "desc": "Measuring the portfolio's absolute and risk-adjusted return against relevant market indices (e.g., S\\&P 500, MSCI World)."
+  },
+  {
+    "id": 1397,
+    "l1": "Asset Mgmt",
+    "l2": "Trade Support",
+    "l3": "Trade Matching & Confirmation",
+    "desc": "Reconciling executed trade details rapidly with external brokers and clearing counterparties prior to final settlement."
+  },
+  {
+    "id": 1398,
+    "l1": "Asset Mgmt",
+    "l2": "Fund Accounting",
+    "l3": "Net Asset Value (NAV) Calc.",
+    "desc": "Computing the daily per-share value of mutual funds and investment vehicles with extreme precision."
+  },
+  {
+    "id": 1399,
+    "l1": "Asset Mgmt",
+    "l2": "Fund Accounting",
+    "l3": "Expense Accrual",
+    "desc": "Managing the daily algorithmic calculation and deduction of management fees and operational costs from fund assets."
+  },
+  {
+    "id": 1400,
+    "l1": "Asset Mgmt",
+    "l2": "Custody & Settlement",
+    "l3": "Settlement Execution",
+    "desc": "Orchestrating the final, irrevocable exchange of cash and securities via global clearinghouses."
+  },
+  {
+    "id": 1401,
+    "l1": "Asset Mgmt",
+    "l2": "Custody & Settlement",
+    "l3": "Corporate Actions Processing",
+    "desc": "Managing the complex financial impact of dividends, stock splits, spin-offs, and mergers on portfolio holdings."
+  },
+  {
+    "id": 1402,
+    "l1": "Asset Mgmt",
+    "l2": "Custody & Settlement",
+    "l3": "Vault & Asset Safekeeping",
+    "desc": "Managing the secure, digital custody of traditional securities and increasingly, emerging crypto and digital assets.45"
+  },
+  {
+    "id": 1403,
+    "l1": "Asset Mgmt",
+    "l2": "Client Reporting",
+    "l3": "Statement Generation",
+    "desc": "Producing secure, periodic financial statements detailing accurate holdings, performance data, and fees deducted."
+  },
+  {
+    "id": 1404,
+    "l1": "Asset Mgmt",
+    "l2": "Client Reporting",
+    "l3": "Tax Reporting",
+    "desc": "Generating necessary capital gains (1099s) and income tax documentation for clients and regulatory bodies."
+  },
+  {
+    "id": 1405,
+    "l1": "Corporate",
+    "l2": "Talent Acquisition",
+    "l3": "Workforce Planning",
+    "desc": "Forecasting long-term staffing needs based on strategic enterprise goals, market expansion, and actuarial demands.49"
+  },
+  {
+    "id": 1406,
+    "l1": "Corporate",
+    "l2": "Talent Acquisition",
+    "l3": "Candidate Sourcing & Recruiting",
+    "desc": "Managing the pipeline of external applicants, executing structured interviews, and extending formal employment offers.50"
+  },
+  {
+    "id": 1407,
+    "l1": "Corporate",
+    "l2": "Employee Lifecycle",
+    "l3": "Employee Onboarding",
+    "desc": "Provisioning IT assets securely, executing background checks, and orienting new hires to corporate culture.49"
+  },
+  {
+    "id": 1408,
+    "l1": "Corporate",
+    "l2": "Employee Lifecycle",
+    "l3": "Payroll Administration",
+    "desc": "Processing employee compensation accurately, calculating complex tax withholdings, and managing direct deposits.51"
+  },
+  {
+    "id": 1409,
+    "l1": "Corporate",
+    "l2": "Employee Lifecycle",
+    "l3": "Compensation & Benefits",
+    "desc": "Designing and administering competitive health plans, 401(k) matching, and executive performance bonuses.49"
+  },
+  {
+    "id": 1410,
+    "l1": "Corporate",
+    "l2": "Performance Mgmt",
+    "l3": "Training & Development",
+    "desc": "Managing continuous corporate education, mandatory licensing for agents, and leadership development tracks."
+  },
+  {
+    "id": 1411,
+    "l1": "Corporate",
+    "l2": "Performance Mgmt",
+    "l3": "Goal & Evaluation Management",
+    "desc": "Executing cyclical performance reviews systematically and tying them directly to compensation matrices."
+  },
+  {
+    "id": 1412,
+    "l1": "Corporate",
+    "l2": "Performance Mgmt",
+    "l3": "Workforce Analytics & Planning",
+    "desc": "Using predictive models to analyze employee turnover, skill gaps, and optimize organizational design."
+  },
+  {
+    "id": 1413,
+    "l1": "Corporate",
+    "l2": "Financial Accounting",
+    "l3": "Accounts Payable (AP)",
+    "desc": "Managing the rigorous approval and outflow of cash to external vendors, software suppliers, and operational partners.49"
+  },
+  {
+    "id": 1414,
+    "l1": "Corporate",
+    "l2": "Financial Accounting",
+    "l3": "Accounts Receivable (AR)",
+    "desc": "Processing incoming non-premium cash flows and executing Business-to-Business (B2B) collections.49"
+  },
+  {
+    "id": 1415,
+    "l1": "Corporate",
+    "l2": "Financial Accounting",
+    "l3": "General Ledger Management",
+    "desc": "Maintaining the immutable master record of all corporate financial transactions across all subsidiaries and regions."
+  },
+  {
+    "id": 1416,
+    "l1": "Corporate",
+    "l2": "Corporate Finance",
+    "l3": "Budgeting & Forecasting",
+    "desc": "Developing annual operating plans and modeling future financial trajectories based on market assumptions.49"
+  },
+  {
+    "id": 1417,
+    "l1": "Corporate",
+    "l2": "Corporate Finance",
+    "l3": "Treasury & Cash Management",
+    "desc": "Managing vast enterprise liquidity, optimizing working capital, and processing daily bank reconciliations."
+  },
+  {
+    "id": 1418,
+    "l1": "Corporate",
+    "l2": "Corporate Finance",
+    "l3": "Tax Planning & Compliance",
+    "desc": "Ensuring strict adherence to federal, state, and complex international tax codes to minimize liabilities legally."
+  },
+  {
+    "id": 1419,
+    "l1": "Corporate",
+    "l2": "Legal Operations",
+    "l3": "Contract Lifecycle Management",
+    "desc": "Drafting, negotiating, and digitally archiving enterprise vendor, technology, and strategic partner agreements.10"
+  },
+  {
+    "id": 1420,
+    "l1": "Corporate",
+    "l2": "Legal Operations",
+    "l3": "Intellectual Property Mgmt",
+    "desc": "Protecting corporate trademarks, proprietary algorithmic patents, and copyrights.10"
+  },
+  {
+    "id": 1421,
+    "l1": "Corporate",
+    "l2": "Legal Operations",
+    "l3": "Corporate Litigation Mgmt",
+    "desc": "Overseeing massive defense strategies for enterprise-level civil lawsuits, entirely separate from individual claims litigation."
+  },
+  {
+    "id": 1422,
+    "l1": "Corporate",
+    "l2": "Procurement",
+    "l3": "Vendor & Supplier Management",
+    "desc": "Evaluating third-party providers systematically, conducting RFPs, and monitoring SLAs continuously.10"
+  },
+  {
+    "id": 1423,
+    "l1": "Corporate",
+    "l2": "Procurement",
+    "l3": "Strategic Sourcing",
+    "desc": "Identifying massive cost-saving opportunities in the bulk acquisition of IT hardware, SaaS services, and operational materials."
+  },
+  {
+    "id": 1424,
+    "l1": "Corporate",
+    "l2": "Facility Management",
+    "l3": "Real Estate Portfolio Mgmt",
+    "desc": "Optimizing the physical footprint of massive corporate headquarters, regional hubs, and localized field offices.10"
+  },
+  {
+    "id": 1425,
+    "l1": "Corporate",
+    "l2": "Facility Management",
+    "l3": "Physical Security Management",
+    "desc": "Ensuring the safety of employees and physical assets via biometric access controls and constant monitoring."
+  },
+  {
+    "id": 1426,
+    "l1": "Enterprise Risk",
+    "l2": "ERM",
+    "l3": "Risk Appetite Framework",
+    "desc": "Establishing and monitoring the enterprise-wide risk tolerances across market, credit, operational, and insurance risks."
+  },
+  {
+    "id": 1427,
+    "l1": "Enterprise Risk",
+    "l2": "ERM",
+    "l3": "Business Continuity",
+    "desc": "Planning and executing crisis management and disaster recovery across all business operations."
+  },
+  {
+    "id": 1428,
+    "l1": "Enterprise Risk",
+    "l2": "ERM",
+    "l3": "Third-Party Risk Mgmt",
+    "desc": "Assessing and mitigating risks introduced by external vendors, suppliers, and ecosystem partners."
+  },
+  {
+    "id": 1429,
+    "l1": "Corporate Svcs",
+    "l2": "Compliance & Ethics",
+    "l3": "Regulatory Compliance",
+    "desc": "Ensuring adherence to global and local insurance regulations, data privacy laws, and ethical standards."
+  },
+  {
+    "id": 1430,
+    "l1": "Corporate Svcs",
+    "l2": "Internal Audit",
+    "l3": "Audit Operations",
+    "desc": "Conducting independent evaluations of internal controls, risk management, and governance processes."
+  },
+  {
+    "id": 1431,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "Strategic Planning",
+    "desc": "Formulating long-term corporate strategies, market entry plans, and competitive positioning."
+  },
+  {
+    "id": 1432,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "Mergers & Acquisitions",
+    "desc": "Executing the identification, valuation, and integration of acquired entities and business units."
+  },
+  {
+    "id": 1433,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "Innovation & R&D",
+    "desc": "Incubating new business models, product concepts, and advanced technology applications."
+  },
+  {
+    "id": 1434,
+    "l1": "Corporate Svcs",
+    "l2": "Strategy & Dev",
+    "l3": "ESG Management",
+    "desc": "Managing Environmental, Social, and Governance initiatives, reporting, and sustainable investment strategies."
+  },
+  {
+    "id": 1435,
+    "l1": "Financial Mgmt",
+    "l2": "Investments",
+    "l3": "Proprietary Asset Mgmt",
+    "desc": "Managing the carrier's own massive balance sheet assets to ensure solvency and optimize returns."
+  },
+  {
+    "id": 1436,
+    "l1": "Financial Mgmt",
+    "l2": "Actuarial Sciences",
+    "l3": "Enterprise Actuarial Analysis",
+    "desc": "Overseeing holistic enterprise-wide reserving, capital adequacy, and actuarial modeling beyond product pricing."
+  },
+  {
+    "id": 1437,
+    "l1": "Corporate Svcs",
+    "l2": "Gov Relations",
+    "l3": "Public Affairs",
+    "desc": "Lobbying and managing relationships with legislative bodies, regulators, and industry associations."
+  },
+  {
+    "id": 1438,
+    "l1": "Corporate Svcs",
+    "l2": "Legal Operations",
+    "l3": "Legal Entity Management",
+    "desc": "Maintaining the corporate structure, board governance, and subsidiary compliance across jurisdictions."
+  },
+  {
+    "id": 1439,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "Enterprise Architecture",
+    "desc": "Aligning business intent strictly with technology roadmaps across data, application, and security domains.14"
+  },
+  {
+    "id": 1440,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "Demand Management",
+    "desc": "Evaluating and rigorously prioritizing business requests for new technology solutions through a single governance funnel.14"
+  },
+  {
+    "id": 1441,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "IT Portfolio Rationalization",
+    "desc": "Assessing the lifecycle of applications continuously to decide whether to tolerate, migrate, or eliminate them.46"
+  },
+  {
+    "id": 1442,
+    "l1": "IT Mgmt",
+    "l2": "Solution Delivery",
+    "l3": "Software Dev. Lifecycle (SDLC)",
+    "desc": "Managing rapid agile/DevOps pipelines for building custom underwriting applications and front-end portals.52"
+  },
+  {
+    "id": 1443,
+    "l1": "IT Mgmt",
+    "l2": "Solution Delivery",
+    "l3": "Quality Assurance & Testing",
+    "desc": "Executing massive automated and manual testing suites to ensure code reliability and performance under load."
+  },
+  {
+    "id": 1444,
+    "l1": "IT Mgmt",
+    "l2": "Data Management",
+    "l3": "Data Warehousing & Data Lakes",
+    "desc": "Centralizing structured and unstructured enterprise data for seamless access and advanced analytics.14"
+  },
+  {
+    "id": 1445,
+    "l1": "IT Mgmt",
+    "l2": "Data Management",
+    "l3": "Master Data Management",
+    "desc": "Ensuring a highly governed single source of truth for core entities (e.g., Party, Policy, Asset) across all systems.23"
+  },
+  {
+    "id": 1446,
+    "l1": "IT Mgmt",
+    "l2": "Data Management",
+    "l3": "Business Intelligence (BI)",
+    "desc": "Managing the extensive ecosystem of reporting dashboards and data visualization tools for executive decisioning.14"
+  },
+  {
+    "id": 1447,
+    "l1": "IT Mgmt",
+    "l2": "IT Operations",
+    "l3": "IT Service Management (ITSM)",
+    "desc": "Managing the provisioning of hardware services, helpdesk support, and strict SLA enforcement.14"
+  },
+  {
+    "id": 1448,
+    "l1": "IT Mgmt",
+    "l2": "IT Operations",
+    "l3": "Cloud Infrastructure Mgmt",
+    "desc": "Operating and scaling virtualized computing assets dynamically across public, private, and hybrid cloud environments.14"
+  },
+  {
+    "id": 1449,
+    "l1": "IT Mgmt",
+    "l2": "IT Operations",
+    "l3": "Incident & Problem Mgmt",
+    "desc": "Monitoring systemic utilization, resolving critical service outages rapidly, and identifying deeply hidden root causes.14"
+  },
+  {
+    "id": 1450,
+    "l1": "IT Mgmt",
+    "l2": "Security & Risk",
+    "l3": "Identity & Access Management",
+    "desc": "Controlling user permissions, MFA, and system access rigorously based on zero-trust security principles.10"
+  },
+  {
+    "id": 1451,
+    "l1": "IT Mgmt",
+    "l2": "Security & Risk",
+    "l3": "Cyber Threat Detection",
+    "desc": "Continuously monitoring enterprise networks for intrusions, anomalies, and malicious behavior.32"
+  },
+  {
+    "id": 1452,
+    "l1": "IT Mgmt",
+    "l2": "Security & Risk",
+    "l3": "Business Continuity & DR",
+    "desc": "Planning and executing massive disaster recovery protocols to ensure system availability during catastrophic events.49"
+  },
+  {
+    "id": 1453,
+    "l1": "IT Mgmt",
+    "l2": "Data Governance",
+    "l3": "Data Privacy Mgmt",
+    "desc": "Ensuring adherence to global data protection regulations and managing individual data rights."
+  },
+  {
+    "id": 1454,
+    "l1": "IT Mgmt",
+    "l2": "Knowledge Mgmt",
+    "l3": "Knowledge Base Admin",
+    "desc": "Curating and structuring enterprise knowledge to support both human workflows and AI applications."
+  },
+  {
+    "id": 1455,
+    "l1": "IT Mgmt",
+    "l2": "IT Strategy & Gov.",
+    "l3": "Change Mgmt & Transformation",
+    "desc": "Orchestrating organizational change methodologies to ensure successful adoption of new technologies."
+  },
+  {
+    "id": 1456,
+    "l1": "Agentic AI",
+    "l2": "AI Orchestration",
+    "l3": "Intent Capture & Disambig.",
+    "desc": "Using advanced NLP to decipher highly ambiguous user requests and algorithmically determine the required operational goal.23"
+  },
+  {
+    "id": 1457,
+    "l1": "Agentic AI",
+    "l2": "AI Orchestration",
+    "l3": "Planner-Executor Agenting",
+    "desc": "Deconstructing a massive, high-level goal into a perfectly sequenced series of automated tooling tasks and API calls.23"
+  },
+  {
+    "id": 1458,
+    "l1": "Agentic AI",
+    "l2": "AI Orchestration",
+    "l3": "Transboundary Orchestration",
+    "desc": "Allowing AI agents to seamlessly and securely execute tasks across disparate information silos and legacy core systems.61"
+  },
+  {
+    "id": 1459,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Autonomous Underwriting",
+    "desc": "Executing risk data enrichment, complex appetite checking, and final decisioning via LLMs and direct function calling.23"
+  },
+  {
+    "id": 1460,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Autonomous Claims Triage",
+    "desc": "Extracting profound context from raw FNOL documents to dynamically route claims or instantly approve straight-through processing.23"
+  },
+  {
+    "id": 1461,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Digital SDRs (Sales Agents)",
+    "desc": "Managing inbound inquiries, scheduling complex meetings, and executing multi-channel follow-ups entirely autonomously.60"
+  },
+  {
+    "id": 1462,
+    "l1": "Agentic AI",
+    "l2": "AI Execution",
+    "l3": "Legacy System Extraction",
+    "desc": "Deploying AI agents to analyze legacy COBOL mainframes, extract undocumented business rules, and generate process maps.18"
+  },
+  {
+    "id": 1463,
+    "l1": "IT Mgmt",
+    "l2": "Data Technology Management",
+    "l3": "Vector Database Management",
+    "desc": "Storing and rapidly retrieving semantic mathematical embeddings of complex policy wordings, claims notes, and transcripts.23"
+  },
+  {
+    "id": 1464,
+    "l1": "IT Mgmt",
+    "l2": "Data Technology Management",
+    "l3": "Knowledge Graph Admin.",
+    "desc": "Mapping and maintaining complex, multi-dimensional relationships between entities (customers, perils, treaties) to support deep reasoning.23"
+  },
+  {
+    "id": 1465,
+    "l1": "Agentic AI",
+    "l2": "Context Engineering",
+    "l3": "Retrieval-Augmented Gen (RAG)",
+    "desc": "Grounding LLM responses and agent decisions strictly in verified, highly secure proprietary enterprise knowledge bases.60"
+  },
+  {
+    "id": 1466,
+    "l1": "IT Mgmt",
+    "l2": "Data Technology Management",
+    "l3": "Feature Store Management",
+    "desc": "Managing and serving engineered data features (e.g., real-time fraud propensity scores) for instantaneous model consumption.23"
+  },
+  {
+    "id": 1467,
+    "l1": "Agentic AI",
+    "l2": "Cognitive Services",
+    "l3": "Self-Adaptive Conversational UI",
+    "desc": "Generating dynamic, persona-aware interfaces that continuously adapt based on real-time context and historical interaction insights.23"
+  },
+  {
+    "id": 1468,
+    "l1": "Agentic AI",
+    "l2": "Cognitive Services",
+    "l3": "Vision & Speech Computing",
+    "desc": "Processing high-resolution images for instant damage estimation and synthesizing speech for automated call summaries.23"
+  },
+  {
+    "id": 1469,
+    "l1": "Agentic AI",
+    "l2": "AI Governance",
+    "l3": "Boundary Enforcement",
+    "desc": "Implementing hard, machine-readable rules that technically and physically prevent an AI agent from violating set operational parameters.62"
+  },
+  {
+    "id": 1470,
+    "l1": "Agentic AI",
+    "l2": "AI Governance",
+    "l3": "Human-in-the-Loop Escalation",
+    "desc": "Automatically identifying low-confidence outputs and routing exceptions or high-risk decisions to a human analyst for immediate review.61"
+  },
+  {
+    "id": 1471,
+    "l1": "Agentic AI",
+    "l2": "AI Observability",
+    "l3": "Decision Lineage & Provenance",
+    "desc": "Logging the exact, step-by-step data and reasoning pathways an agent used to arrive at a decision to satisfy strict regulatory audits.23"
+  },
+  {
+    "id": 1472,
+    "l1": "Agentic AI",
+    "l2": "AI Observability",
+    "l3": "Model Drift Monitoring",
+    "desc": "Continuously evaluating AI performance mathematically to detect degradation in accuracy or the emergence of statistical bias.23"
+  },
+  {
+    "id": 1473,
+    "l1": "Agentic AI",
+    "l2": "AI Security",
+    "l3": "Secure Tool Calling (MCP)",
+    "desc": "Managing highly secure authentication and payload security when agents independently call external APIs or execute internal functions.23"
+  },
+  {
+    "id": 1474,
+    "l1": "Agentic AI",
+    "l2": "AI Security",
+    "l3": "Privacy-Preserving Decomp.",
+    "desc": "Masking and tokenizing sensitive PII attributes within the prompt/decision pipeline to ensure absolute data security and HIPAA compliance.21"
+  },
+  {
+    "id": 1475,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Fleet Risk Assessment",
+    "desc": "Advanced enterprise capability managing the fleet risk assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1476,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Cyber Liability Pricing",
+    "desc": "Advanced enterprise capability managing the cyber liability pricing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1477,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "D&O Coverage Analysis",
+    "desc": "Advanced enterprise capability managing the d&o coverage analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1478,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Cargo Risk Triage",
+    "desc": "Advanced enterprise capability managing the cargo risk triage operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1479,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Marine Hull Assessment",
+    "desc": "Advanced enterprise capability managing the marine hull assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1480,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Aviation Risk Management",
+    "desc": "Advanced enterprise capability managing the aviation risk management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1481,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Environmental Liability",
+    "desc": "Advanced enterprise capability managing the environmental liability operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1482,
+    "l1": "Commercial & Specialty",
+    "l2": "Commercial Underwriting",
+    "l3": "Construction Builders Risk",
+    "desc": "Advanced enterprise capability managing the construction builders risk operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1483,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Catastrophe Modeling",
+    "desc": "Advanced enterprise capability managing the catastrophe modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1484,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Reinsurance Subrogation",
+    "desc": "Advanced enterprise capability managing the reinsurance subrogation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1485,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Business Interruption Adjustment",
+    "desc": "Advanced enterprise capability managing the business interruption adjustment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1486,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Large Loss Reserving",
+    "desc": "Advanced enterprise capability managing the large loss reserving operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1487,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Multi-Party Litigation Management",
+    "desc": "Advanced enterprise capability managing the multi-party litigation management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1488,
+    "l1": "Commercial & Specialty",
+    "l2": "Complex Claims",
+    "l3": "Parametric Claim Triggers",
+    "desc": "Advanced enterprise capability managing the parametric claim triggers operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1489,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "MGA Delegation Management",
+    "desc": "Advanced enterprise capability managing the mga delegation management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1490,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Surplus Lines Compliance",
+    "desc": "Advanced enterprise capability managing the surplus lines compliance operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1491,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Syndicate Capital Management",
+    "desc": "Advanced enterprise capability managing the syndicate capital management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1492,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Broker Commission Tiering",
+    "desc": "Advanced enterprise capability managing the broker commission tiering operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1493,
+    "l1": "Commercial & Specialty",
+    "l2": "Broker & Agency Mgmt",
+    "l3": "Wholesale Market Syndication",
+    "desc": "Advanced enterprise capability managing the wholesale market syndication operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1494,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "On-Site Property Inspection",
+    "desc": "Advanced enterprise capability managing the on-site property inspection operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1495,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "Ergonomic Worksite Assessment",
+    "desc": "Advanced enterprise capability managing the ergonomic worksite assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1496,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "IoT Sensor Data Analytics",
+    "desc": "Advanced enterprise capability managing the iot sensor data analytics operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1497,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "Loss Control Recommendations",
+    "desc": "Advanced enterprise capability managing the loss control recommendations operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1498,
+    "l1": "Commercial & Specialty",
+    "l2": "Risk Control & Engineering",
+    "l3": "Supply Chain Vulnerability Analysis",
+    "desc": "Advanced enterprise capability managing the supply chain vulnerability analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1499,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Paramedical Exam Triage",
+    "desc": "Advanced enterprise capability managing the paramedical exam triage operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1500,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Attending Physician Statement (APS) NLP",
+    "desc": "Advanced enterprise capability managing the attending physician statement (aps) nlp operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1501,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Genetic Test Rule Routing",
+    "desc": "Advanced enterprise capability managing the genetic test rule routing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1502,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Cognitive Impairment Assessment",
+    "desc": "Advanced enterprise capability managing the cognitive impairment assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1503,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Mortality Table Calibration",
+    "desc": "Advanced enterprise capability managing the mortality table calibration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1504,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Morbidity Risk Scoring",
+    "desc": "Advanced enterprise capability managing the morbidity risk scoring operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1505,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Prescription History Analysis",
+    "desc": "Advanced enterprise capability managing the prescription history analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1506,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Diagnostic Code Adjudication",
+    "desc": "Advanced enterprise capability managing the diagnostic code adjudication operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1507,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Dental & Vision Pre-Authorization",
+    "desc": "Advanced enterprise capability managing the dental & vision pre-authorization operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1508,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Pharmacy Benefit Management",
+    "desc": "Advanced enterprise capability managing the pharmacy benefit management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1509,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Out-of-Network Coordination",
+    "desc": "Advanced enterprise capability managing the out-of-network coordination operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1510,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Coordination of Benefits (COB)",
+    "desc": "Advanced enterprise capability managing the coordination of benefits (cob) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1511,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Telehealth Consultation Settlement",
+    "desc": "Advanced enterprise capability managing the telehealth consultation settlement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1512,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Variable Annuity Sub-Account Mgmt",
+    "desc": "Advanced enterprise capability managing the variable annuity sub-account mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1513,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Fixed Indexed Crediting",
+    "desc": "Advanced enterprise capability managing the fixed indexed crediting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1514,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Guaranteed Minimum Withdrawal",
+    "desc": "Advanced enterprise capability managing the guaranteed minimum withdrawal operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1515,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "RMD (Required Minimum Distribution)",
+    "desc": "Advanced enterprise capability managing the rmd (required minimum distribution) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1516,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Beneficiary Transfer Management",
+    "desc": "Advanced enterprise capability managing the beneficiary transfer management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1517,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Surrender Charge Calculation",
+    "desc": "Advanced enterprise capability managing the surrender charge calculation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1518,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Employer Group Enrollment",
+    "desc": "Advanced enterprise capability managing the employer group enrollment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1519,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Census Data Management",
+    "desc": "Advanced enterprise capability managing the census data management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1520,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Voluntary Benefits Administration",
+    "desc": "Advanced enterprise capability managing the voluntary benefits administration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1521,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Group Premium Reconciliation",
+    "desc": "Advanced enterprise capability managing the group premium reconciliation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1522,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "COBRA Administration",
+    "desc": "Advanced enterprise capability managing the cobra administration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1523,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Leave of Absence Management",
+    "desc": "Advanced enterprise capability managing the leave of absence management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1524,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Strategic Asset Allocation",
+    "desc": "Advanced enterprise capability managing the strategic asset allocation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1525,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Tactical Asset Allocation",
+    "desc": "Advanced enterprise capability managing the tactical asset allocation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1526,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "ESG Strategy Integration",
+    "desc": "Advanced enterprise capability managing the esg strategy integration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1527,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Liability Driven Investing (LDI)",
+    "desc": "Advanced enterprise capability managing the liability driven investing (ldi) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1528,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Derivatives Overlay Management",
+    "desc": "Advanced enterprise capability managing the derivatives overlay management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1529,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Private Equity Commitments",
+    "desc": "Advanced enterprise capability managing the private equity commitments operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1530,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Real Estate Portfolio Modeling",
+    "desc": "Advanced enterprise capability managing the real estate portfolio modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1531,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Algorithmic Trade Routing",
+    "desc": "Advanced enterprise capability managing the algorithmic trade routing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1532,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Dark Pool Access",
+    "desc": "Advanced enterprise capability managing the dark pool access operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1533,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "FX Hedging Execution",
+    "desc": "Advanced enterprise capability managing the fx hedging execution operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1534,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Fixed Income Liquidity Sourcing",
+    "desc": "Advanced enterprise capability managing the fixed income liquidity sourcing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1535,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Post-Trade Settlement",
+    "desc": "Advanced enterprise capability managing the post-trade settlement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1536,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Collateral Management",
+    "desc": "Advanced enterprise capability managing the collateral management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1537,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Client Goal Profiling",
+    "desc": "Advanced enterprise capability managing the client goal profiling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1538,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Robo-Advisory Orchestration",
+    "desc": "Advanced enterprise capability managing the robo-advisory orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1539,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Trust & Estate Planning",
+    "desc": "Advanced enterprise capability managing the trust & estate planning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1540,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Tax-Loss Harvesting",
+    "desc": "Advanced enterprise capability managing the tax-loss harvesting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1541,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Philanthropic Structuring",
+    "desc": "Advanced enterprise capability managing the philanthropic structuring operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1542,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "High Net Worth Concierge",
+    "desc": "Advanced enterprise capability managing the high net worth concierge operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1543,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "GIPS Compliant Reporting",
+    "desc": "Advanced enterprise capability managing the gips compliant reporting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1544,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Attribution Analysis",
+    "desc": "Advanced enterprise capability managing the attribution analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1545,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Risk-Adjusted Return Calculation",
+    "desc": "Advanced enterprise capability managing the risk-adjusted return calculation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1546,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Client Statement Generation",
+    "desc": "Advanced enterprise capability managing the client statement generation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1547,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Tax Document Preparation",
+    "desc": "Advanced enterprise capability managing the tax document preparation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1548,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Regulatory Form ADV Filing",
+    "desc": "Advanced enterprise capability managing the regulatory form adv filing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1549,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Solvency II Calculation",
+    "desc": "Advanced enterprise capability managing the solvency ii calculation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1550,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Economic Capital Modeling",
+    "desc": "Advanced enterprise capability managing the economic capital modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1551,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Dividend Strategy Execution",
+    "desc": "Advanced enterprise capability managing the dividend strategy execution operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1552,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Share Repurchase Program",
+    "desc": "Advanced enterprise capability managing the share repurchase program operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1553,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Rating Agency Liaison",
+    "desc": "Advanced enterprise capability managing the rating agency liaison operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1554,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "ALM (Asset-Liability Management)",
+    "desc": "Advanced enterprise capability managing the alm (asset-liability management) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1555,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Catastrophe Bond Issuance",
+    "desc": "Advanced enterprise capability managing the catastrophe bond issuance operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1556,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Sidecar Vehicle Management",
+    "desc": "Advanced enterprise capability managing the sidecar vehicle management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1557,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Industry Loss Warranty (ILW)",
+    "desc": "Advanced enterprise capability managing the industry loss warranty (ilw) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1558,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Retrocession Treaty Placement",
+    "desc": "Advanced enterprise capability managing the retrocession treaty placement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1559,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Reinsurance Commutation",
+    "desc": "Advanced enterprise capability managing the reinsurance commutation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1560,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Quota Share Administration",
+    "desc": "Advanced enterprise capability managing the quota share administration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1561,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Stochastic Modeling",
+    "desc": "Advanced enterprise capability managing the stochastic modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1562,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "IFRS 17 Reporting Engine",
+    "desc": "Advanced enterprise capability managing the ifrs 17 reporting engine operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1563,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Experience Study Analytics",
+    "desc": "Advanced enterprise capability managing the experience study analytics operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1564,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Mortality/Morbidity Trend Analysis",
+    "desc": "Advanced enterprise capability managing the mortality/morbidity trend analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1565,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Rate Filing Orchestration",
+    "desc": "Advanced enterprise capability managing the rate filing orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1566,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Competitor Price Scraping",
+    "desc": "Advanced enterprise capability managing the competitor price scraping operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1567,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "A/B Price Testing",
+    "desc": "Advanced enterprise capability managing the a/b price testing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1568,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Synthetic Risk Cohort Generation",
+    "desc": "Advanced enterprise capability managing the synthetic risk cohort generation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1569,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Competitor Scenario Modeling",
+    "desc": "Advanced enterprise capability managing the competitor scenario modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1570,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Regulatory Approval Workflow",
+    "desc": "Advanced enterprise capability managing the regulatory approval workflow operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1571,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Commission Modeling",
+    "desc": "Advanced enterprise capability managing the commission modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1572,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Channel Launch Orchestration",
+    "desc": "Advanced enterprise capability managing the channel launch orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1573,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Aggregator Real-Time Pricing",
+    "desc": "Advanced enterprise capability managing the aggregator real-time pricing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1574,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Embedded Insurance Gateway",
+    "desc": "Advanced enterprise capability managing the embedded insurance gateway operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1575,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Affinity Partner Portals",
+    "desc": "Advanced enterprise capability managing the affinity partner portals operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1576,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Open Insurance API Mgmt",
+    "desc": "Advanced enterprise capability managing the open insurance api mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1577,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "IoT Sensor Data API",
+    "desc": "Advanced enterprise capability managing the iot sensor data api operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1578,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Telematics Rate Syndication",
+    "desc": "Advanced enterprise capability managing the telematics rate syndication operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1579,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Policyholder Mobile App",
+    "desc": "Advanced enterprise capability managing the policyholder mobile app operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1580,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Digital First Notice of Loss",
+    "desc": "Advanced enterprise capability managing the digital first notice of loss operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1581,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Document Vault & ID Cards",
+    "desc": "Advanced enterprise capability managing the document vault & id cards operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1582,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Self-Service Endorsements",
+    "desc": "Advanced enterprise capability managing the self-service endorsements operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1583,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "AI Chatbot Integration",
+    "desc": "Advanced enterprise capability managing the ai chatbot integration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1584,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Premium Payment Portal",
+    "desc": "Advanced enterprise capability managing the premium payment portal operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1585,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "CTI Integration",
+    "desc": "Advanced enterprise capability managing the cti integration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1586,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Voice Sentiment Analysis",
+    "desc": "Advanced enterprise capability managing the voice sentiment analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1587,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Next-Best-Action Routing",
+    "desc": "Advanced enterprise capability managing the next-best-action routing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1588,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Omni-channel Interaction History",
+    "desc": "Advanced enterprise capability managing the omni-channel interaction history operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1589,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Agent Scripting & Knowledge",
+    "desc": "Advanced enterprise capability managing the agent scripting & knowledge operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1590,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Workforce Optimization",
+    "desc": "Advanced enterprise capability managing the workforce optimization operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1591,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Smart Contract Oracle Mgmt",
+    "desc": "Advanced enterprise capability managing the smart contract oracle mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1592,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Weather Trigger Monitoring",
+    "desc": "Advanced enterprise capability managing the weather trigger monitoring operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1593,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Seismic Activity Automation",
+    "desc": "Advanced enterprise capability managing the seismic activity automation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1594,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Flight Delay Auto-Payout",
+    "desc": "Advanced enterprise capability managing the flight delay auto-payout operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1595,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Blockchain Ledger Settlement",
+    "desc": "Advanced enterprise capability managing the blockchain ledger settlement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1596,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Supply Chain Indexing",
+    "desc": "Advanced enterprise capability managing the supply chain indexing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1597,
+    "l1": "Emerging Risk",
+    "l2": "Cyber Risk Solutions",
+    "l3": "Continuous Vulnerability Scanning",
+    "desc": "Advanced enterprise capability managing the continuous vulnerability scanning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1598,
+    "l1": "Emerging Risk",
+    "l2": "Cyber Risk Solutions",
+    "l3": "Ransomware Negotiation Triage",
+    "desc": "Advanced enterprise capability managing the ransomware negotiation triage operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1599,
+    "l1": "Emerging Risk",
+    "l2": "Cyber Risk Solutions",
+    "l3": "Dark Web Credential Monitoring",
+    "desc": "Advanced enterprise capability managing the dark web credential monitoring operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1600,
+    "l1": "Emerging Risk",
+    "l2": "Cyber Risk Solutions",
+    "l3": "Cyber Incident Response Team (CIRT)",
+    "desc": "Advanced enterprise capability managing the cyber incident response team (cirt) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1601,
+    "l1": "Emerging Risk",
+    "l2": "Cyber Risk Solutions",
+    "l3": "Digital Forensics Dispatch",
+    "desc": "Advanced enterprise capability managing the digital forensics dispatch operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1602,
+    "l1": "Compliance & Legal",
+    "l2": "Data Privacy Operations",
+    "l3": "GDPR Right to be Forgotten",
+    "desc": "Advanced enterprise capability managing the gdpr right to be forgotten operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1603,
+    "l1": "Compliance & Legal",
+    "l2": "Data Privacy Operations",
+    "l3": "CCPA Data Deletion",
+    "desc": "Advanced enterprise capability managing the ccpa data deletion operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1604,
+    "l1": "Compliance & Legal",
+    "l2": "Data Privacy Operations",
+    "l3": "Cross-Border Data Residency",
+    "desc": "Advanced enterprise capability managing the cross-border data residency operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1605,
+    "l1": "Compliance & Legal",
+    "l2": "Data Privacy Operations",
+    "l3": "PII Masking Orchestration",
+    "desc": "Advanced enterprise capability managing the pii masking orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1606,
+    "l1": "Compliance & Legal",
+    "l2": "Data Privacy Operations",
+    "l3": "Consent Preference Management",
+    "desc": "Advanced enterprise capability managing the consent preference management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1607,
+    "l1": "Compliance & Legal",
+    "l2": "Litigation & Subpoena",
+    "l3": "E-Discovery Hold Automation",
+    "desc": "Advanced enterprise capability managing the e-discovery hold automation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1608,
+    "l1": "Compliance & Legal",
+    "l2": "Litigation & Subpoena",
+    "l3": "External Counsel Billing",
+    "desc": "Advanced enterprise capability managing the external counsel billing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1609,
+    "l1": "Compliance & Legal",
+    "l2": "Litigation & Subpoena",
+    "l3": "Regulatory Inquiry Triage",
+    "desc": "Advanced enterprise capability managing the regulatory inquiry triage operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1610,
+    "l1": "Compliance & Legal",
+    "l2": "Litigation & Subpoena",
+    "l3": "Class Action Settlement Adjudication",
+    "desc": "Advanced enterprise capability managing the class action settlement adjudication operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1611,
+    "l1": "Finance & Accounting",
+    "l2": "Treasury Operations",
+    "l3": "Daily Cash Positioning",
+    "desc": "Advanced enterprise capability managing the daily cash positioning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1612,
+    "l1": "Finance & Accounting",
+    "l2": "Treasury Operations",
+    "l3": "Liquidity Forecasting",
+    "desc": "Advanced enterprise capability managing the liquidity forecasting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1613,
+    "l1": "Finance & Accounting",
+    "l2": "Treasury Operations",
+    "l3": "FX Risk Management",
+    "desc": "Advanced enterprise capability managing the fx risk management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1614,
+    "l1": "Finance & Accounting",
+    "l2": "Treasury Operations",
+    "l3": "Bank Account Reconciliation",
+    "desc": "Advanced enterprise capability managing the bank account reconciliation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1615,
+    "l1": "Finance & Accounting",
+    "l2": "Treasury Operations",
+    "l3": "Short-Term Debt Issuance",
+    "desc": "Advanced enterprise capability managing the short-term debt issuance operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1616,
+    "l1": "Finance & Accounting",
+    "l2": "Tax Administration",
+    "l3": "Premium Tax Calculation",
+    "desc": "Advanced enterprise capability managing the premium tax calculation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1617,
+    "l1": "Finance & Accounting",
+    "l2": "Tax Administration",
+    "l3": "Withholding Tax Processing",
+    "desc": "Advanced enterprise capability managing the withholding tax processing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1618,
+    "l1": "Finance & Accounting",
+    "l2": "Tax Administration",
+    "l3": "Transfer Pricing Analytics",
+    "desc": "Advanced enterprise capability managing the transfer pricing analytics operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1619,
+    "l1": "Finance & Accounting",
+    "l2": "Tax Administration",
+    "l3": "Statutory Tax Reporting",
+    "desc": "Advanced enterprise capability managing the statutory tax reporting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1620,
+    "l1": "Finance & Accounting",
+    "l2": "Tax Administration",
+    "l3": "Corporate Income Tax Provision",
+    "desc": "Advanced enterprise capability managing the corporate income tax provision operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1621,
+    "l1": "Agentic AI",
+    "l2": "Autonomous Ops",
+    "l3": "Zero-Touch Underwriting",
+    "desc": "Advanced enterprise capability managing the zero-touch underwriting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1622,
+    "l1": "Agentic AI",
+    "l2": "Autonomous Ops",
+    "l3": "Robotic Process Orchestration",
+    "desc": "Advanced enterprise capability managing the robotic process orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1623,
+    "l1": "Agentic AI",
+    "l2": "Autonomous Ops",
+    "l3": "Self-Healing IT Infrastructure",
+    "desc": "Advanced enterprise capability managing the self-healing it infrastructure operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1624,
+    "l1": "Agentic AI",
+    "l2": "Autonomous Ops",
+    "l3": "Automated Fraud Network Analysis",
+    "desc": "Advanced enterprise capability managing the automated fraud network analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1625,
+    "l1": "Agentic AI",
+    "l2": "Autonomous Ops",
+    "l3": "Predictive Attrition Mitigation",
+    "desc": "Advanced enterprise capability managing the predictive attrition mitigation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1626,
+    "l1": "Product Engine",
+    "l2": "Market Intelligence",
+    "l3": "Competitor Benchmarking",
+    "desc": "Advanced enterprise capability managing the competitor benchmarking operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1627,
+    "l1": "Product Engine",
+    "l2": "Market Intelligence",
+    "l3": "Market Trend Analysis",
+    "desc": "Advanced enterprise capability managing the market trend analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1628,
+    "l1": "Product Engine",
+    "l2": "Market Intelligence",
+    "l3": "Consumer Behavior Modeling",
+    "desc": "Advanced enterprise capability managing the consumer behavior modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1629,
+    "l1": "Product Engine",
+    "l2": "Market Intelligence",
+    "l3": "Macro-Economic Impact Analysis",
+    "desc": "Advanced enterprise capability managing the macro-economic impact analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1630,
+    "l1": "Product Engine",
+    "l2": "Market Intelligence",
+    "l3": "Regulatory Change Scanning",
+    "desc": "Advanced enterprise capability managing the regulatory change scanning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1631,
+    "l1": "Product Engine",
+    "l2": "Innovation Lab",
+    "l3": "InsurTech Partnership Mgmt",
+    "desc": "Advanced enterprise capability managing the insurtech partnership mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1632,
+    "l1": "Product Engine",
+    "l2": "Innovation Lab",
+    "l3": "Proof of Concept Orchestration",
+    "desc": "Advanced enterprise capability managing the proof of concept orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1633,
+    "l1": "Product Engine",
+    "l2": "Innovation Lab",
+    "l3": "Venture Capital Investments",
+    "desc": "Advanced enterprise capability managing the venture capital investments operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1634,
+    "l1": "Product Engine",
+    "l2": "Innovation Lab",
+    "l3": "University Research Grants",
+    "desc": "Advanced enterprise capability managing the university research grants operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1635,
+    "l1": "Product Engine",
+    "l2": "Innovation Lab",
+    "l3": "Hackathon Management",
+    "desc": "Advanced enterprise capability managing the hackathon management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1636,
+    "l1": "Risk Management",
+    "l2": "Enterprise Risk",
+    "l3": "Operational Risk Modeling",
+    "desc": "Advanced enterprise capability managing the operational risk modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1637,
+    "l1": "Risk Management",
+    "l2": "Enterprise Risk",
+    "l3": "Strategic Risk Assessment",
+    "desc": "Advanced enterprise capability managing the strategic risk assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1638,
+    "l1": "Risk Management",
+    "l2": "Enterprise Risk",
+    "l3": "Reputational Risk Tracking",
+    "desc": "Advanced enterprise capability managing the reputational risk tracking operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1639,
+    "l1": "Risk Management",
+    "l2": "Enterprise Risk",
+    "l3": "Model Governance & Validation",
+    "desc": "Advanced enterprise capability managing the model governance & validation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1640,
+    "l1": "Risk Management",
+    "l2": "Enterprise Risk",
+    "l3": "Business Continuity Planning",
+    "desc": "Advanced enterprise capability managing the business continuity planning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1641,
+    "l1": "Risk Management",
+    "l2": "Climate Risk",
+    "l3": "Physical Climate Modeling",
+    "desc": "Advanced enterprise capability managing the physical climate modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1642,
+    "l1": "Risk Management",
+    "l2": "Climate Risk",
+    "l3": "Transition Risk Assessment",
+    "desc": "Advanced enterprise capability managing the transition risk assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1643,
+    "l1": "Risk Management",
+    "l2": "Climate Risk",
+    "l3": "Carbon Footprint Tracking",
+    "desc": "Advanced enterprise capability managing the carbon footprint tracking operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1644,
+    "l1": "Risk Management",
+    "l2": "Climate Risk",
+    "l3": "TCFD Reporting",
+    "desc": "Advanced enterprise capability managing the tcfd reporting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1645,
+    "l1": "Risk Management",
+    "l2": "Climate Risk",
+    "l3": "Net Zero Strategy Execution",
+    "desc": "Advanced enterprise capability managing the net zero strategy execution operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1646,
+    "l1": "Core Insurance",
+    "l2": "Reinsurance Ceding",
+    "l3": "Treaty Reinsurance Mgmt",
+    "desc": "Advanced enterprise capability managing the treaty reinsurance mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1647,
+    "l1": "Core Insurance",
+    "l2": "Reinsurance Ceding",
+    "l3": "Facultative Reinsurance Placements",
+    "desc": "Advanced enterprise capability managing the facultative reinsurance placements operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1648,
+    "l1": "Core Insurance",
+    "l2": "Reinsurance Ceding",
+    "l3": "Reinsurance Premium Accounting",
+    "desc": "Advanced enterprise capability managing the reinsurance premium accounting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1649,
+    "l1": "Core Insurance",
+    "l2": "Reinsurance Ceding",
+    "l3": "Loss Recoveries Tracking",
+    "desc": "Advanced enterprise capability managing the loss recoveries tracking operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1650,
+    "l1": "Core Insurance",
+    "l2": "Catastrophe Management",
+    "l3": "Real-Time Event Tracking",
+    "desc": "Advanced enterprise capability managing the real-time event tracking operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1651,
+    "l1": "Core Insurance",
+    "l2": "Catastrophe Management",
+    "l3": "Exposure Aggregation",
+    "desc": "Advanced enterprise capability managing the exposure aggregation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1652,
+    "l1": "Core Insurance",
+    "l2": "Catastrophe Management",
+    "l3": "Post-Event Claims Surge Planning",
+    "desc": "Advanced enterprise capability managing the post-event claims surge planning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1653,
+    "l1": "Core Insurance",
+    "l2": "Catastrophe Management",
+    "l3": "Catastrophe Modeling Calibration",
+    "desc": "Advanced enterprise capability managing the catastrophe modeling calibration operations for the broader Universal Insurance ecosystem."
+  }
+]

@@ -16,7 +16,7 @@ const db = new sqlite3.Database(dbPath, (err) => {
         l1 TEXT NOT NULL,
         l2 TEXT NOT NULL,
         l3 TEXT NOT NULL,
-        desc TEXT,
+        "desc" TEXT,
         isStrategic BOOLEAN,
         state TEXT DEFAULT 'as-is',
         coverage INTEGER DEFAULT 0,
@@ -25,13 +25,18 @@ const db = new sqlite3.Database(dbPath, (err) => {
         debt INTEGER DEFAULT 0,
         risk INTEGER DEFAULT 0,
         techStack TEXT,
-        applications TEXT
+        applications TEXT,
+        translations TEXT DEFAULT '{}'
       )
     `, (err) => {
       if (err) {
         console.error('Error creating table', err);
       } else {
         console.log('Capabilities table ready');
+        // Add translations column if it doesn't exist (for existing databases)
+        // db.run("ALTER TABLE capabilities ADD COLUMN translations TEXT DEFAULT '{}'", (err) => {
+        //   // Ignore error if column already exists
+        // });
       }
     });
   }

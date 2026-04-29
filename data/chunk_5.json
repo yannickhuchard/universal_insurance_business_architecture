@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1499,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Paramedical Exam Triage",
+    "desc": "Advanced enterprise capability managing the paramedical exam triage operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1500,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Attending Physician Statement (APS) NLP",
+    "desc": "Advanced enterprise capability managing the attending physician statement (aps) nlp operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1501,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Genetic Test Rule Routing",
+    "desc": "Advanced enterprise capability managing the genetic test rule routing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1502,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Cognitive Impairment Assessment",
+    "desc": "Advanced enterprise capability managing the cognitive impairment assessment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1503,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Mortality Table Calibration",
+    "desc": "Advanced enterprise capability managing the mortality table calibration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1504,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Morbidity Risk Scoring",
+    "desc": "Advanced enterprise capability managing the morbidity risk scoring operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1505,
+    "l1": "Life, Health & Annuities",
+    "l2": "Medical Underwriting",
+    "l3": "Prescription History Analysis",
+    "desc": "Advanced enterprise capability managing the prescription history analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1506,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Diagnostic Code Adjudication",
+    "desc": "Advanced enterprise capability managing the diagnostic code adjudication operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1507,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Dental & Vision Pre-Authorization",
+    "desc": "Advanced enterprise capability managing the dental & vision pre-authorization operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1508,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Pharmacy Benefit Management",
+    "desc": "Advanced enterprise capability managing the pharmacy benefit management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1509,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Out-of-Network Coordination",
+    "desc": "Advanced enterprise capability managing the out-of-network coordination operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1510,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Coordination of Benefits (COB)",
+    "desc": "Advanced enterprise capability managing the coordination of benefits (cob) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1511,
+    "l1": "Life, Health & Annuities",
+    "l2": "Health Claims",
+    "l3": "Telehealth Consultation Settlement",
+    "desc": "Advanced enterprise capability managing the telehealth consultation settlement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1512,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Variable Annuity Sub-Account Mgmt",
+    "desc": "Advanced enterprise capability managing the variable annuity sub-account mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1513,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Fixed Indexed Crediting",
+    "desc": "Advanced enterprise capability managing the fixed indexed crediting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1514,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Guaranteed Minimum Withdrawal",
+    "desc": "Advanced enterprise capability managing the guaranteed minimum withdrawal operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1515,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "RMD (Required Minimum Distribution)",
+    "desc": "Advanced enterprise capability managing the rmd (required minimum distribution) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1516,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Beneficiary Transfer Management",
+    "desc": "Advanced enterprise capability managing the beneficiary transfer management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1517,
+    "l1": "Life, Health & Annuities",
+    "l2": "Annuity Administration",
+    "l3": "Surrender Charge Calculation",
+    "desc": "Advanced enterprise capability managing the surrender charge calculation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1518,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Employer Group Enrollment",
+    "desc": "Advanced enterprise capability managing the employer group enrollment operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1519,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Census Data Management",
+    "desc": "Advanced enterprise capability managing the census data management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1520,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Voluntary Benefits Administration",
+    "desc": "Advanced enterprise capability managing the voluntary benefits administration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1521,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Group Premium Reconciliation",
+    "desc": "Advanced enterprise capability managing the group premium reconciliation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1522,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "COBRA Administration",
+    "desc": "Advanced enterprise capability managing the cobra administration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1523,
+    "l1": "Life, Health & Annuities",
+    "l2": "Group Benefits",
+    "l3": "Leave of Absence Management",
+    "desc": "Advanced enterprise capability managing the leave of absence management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1524,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Strategic Asset Allocation",
+    "desc": "Advanced enterprise capability managing the strategic asset allocation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1525,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Tactical Asset Allocation",
+    "desc": "Advanced enterprise capability managing the tactical asset allocation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1526,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "ESG Strategy Integration",
+    "desc": "Advanced enterprise capability managing the esg strategy integration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1527,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Liability Driven Investing (LDI)",
+    "desc": "Advanced enterprise capability managing the liability driven investing (ldi) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1528,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Derivatives Overlay Management",
+    "desc": "Advanced enterprise capability managing the derivatives overlay management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1529,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Private Equity Commitments",
+    "desc": "Advanced enterprise capability managing the private equity commitments operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1530,
+    "l1": "Wealth & Asset Management",
+    "l2": "Portfolio Management",
+    "l3": "Real Estate Portfolio Modeling",
+    "desc": "Advanced enterprise capability managing the real estate portfolio modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1531,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Algorithmic Trade Routing",
+    "desc": "Advanced enterprise capability managing the algorithmic trade routing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1532,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Dark Pool Access",
+    "desc": "Advanced enterprise capability managing the dark pool access operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1533,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "FX Hedging Execution",
+    "desc": "Advanced enterprise capability managing the fx hedging execution operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1534,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Fixed Income Liquidity Sourcing",
+    "desc": "Advanced enterprise capability managing the fixed income liquidity sourcing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1535,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Post-Trade Settlement",
+    "desc": "Advanced enterprise capability managing the post-trade settlement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1536,
+    "l1": "Wealth & Asset Management",
+    "l2": "Trade Execution",
+    "l3": "Collateral Management",
+    "desc": "Advanced enterprise capability managing the collateral management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1537,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Client Goal Profiling",
+    "desc": "Advanced enterprise capability managing the client goal profiling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1538,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Robo-Advisory Orchestration",
+    "desc": "Advanced enterprise capability managing the robo-advisory orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1539,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Trust & Estate Planning",
+    "desc": "Advanced enterprise capability managing the trust & estate planning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1540,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Tax-Loss Harvesting",
+    "desc": "Advanced enterprise capability managing the tax-loss harvesting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1541,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "Philanthropic Structuring",
+    "desc": "Advanced enterprise capability managing the philanthropic structuring operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1542,
+    "l1": "Wealth & Asset Management",
+    "l2": "Wealth Advisory",
+    "l3": "High Net Worth Concierge",
+    "desc": "Advanced enterprise capability managing the high net worth concierge operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1543,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "GIPS Compliant Reporting",
+    "desc": "Advanced enterprise capability managing the gips compliant reporting operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1544,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Attribution Analysis",
+    "desc": "Advanced enterprise capability managing the attribution analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1545,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Risk-Adjusted Return Calculation",
+    "desc": "Advanced enterprise capability managing the risk-adjusted return calculation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1546,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Client Statement Generation",
+    "desc": "Advanced enterprise capability managing the client statement generation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1547,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Tax Document Preparation",
+    "desc": "Advanced enterprise capability managing the tax document preparation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1548,
+    "l1": "Wealth & Asset Management",
+    "l2": "Performance & Reporting",
+    "l3": "Regulatory Form ADV Filing",
+    "desc": "Advanced enterprise capability managing the regulatory form adv filing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1549,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Solvency II Calculation",
+    "desc": "Advanced enterprise capability managing the solvency ii calculation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1550,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Economic Capital Modeling",
+    "desc": "Advanced enterprise capability managing the economic capital modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1551,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Dividend Strategy Execution",
+    "desc": "Advanced enterprise capability managing the dividend strategy execution operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1552,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Share Repurchase Program",
+    "desc": "Advanced enterprise capability managing the share repurchase program operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1553,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "Rating Agency Liaison",
+    "desc": "Advanced enterprise capability managing the rating agency liaison operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1554,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Capital Management",
+    "l3": "ALM (Asset-Liability Management)",
+    "desc": "Advanced enterprise capability managing the alm (asset-liability management) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1555,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Catastrophe Bond Issuance",
+    "desc": "Advanced enterprise capability managing the catastrophe bond issuance operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1556,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Sidecar Vehicle Management",
+    "desc": "Advanced enterprise capability managing the sidecar vehicle management operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1557,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Industry Loss Warranty (ILW)",
+    "desc": "Advanced enterprise capability managing the industry loss warranty (ilw) operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1558,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Retrocession Treaty Placement",
+    "desc": "Advanced enterprise capability managing the retrocession treaty placement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1559,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Reinsurance Commutation",
+    "desc": "Advanced enterprise capability managing the reinsurance commutation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1560,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Advanced Reinsurance",
+    "l3": "Quota Share Administration",
+    "desc": "Advanced enterprise capability managing the quota share administration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1561,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Stochastic Modeling",
+    "desc": "Advanced enterprise capability managing the stochastic modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1562,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "IFRS 17 Reporting Engine",
+    "desc": "Advanced enterprise capability managing the ifrs 17 reporting engine operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1563,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Experience Study Analytics",
+    "desc": "Advanced enterprise capability managing the experience study analytics operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1564,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Mortality/Morbidity Trend Analysis",
+    "desc": "Advanced enterprise capability managing the mortality/morbidity trend analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1565,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Rate Filing Orchestration",
+    "desc": "Advanced enterprise capability managing the rate filing orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1566,
+    "l1": "Actuarial & Capital Markets",
+    "l2": "Actuarial Modernization",
+    "l3": "Competitor Price Scraping",
+    "desc": "Advanced enterprise capability managing the competitor price scraping operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1567,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "A/B Price Testing",
+    "desc": "Advanced enterprise capability managing the a/b price testing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1568,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Synthetic Risk Cohort Generation",
+    "desc": "Advanced enterprise capability managing the synthetic risk cohort generation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1569,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Competitor Scenario Modeling",
+    "desc": "Advanced enterprise capability managing the competitor scenario modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1570,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Regulatory Approval Workflow",
+    "desc": "Advanced enterprise capability managing the regulatory approval workflow operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1571,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Commission Modeling",
+    "desc": "Advanced enterprise capability managing the commission modeling operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1572,
+    "l1": "Product Engine",
+    "l2": "Product Launch & Simulation",
+    "l3": "Channel Launch Orchestration",
+    "desc": "Advanced enterprise capability managing the channel launch orchestration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1573,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Aggregator Real-Time Pricing",
+    "desc": "Advanced enterprise capability managing the aggregator real-time pricing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1574,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Embedded Insurance Gateway",
+    "desc": "Advanced enterprise capability managing the embedded insurance gateway operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1575,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Affinity Partner Portals",
+    "desc": "Advanced enterprise capability managing the affinity partner portals operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1576,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Open Insurance API Mgmt",
+    "desc": "Advanced enterprise capability managing the open insurance api mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1577,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "IoT Sensor Data API",
+    "desc": "Advanced enterprise capability managing the iot sensor data api operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1578,
+    "l1": "Product Engine",
+    "l2": "API & Syndication",
+    "l3": "Telematics Rate Syndication",
+    "desc": "Advanced enterprise capability managing the telematics rate syndication operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1579,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Policyholder Mobile App",
+    "desc": "Advanced enterprise capability managing the policyholder mobile app operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1580,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Digital First Notice of Loss",
+    "desc": "Advanced enterprise capability managing the digital first notice of loss operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1581,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Document Vault & ID Cards",
+    "desc": "Advanced enterprise capability managing the document vault & id cards operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1582,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Self-Service Endorsements",
+    "desc": "Advanced enterprise capability managing the self-service endorsements operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1583,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "AI Chatbot Integration",
+    "desc": "Advanced enterprise capability managing the ai chatbot integration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1584,
+    "l1": "Customer Experience",
+    "l2": "Self-Service Portals",
+    "l3": "Premium Payment Portal",
+    "desc": "Advanced enterprise capability managing the premium payment portal operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1585,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "CTI Integration",
+    "desc": "Advanced enterprise capability managing the cti integration operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1586,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Voice Sentiment Analysis",
+    "desc": "Advanced enterprise capability managing the voice sentiment analysis operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1587,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Next-Best-Action Routing",
+    "desc": "Advanced enterprise capability managing the next-best-action routing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1588,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Omni-channel Interaction History",
+    "desc": "Advanced enterprise capability managing the omni-channel interaction history operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1589,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Agent Scripting & Knowledge",
+    "desc": "Advanced enterprise capability managing the agent scripting & knowledge operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1590,
+    "l1": "Customer Experience",
+    "l2": "Contact Center Operations",
+    "l3": "Workforce Optimization",
+    "desc": "Advanced enterprise capability managing the workforce optimization operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1591,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Smart Contract Oracle Mgmt",
+    "desc": "Advanced enterprise capability managing the smart contract oracle mgmt operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1592,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Weather Trigger Monitoring",
+    "desc": "Advanced enterprise capability managing the weather trigger monitoring operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1593,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Seismic Activity Automation",
+    "desc": "Advanced enterprise capability managing the seismic activity automation operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1594,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Flight Delay Auto-Payout",
+    "desc": "Advanced enterprise capability managing the flight delay auto-payout operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1595,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Blockchain Ledger Settlement",
+    "desc": "Advanced enterprise capability managing the blockchain ledger settlement operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1596,
+    "l1": "Emerging Risk",
+    "l2": "Parametric Insurance",
+    "l3": "Supply Chain Indexing",
+    "desc": "Advanced enterprise capability managing the supply chain indexing operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1597,
+    "l1": "Emerging Risk",
+    "l2": "Cyber Risk Solutions",
+    "l3": "Continuous Vulnerability Scanning",
+    "desc": "Advanced enterprise capability managing the continuous vulnerability scanning operations for the broader Universal Insurance ecosystem."
+  },
+  {
+    "id": 1598,
+    "l1": "Emerging Risk",
+    "l2": "Cyber Risk Solutions",
+    "l3": "Ransomware Negotiation Triage",
+    "desc": "Advanced enterprise capability managing the ransomware negotiation triage operations for the broader Universal Insurance ecosystem."
+  }
+]

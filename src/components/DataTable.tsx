@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { ArrowUpDown, ArrowUp, ArrowDown, Search } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 
 type Capability = {
   id?: number;
@@ -25,6 +26,7 @@ type SortConfig = {
 } | null;
 
 export default function DataTable({ data, onEdit }: Props) {
+  const { i18n } = useTranslation();
   const [sortConfig, setSortConfig] = useState<SortConfig>(null);
   const [searchTerm, setSearchTerm] = useState('');
 
@@ -42,20 +44,30 @@ export default function DataTable({ data, onEdit }: Props) {
     // Filter by search term across all text fields
     if (searchTerm) {
       const lowerTerm = searchTerm.toLowerCase();
-      sortableItems = sortableItems.filter(item => 
-        item.l1.toLowerCase().includes(lowerTerm) ||
-        item.l2.toLowerCase().includes(lowerTerm) ||
-        item.l3.toLowerCase().includes(lowerTerm) ||
-        item.desc.toLowerCase().includes(lowerTerm) ||
-        (item.techStack && item.techStack.join(' ').toLowerCase().includes(lowerTerm)) ||
-        (item.applications && item.applications.join(' ').toLowerCase().includes(lowerTerm))
-      );
+      sortableItems = sortableItems.filter(item => {
+        const l1 = item.translations?.[i18n.language]?.l1 || item.l1;
+        const l2 = item.translations?.[i18n.language]?.l2 || item.l2;
+        const l3 = item.translations?.[i18n.language]?.l3 || item.l3;
+        const desc = item.translations?.[i18n.language]?.desc || item.desc;
+        
+        return l1.toLowerCase().includes(lowerTerm) ||
+          l2.toLowerCase().includes(lowerTerm) ||
+          l3.toLowerCase().includes(lowerTerm) ||
+          desc.toLowerCase().includes(lowerTerm) ||
+          (item.techStack && item.techStack.join(' ').toLowerCase().includes(lowerTerm)) ||
+          (item.applications && item.applications.join(' ').toLowerCase().includes(lowerTerm));
+      });
     }
 
     if (sortConfig !== null) {
       sortableItems.sort((a, b) => {
         let aValue: any = a[sortConfig.key as keyof Capability];
         let bValue: any = b[sortConfig.key as keyof Capability];
+        
+        if (['l1', 'l2', 'l3', 'desc'].includes(sortConfig.key)) {
+          aValue = a.translations?.[i18n.language]?.[sortConfig.key as keyof Capability] || a[sortConfig.key as keyof Capability];
+          bValue = b.translations?.[i18n.language]?.[sortConfig.key as keyof Capability] || b[sortConfig.key as keyof Capability];
+        }
         
         // Handle nested scores or special fields if needed
         if (sortConfig.key === 'isStrategic') {
@@ -76,7 +88,7 @@ export default function DataTable({ data, onEdit }: Props) {
       });
     }
     return sortableItems;
-  }, [data, sortConfig, searchTerm]);
+  }, [data, sortConfig, searchTerm, i18n.language]);
 
   const SortIcon = ({ columnKey }: { columnKey: string }) => {
     if (sortConfig?.key === columnKey) {
@@ -171,12 +183,12 @@ export default function DataTable({ data, onEdit }: Props) {
                 onMouseOver={(e) => e.currentTarget.style.background = 'rgba(59, 130, 246, 0.1)'}
                 onMouseOut={(e) => e.currentTarget.style.background = idx % 2 === 0 ? 'transparent' : 'rgba(255, 255, 255, 0.02)'}
               >
-                <td style={{ padding: '0.75rem 1rem', color: 'var(--text-secondary)' }}>{cap.l1.replace(/\[|\]/g, '')}</td>
-                <td style={{ padding: '0.75rem 1rem', color: 'var(--text-secondary)' }}>{cap.l2.replace(/\[|\]/g, '')}</td>
+                <td style={{ padding: '0.75rem 1rem', color: 'var(--text-secondary)' }}>{(cap.translations?.[i18n.language]?.l1 || cap.l1).replace(/\[|\]/g, '')}</td>
+                <td style={{ padding: '0.75rem 1rem', color: 'var(--text-secondary)' }}>{(cap.translations?.[i18n.language]?.l2 || cap.l2).replace(/\[|\]/g, '')}</td>
                 <td style={{ padding: '0.75rem 1rem', fontWeight: 500, color: 'var(--white)' }}>
-                  <div>{cap.l3}</div>
+                  <div>{cap.translations?.[i18n.language]?.l3 || cap.l3}</div>
                   <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '0.2rem', maxWidth: '300px', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                    {cap.desc}
+                    {cap.translations?.[i18n.language]?.desc || cap.desc}
                   </div>
                 </td>
                 <td style={{ padding: '0.75rem 1rem' }}>

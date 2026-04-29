@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1199,
+    "l1": "IARD",
+    "l2": "Assurance Auto Particulier",
+    "l3": "Assurance Auto Globale Particulier",
+    "desc": "Couverture des dommages au véhicule découlant d'événements autres qu'une collision, y compris le vol, les intempéries et le vandalisme."
+  },
+  {
+    "id": 1200,
+    "l1": "IARD",
+    "l2": "Assurance Auto Particulier",
+    "l3": "Automobiliste Non Assuré / Sous-assuré",
+    "desc": "Protection de l'assuré contre les dommages et les frais médicaux causés par des conducteurs responsables manquant d'assurance adéquate."
+  },
+  {
+    "id": 1201,
+    "l1": "IARD",
+    "l2": "Assurance Auto Particulier",
+    "l3": "Protection Contre les Dommages Corporels (PIP)",
+    "desc": "Couverture sans égard à la responsabilité pour les frais médicaux, la réadaptation et la perte de salaire du conducteur assuré et de ses passagers."
+  },
+  {
+    "id": 1202,
+    "l1": "IARD",
+    "l2": "Assurance Auto Particulier",
+    "l3": "Auto Antique / Classique",
+    "desc": "Couverture des dommages matériels en valeur agréée pour les véhicules de collection conduits de façon limitée."
+  },
+  {
+    "id": 1203,
+    "l1": "IARD",
+    "l2": "Assurance Auto Particulier",
+    "l3": "Assurance Basée sur l'Usage (UBI) / Télématique",
+    "desc": "Tarification dynamique des primes basée sur les données de comportement de conduite en temps réel capturées via des applications mobiles ou des appareils IoT."
+  },
+  {
+    "id": 1204,
+    "l1": "IARD",
+    "l2": "Assurance Habitation",
+    "l3": "Propriétaire Occupant (HO-3)",
+    "desc": "Couverture standard tous risques pour les habitations résidentielles, les structures attenantes et les biens personnels."
+  },
+  {
+    "id": 1205,
+    "l1": "IARD",
+    "l2": "Assurance Habitation",
+    "l3": "Assurance Locataire (HO-4)",
+    "desc": "Couverture limitée aux biens personnels et à la responsabilité civile pour les locataires occupant des espaces résidentiels."
+  },
+  {
+    "id": 1206,
+    "l1": "IARD",
+    "l2": "Assurance Habitation",
+    "l3": "Propriétaires de Copropriété (HO-6)",
+    "desc": "Couverture des biens et de responsabilité civile \"murs intérieurs\" spécifiquement adaptée aux copropriétaires et à leurs installations internes."
+  },
+  {
+    "id": 1207,
+    "l1": "IARD",
+    "l2": "Assurance Habitation",
+    "l3": "Maisons Mobiles (HO-7)",
+    "desc": "Couverture immobilière spécialisée nécessitant des modèles d'évaluation uniques pour les maisons préfabriquées situées à des emplacements fixes."
+  },
+  {
+    "id": 1208,
+    "l1": "IARD",
+    "l2": "Assurance Habitation",
+    "l3": "Maison Ancienne (HO-8)",
+    "desc": "Couverture pour les maisons anciennes dont le coût de remplacement dépasse largement la valeur marchande, utilisant l'évaluation de remplacement fonctionnel."
+  },
+  {
+    "id": 1209,
+    "l1": "IARD",
+    "l2": "Assurance Habitation",
+    "l3": "Habitations de Grande Valeur",
+    "desc": "Formulaires de couverture et modèles d'évaluation sur mesure pour les propriétés résidentielles de luxe dépassant les valeurs du marché de l'assurance standard."
+  },
+  {
+    "id": 1210,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Responsabilité Civile Personnelle Globale",
+    "desc": "Protection autonome en matière de responsabilité civile non commerciale pour les particuliers et les membres de la famille contre les litiges civils."
+  },
+  {
+    "id": 1211,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Responsabilité Parapluie Personnelle",
+    "desc": "Couverture de responsabilité excédentaire étendant les limites de façon exponentielle au-delà des polices primaires sous-jacentes (auto et habitation)."
+  },
+  {
+    "id": 1212,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Biens Personnels Désignés",
+    "desc": "Couverture tous risques spécifique et expertisée pour des articles de grande valeur tels que les bijoux, les œuvres d'art et les objets de collection."
+  },
+  {
+    "id": 1213,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Protection Contre l'Usurpation d'Identité",
+    "desc": "Rembourse les dépenses engagées pour restaurer une identité volée, y compris les frais juridiques et la perte de salaire."
+  },
+  {
+    "id": 1214,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Cyberprotection à Domicile",
+    "desc": "Couverture pour les violations de données personnelles, la cyber-extorsion et la fraude en ligne affectant les réseaux domestiques."
+  },
+  {
+    "id": 1215,
+    "l1": "IARD",
+    "l2": "Véhicules Récréatifs",
+    "l3": "Moto / VTT",
+    "desc": "Modèles spécialisés de tarification des dommages matériels et de la responsabilité pour les véhicules à deux roues et hors route."
+  },
+  {
+    "id": 1216,
+    "l1": "IARD",
+    "l2": "Véhicules Récréatifs",
+    "l3": "Bateau / Embarcation",
+    "desc": "Couverture de navigation pour les dommages physiques à la coque et la responsabilité maritime pour les motomarines personnelles."
+  },
+  {
+    "id": 1217,
+    "l1": "IARD",
+    "l2": "Véhicules Récréatifs",
+    "l3": "Véhicule Récréatif (VR)",
+    "desc": "Mélange les caractéristiques de l'assurance automobile personnelle et de l'assurance habitation pour les camping-cars et les caravanes."
+  },
+  {
+    "id": 1218,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Biens Personnels Désignés",
+    "desc": "Couverture spécifique et détaillée pour les articles de grande valeur (bijoux, objets d'art, objets de collection) sans les plafonds standard."
+  },
+  {
+    "id": 1219,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Tremblement de Terre (Particulier)",
+    "desc": "Couverture contre les risques spécifiques pour les dommages à l'habitation et au contenu causés par l'activité sismique."
+  },
+  {
+    "id": 1220,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Assurance Privée Contre les Inondations",
+    "desc": "Couverture contre les inondations non fédérale (marché privé) offrant des plafonds plus élevés ou des conditions plus larges que le NFIP."
+  },
+  {
+    "id": 1221,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Assurance VR / Camping-car",
+    "desc": "Couverture hybride spécialisée auto et habitation pour les véhicules récréatifs et les camping-cars."
+  },
+  {
+    "id": 1222,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Assurance Moto",
+    "desc": "Couverture de responsabilité civile et dommages matériels spécifiquement adaptée aux véhicules motorisés à deux roues."
+  },
+  {
+    "id": 1223,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Assurance VTT / Véhicule Hors Route",
+    "desc": "Couverture spécialisée pour les véhicules tout-terrain, motos hors route et véhicules utilitaires hors route récréatifs."
+  },
+  {
+    "id": 1224,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Assurance Motoneige",
+    "desc": "Couverture de responsabilité civile et dommages matériels spécifiquement adaptée aux motoneiges récréatives d'hiver."
+  },
+  {
+    "id": 1225,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Bateau / Motomarine Personnelle",
+    "desc": "Couverture de responsabilité maritime et coque pour les bateaux de plaisance personnels et les jet-skis."
+  },
+  {
+    "id": 1226,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Assurance Yacht",
+    "desc": "Limites de navigation plus larges et couverture de responsabilité civile supérieure pour les navires de plaisance personnels de luxe."
+  },
+  {
+    "id": 1227,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Assurance Voiture Classique / de Collection",
+    "desc": "Couverture dommages matériels en valeur agréée avec des restrictions strictes de kilométrage et d'utilisation pour les automobiles d'époque."
+  },
+  {
+    "id": 1228,
+    "l1": "IARD",
+    "l2": "Auto Particulier et Récréatif",
+    "l3": "Aviation : Assurance Pilote Privé",
+    "desc": "Couverture coque et responsabilité pour les aéronefs légers personnels et non commerciaux et les pilotes de loisir."
+  },
+  {
+    "id": 1229,
+    "l1": "IARD",
+    "l2": "Spécialités Particulier",
+    "l3": "Protection Contre l'Usurpation d'Identité",
+    "desc": "Rembourse les dépenses engagées pour restaurer une identité volée et fournit des services de surveillance du crédit."
+  },
+  {
+    "id": 1230,
+    "l1": "IARD",
+    "l2": "Spécialités Particulier",
+    "l3": "Garantie Habitation",
+    "desc": "Contrats de service couvrant la réparation ou le remplacement des principaux systèmes et appareils ménagers en raison de l'usure normale."
+  },
+  {
+    "id": 1231,
+    "l1": "IARD",
+    "l2": "Biens Personnels",
+    "l3": "Propriétaire Bailleur / Incendie (DP-1/2/3)",
+    "desc": "Couverture des propriétés locatives résidentielles non occupées par le propriétaire, allant de risques basiques à spécifiques."
+  },
+  {
+    "id": 1232,
+    "l1": "IARD",
+    "l2": "Spécialités Particulier",
+    "l3": "Assurance Voyage (Personnel / Loisirs)",
+    "desc": "Rembourse les frais de voyage non remboursables en cas d'annulations, d'interruptions et de perte de bagages."
+  },
+  {
+    "id": 1233,
+    "l1": "IARD",
+    "l2": "Spécialités Particulier",
+    "l3": "Cyber Assurance (Particulier)",
+    "desc": "Protection contre l'extorsion en ligne, la cyberintimidation et la fraude financière visant les individus et les familles."
+  },
+  {
+    "id": 1234,
+    "l1": "Secteur",
+    "l2": "Ligne d'Activité",
+    "l3": "Produit Spécifique",
+    "desc": "Mécanisme de Risque et Description de l'Architecture d'Entreprise"
+  },
+  {
+    "id": 1235,
+    "l1": "Spécialité",
+    "l2": "Assurance Transport",
+    "l3": "Flotteur d'Équipement",
+    "desc": "Couverture pour la machinerie mobile, les outils et l'équipement lourd qui se déplacent continuellement entre différents chantiers."
+  },
+  {
+    "id": 1236,
+    "l1": "Spécialité",
+    "l2": "Assurance Transport",
+    "l3": "Garantie du Bijoutier",
+    "desc": "Couverture globale à haute sécurité conçue spécifiquement pour les détaillants, grossistes et fabricants de bijoux."
+  },
+  {
+    "id": 1237,
+    "l1": "Spécialité",
+    "l2": "Assurance Transport",
+    "l3": "Beaux-arts et Espèces",
+    "desc": "Protection spécialisée et expertisée pour les musées, galeries et collections privées d'une valeur exceptionnelle."
+  },
+  {
+    "id": 1238,
+    "l1": "Spécialité",
+    "l2": "Assurance Transport",
+    "l3": "Traitement Électronique des Données (EDP)",
+    "desc": "Protège le matériel informatique de l'entreprise, l'infrastructure logicielle et les données brutes contre la destruction physique."
+  },
+  {
+    "id": 1239,
+    "l1": "Spécialité",
+    "l2": "Assurance Transport",
+    "l3": "Mortalité Animale",
+    "desc": "Polices d'assurance-décès spécifiques pour le bétail de grande valeur, les chevaux de course et les animaux reproducteurs."
+  },
+  {
+    "id": 1240,
+    "l1": "Spécialité",
+    "l2": "Assurance Transport",
+    "l3": "Risques de Construction / Flotteur d'Installation",
+    "desc": "Couverture des biens pour les matériaux et installations mis en place sur un site commercial ou résidentiel."
+  },
+  {
+    "id": 1241,
+    "l1": "Spécialité",
+    "l2": "Assurance Maritime",
+    "l3": "Assurance sur Corps",
+    "desc": "Couverture des dommages matériels pour les navires marchands, les barges et les grandes embarcations."
+  },
+  {
+    "id": 1242,
+    "l1": "Spécialité",
+    "l2": "Assurance Maritime",
+    "l3": "Cargaison Maritime",
+    "desc": "Indemnisation des marchandises de grande valeur perdues, volées ou endommagées lors de transits maritimes internationaux complexes."
+  },
+  {
+    "id": 1243,
+    "l1": "Spécialité",
+    "l2": "Assurance Maritime",
+    "l3": "Protection et Indemnisation (P&I)",
+    "desc": "Couverture de responsabilité maritime large et spécialisée pour les propriétaires, les exploitants de navires et les employeurs maritimes."
+  },
+  {
+    "id": 1244,
+    "l1": "Spécialité",
+    "l2": "Responsabilité Professionnelle",
+    "l3": "Responsabilité des Dirigeants (D&O)",
+    "desc": "Protège les cadres supérieurs et les membres du conseil d'administration contre les poursuites civiles découlant de décisions de gestion."
+  },
+  {
+    "id": 1245,
+    "l1": "Spécialité",
+    "l2": "Responsabilité Professionnelle",
+    "l3": "Erreurs et Omissions (E&O)",
+    "desc": "Couvre les professionnels spécialisés (par ex. architectes, ingénieurs logiciels) pour la perte financière causée par la négligence de service."
+  },
+  {
+    "id": 1246,
+    "l1": "Spécialité",
+    "l2": "Responsabilité Professionnelle",
+    "l3": "Responsabilité des Pratiques d'Emploi (EPLI)",
+    "desc": "Défense et indemnisation contre les plaintes pour licenciement abusif, discrimination et harcèlement sexuel."
+  },
+  {
+    "id": 1247,
+    "l1": "Spécialité",
+    "l2": "Responsabilité Professionnelle",
+    "l3": "Responsabilité Fiduciaire",
+    "desc": "Protection des administrateurs de plans d'entreprise contre les plaintes pour mauvaise gestion des fonds de retraite en lien avec l'ERISA."
+  },
+  {
+    "id": 1248,
+    "l1": "Spécialité",
+    "l2": "Cyber Responsabilité",
+    "l3": "Réponse aux Violations de Données",
+    "desc": "Couvre les coûts liés à l'investigation numérique, aux notifications publiques obligatoires et à la surveillance du crédit post-violation."
+  },
+  {
+    "id": 1249,
+    "l1": "Spécialité",
+    "l2": "Cyber Responsabilité",
+    "l3": "Rançongiciel et Cyber Extorsion",
+    "desc": "Rembourse les coûts et les frais de négociation associés à l'atténuation de l'extorsion numérique et des menaces de ransomware."
+  },
+  {
+    "id": 1250,
+    "l1": "Spécialité",
+    "l2": "Cyber Responsabilité",
+    "l3": "Responsabilité de la Sécurité du Réseau",
+    "desc": "Couvre les réclamations de tiers découlant d'une défaillance dans la sécurisation du réseau de l'entreprise contre les logiciels malveillants ou les accès non autorisés."
+  },
+  {
+    "id": 1251,
+    "l1": "Spécialité",
+    "l2": "Faute Médicale Professionnelle",
+    "l3": "Faute Médicale Hospitalière",
+    "desc": "Couverture de responsabilité institutionnelle pour négligence clinique dans les réseaux et grands établissements de soins de santé."
+  },
+  {
+    "id": 1252,
+    "l1": "Spécialité",
+    "l2": "Faute Médicale Professionnelle",
+    "l3": "Faute Médicale du Médecin/Chirurgien",
+    "desc": "Responsabilité professionnelle individuelle pour les praticiens médicaux, disponible sous forme de déclencheurs par Réclamation ou Occurrence."
+  },
+  {
+    "id": 1253,
+    "l1": "Spécialité",
+    "l2": "Faute Médicale Professionnelle",
+    "l3": "Responsabilité des Professionnels Paramédicaux",
+    "desc": "Couverture pour les prestataires de soins non médicaux tels que les infirmières, les physiothérapeutes et les pharmaciens."
+  },
+  {
+    "id": 1254,
+    "l1": "Spécialité",
+    "l2": "Garantie Financière",
+    "l3": "Garantie Hypothécaire",
+    "desc": "Protège les prêteurs financiers contre le défaut de paiement des emprunteurs sur les hypothèques résidentielles et commerciales avec des ratios prêt/valeur (LTV) élevés."
+  },
+  {
+    "id": 1255,
+    "l1": "Spécialité",
+    "l2": "Garantie Financière",
+    "l3": "Cautions (Contrat)",
+    "desc": "Instruments financiers (soumission, exécution, paiement) garantissant l'accomplissement des obligations de construction."
+  },
+  {
+    "id": 1256,
+    "l1": "Spécialité",
+    "l2": "Garantie Financière",
+    "l3": "Cautions (Commercial)",
+    "desc": "Cautions de licences et permis exigées par les entités gouvernementales pour l'exploitation commerciale."
+  },
+  {
+    "id": 1257,
+    "l1": "Spécialité",
+    "l2": "Aviation et Spatial",
+    "l3": "Coque et Responsabilité Aérienne",
+    "desc": "Mécanismes complets de transfert des risques pour les actifs physiques de l'aviation commerciale et privée."
+  },
+  {
+    "id": 1258,
+    "l1": "Spécialité",
+    "l2": "Aviation et Spatial",
+    "l3": "Assurance Satellite et Spatial",
+    "desc": "Couvre les échecs catastrophiques de lancement et les anomalies opérationnelles en orbite pour les actifs spatiaux commerciaux."
+  },
+  {
+    "id": 1259,
+    "l1": "Spécialité",
+    "l2": "Aviation et Spatial",
+    "l3": "Responsabilité Drones / UAV",
+    "desc": "Couverture spécialisée pour la responsabilité civile et les dommages matériels concernant les drones commerciaux (UAV)."
+  },
+  {
+    "id": 1260,
+    "l1": "Spécialité",
+    "l2": "Gestion de Crise",
+    "l3": "Rappel de Produit",
+    "desc": "Couvre les immenses coûts de logistique, de communication et de réhabilitation de la marque suite à un rappel de sécurité d'un produit."
+  },
+  {
+    "id": 1261,
+    "l1": "Spécialité",
+    "l2": "Gestion de Crise",
+    "l3": "Enlèvement et Rançon (K&R)",
+    "desc": "Rembourse les paiements de rançon, les frais d'extorsion et l'expertise en gestion de crise pour les dirigeants d'entreprise."
+  },
+  {
+    "id": 1262,
+    "l1": "Spécialité",
+    "l2": "Gestion de Crise",
+    "l3": "Terrorisme et Violence Politique",
+    "desc": "Dommages matériels et lourde couverture de perte d'exploitation nécessités par des attaques à motivation politique."
+  },
+  {
+    "id": 1263,
+    "l1": "Spécialité",
+    "l2": "Environnement",
+    "l3": "Responsabilité Légale pour Pollution (PLL)",
+    "desc": "Couvre les coûts de nettoyage, les blessures de tiers et les dommages matériels résultant de conditions de pollution."
+  },
+  {
+    "id": 1264,
+    "l1": "Spécialité",
+    "l2": "Environnement",
+    "l3": "Responsabilité Pollution des Entrepreneurs (CPL)",
+    "desc": "Protège les entrepreneurs contre les plaintes pour pollution découlant de leurs opérations sur un chantier."
+  },
+  {
+    "id": 1265,
+    "l1": "IARD",
+    "l2": "Cyber Responsabilité",
+    "l3": "Cyber Responsabilité (Première Partie)",
+    "desc": "Rembourse l'assuré pour les coûts directs d'une violation, incluant l'analyse légale, la notification et les paiements de rançons."
+  },
+  {
+    "id": 1266,
+    "l1": "IARD",
+    "l2": "Cyber Responsabilité",
+    "l3": "Cyber Responsabilité (Tiers)",
+    "desc": "Couvre les coûts de défense et de règlement pour des poursuites intentées par des clients ou partenaires lésés par la violation des données de l'assuré."
+  },
+  {
+    "id": 1267,
+    "l1": "IARD",
+    "l2": "Cyber Responsabilité",
+    "l3": "Cyber Assurance Paramétrique",
+    "desc": "Couverture basée sur des déclencheurs, payant automatiquement un montant déterminé lors d'un cyber-événement vérifié, tel qu'une panne prolongée du cloud."
+  },
+  {
+    "id": 1268,
+    "l1": "IARD",
+    "l2": "Lignes Financières",
+    "l3": "Responsabilité Fiduciaire",
+    "desc": "Protège les fiduciaires et administrateurs de plans d'avantages sociaux contre les réclamations de mauvaise gestion ou de manquement à leurs obligations."
+  },
+  {
+    "id": 1269,
+    "l1": "IARD",
+    "l2": "Lignes Financières",
+    "l3": "Crédit Commercial / Crédit à l'Exportation",
+    "desc": "Protège les comptes clients contre le non-paiement en raison d'insolvabilité, d'un défaut prolongé ou d'un risque politique."
+  },
+  {
+    "id": 1270,
+    "l1": "IARD",
+    "l2": "Lignes Financières",
+    "l3": "Déclarations et Garanties (Fusions et Acquisitions)",
+    "desc": "Protège les acheteurs ou vendeurs lors des transactions F&A contre les violations de déclarations faites dans l'accord d'achat."
+  },
+  {
+    "id": 1271,
+    "l1": "IARD",
+    "l2": "Lignes Financières",
+    "l3": "Assurance Indemnisation Fiscale",
+    "desc": "Protège contre les conséquences financières d'une autorité fiscale contestant une position fiscale spécifique et divulguée."
+  },
+  {
+    "id": 1272,
+    "l1": "IARD",
+    "l2": "Lignes Financières",
+    "l3": "Assurance Titres (Commercial)",
+    "desc": "Indemnise les propriétaires immobiliers commerciaux et les prêteurs contre la perte résultant de défauts inconnus dans les titres de propriété."
+  },
+  {
+    "id": 1273,
+    "l1": "IARD",
+    "l2": "Responsabilité Professionnelle",
+    "l3": "Responsabilité des Médias",
+    "desc": "E&O spécialisée couvrant les éditeurs et radiodiffuseurs contre la diffamation, le plagiat et la violation de droits d'auteur."
+  },
+  {
+    "id": 1274,
+    "l1": "IARD",
+    "l2": "Responsabilité Professionnelle",
+    "l3": "Erreurs et Omissions Technologiques",
+    "desc": "Protège les entreprises technologiques contre les réclamations de pertes financières dues aux défaillances logicielles, aux pannes ou aux erreurs d'implémentation."
+  },
+  {
+    "id": 1275,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Spécialisée",
+    "l3": "Atteinte à l'Environnement / Pollution",
+    "desc": "Couvre les coûts de nettoyage du site et les blessures de tiers/dommages matériels découlant d'événements de pollution."
+  },
+  {
+    "id": 1276,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Spécialisée",
+    "l3": "Contingence : Indemnité de Prix",
+    "desc": "Assure le paiement d'importants prix promotionnels (par exemple : trou d'un coup au golf, tir du milieu de terrain) s'ils sont réclamés avec succès."
+  },
+  {
+    "id": 1277,
+    "l1": "IARD",
+    "l2": "Responsabilité Civile Spécialisée",
+    "l3": "Contingence : Surutilisation de Coupons",
+    "desc": "Protège les détaillants et spécialistes du marketing des pertes financières si des coupons promotionnels sont échangés à des taux plus élevés que prévus."
+  },
+  {
+    "id": 1278,
+    "l1": "IARD",
+    "l2": "Cautionnement",
+    "l3": "Caution : Garanties de Soumission",
+    "desc": "Garantit qu'un entrepreneur soumissionnant pour un projet signera le contrat et fournira des garanties d'exécution s'il le remporte."
+  },
+  {
+    "id": 1279,
+    "l1": "IARD",
+    "l2": "Cautionnement",
+    "l3": "Caution : Garanties d'Exécution",
+    "desc": "Garantit l'achèvement d'un contrat de construction selon ses termes et spécifications."
+  },
+  {
+    "id": 1280,
+    "l1": "IARD",
+    "l2": "Cautionnement",
+    "l3": "Caution : Garanties de Paiement",
+    "desc": "Garantit que l'entrepreneur paiera tous les sous-traitants et fournisseurs de matériaux du projet."
+  },
+  {
+    "id": 1281,
+    "l1": "IARD",
+    "l2": "Cautionnement",
+    "l3": "Caution : Garanties Accessoires",
+    "desc": "Cautionnements divers tels que les cautions douanières, les cautions pour licences et permis, ou les cautions judiciaires."
+  },
+  {
+    "id": 1282,
+    "l1": "IARD",
+    "l2": "Assurance Transport",
+    "l3": "Assurance Transport : Équipement de l'Entrepreneur",
+    "desc": "Couverture étendue des dommages matériels pour la machinerie lourde mobile et les outils utilisés dans les opérations des entrepreneurs."
+  },
+  {
+    "id": 1283,
+    "l1": "IARD",
+    "l2": "Assurance Transport",
+    "l3": "Assurance Transport : Transit / Transport",
+    "desc": "Couvre les biens lorsqu'ils sont activement en cours de transit par train, camion ou avion."
+  },
+  {
+    "id": 1284,
+    "l1": "IARD",
+    "l2": "Assurance Transport",
+    "l3": "Assurance Transport : Biens de la Clientèle",
+    "desc": "Couvre la responsabilité de l'assuré pour les dommages aux biens des clients laissés sous sa garde, son contrôle ou sa responsabilité."
+  },
+  {
+    "id": 1285,
+    "l1": "IARD",
+    "l2": "Assurance Transport",
+    "l3": "Assurance Transport : Flotteur d'Installation",
+    "desc": "Couvre les machines et matériaux destinés à être installés sur un chantier jusqu'à l'acceptation des travaux."
+  },
+  {
+    "id": 1286,
+    "l1": "IARD",
+    "l2": "Assurance Transport",
+    "l3": "Assurance Transport : Responsabilité de Grutier",
+    "desc": "Responsabilité spécialisée pour les risques uniques liés au levage, hissage et déplacement de biens lourds appartenant à autrui."
+  },
+  {
+    "id": 1287,
+    "l1": "IARD",
+    "l2": "Assurance Maritime",
+    "l3": "Assurance Maritime : Assurance Fret",
+    "desc": "Couvre la perte financière des revenus du fret maritime si un navire n'est pas en mesure d'achever son voyage."
+  },
+  {
+    "id": 1288,
+    "l1": "IARD",
+    "l2": "Aviation",
+    "l3": "Aviation : Responsabilité des Exploitants de Hangar",
+    "desc": "Couverture de dépositaire protégeant les installations aéronautiques contre la responsabilité pour les dommages aux aéronefs non possédés remisés dans leurs hangars."
+  },
+  {
+    "id": 1289,
+    "l1": "IARD",
+    "l2": "Aviation",
+    "l3": "Aviation : Aéronefs Non Possédés",
+    "desc": "Couverture de responsabilité pour les entreprises affrétant ou louant des avions qu'elles ne possèdent pas."
+  },
+  {
+    "id": 1290,
+    "l1": "Secteur",
+    "l2": "Ligne d'Activité",
+    "l3": "Produit Spécifique",
+    "desc": "Mécanisme de Risque et Description de l'Architecture d'Entreprise"
+  },
+  {
+    "id": 1291,
+    "l1": "IARD",
+    "l2": "Assurance Récolte",
+    "l3": "Assurance Récolte Multirisque (MPCI)",
+    "desc": "Couverture réassurée par le gouvernement fédéral protégeant les agriculteurs contre les risques agricoles systémiques, tels que les sécheresses à grande échelle."
+  },
+  {
+    "id": 1292,
+    "l1": "IARD",
+    "l2": "Assurance Récolte",
+    "l3": "Assurance Récolte Grêle",
+    "desc": "Couverture du marché privé, non subventionnée, spécifiquement pour les dommages très localisés causés par la grêle et le feu sur les rendements."
+  },
+  {
+    "id": 1293,
+    "l1": "IARD",
+    "l2": "Assurance Récolte",
+    "l3": "Couverture du Revenu des Récoltes (CRC)",
+    "desc": "Protège les producteurs agricoles contre la combinaison des pertes physiques de rendement et de graves fluctuations des prix des matières premières."
+  },
+  {
+    "id": 1294,
+    "l1": "IARD",
+    "l2": "Assurance Récolte",
+    "l3": "Pâturages, Espaces Verts et Fourrage",
+    "desc": "Assurance paramétrique indexée sur les niveaux de précipitations pour protéger les sources d'alimentation des éleveurs de bétail."
+  },
+  {
+    "id": 1295,
+    "l1": "IARD",
+    "l2": "Assurance Inondation",
+    "l3": "Inondation Fédérale (NFIP)",
+    "desc": "Couverture principale contre les inondations immobilières, soutenue et gérée par des programmes gouvernementaux nécessitant des déclarations de conformité strictes."
+  },
+  {
+    "id": 1296,
+    "l1": "IARD",
+    "l2": "Assurance Inondation",
+    "l3": "Inondation Résidentielle Privée",
+    "desc": "Couverture primaire contre les inondations non-NFIP offrant des plafonds plus élevés et une protection plus large par l'intermédiaire d'assureurs privés."
+  },
+  {
+    "id": 1297,
+    "l1": "IARD",
+    "l2": "Assurance Inondation",
+    "l3": "Inondation Commerciale Excédentaire",
+    "desc": "Couverture commerciale du marché privé prolongeant les limites financières bien au-delà des plafonds du programme fédéral sur les inondations."
+  },
+  {
+    "id": 1298,
+    "l1": "IARD",
+    "l2": "Assurances Agricoles",
+    "l3": "Fermes et Ranchs Commerciaux",
+    "desc": "Police globale pour les entreprises agricoles couvrant les dépendances, le bétail et la responsabilité opérationnelle."
+  }
+]

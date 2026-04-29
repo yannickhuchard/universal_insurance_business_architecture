@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1299,
+    "l1": "IARD",
+    "l2": "Assurance Événementielle",
+    "l3": "Annulation d'Événement",
+    "desc": "Indemnise les pertes financières graves si un événement majeur est annulé en raison de la météo ou de causes catastrophiques imprévues."
+  },
+  {
+    "id": 1300,
+    "l1": "IARD",
+    "l2": "Assurance Événementielle",
+    "l3": "Indemnité de Prix",
+    "desc": "Couvre le coût de prix promotionnels importants (par exemple, trou d'un coup lors de tournois de golf) s'ils sont remportés par un participant."
+  },
+  {
+    "id": 1301,
+    "l1": "IARD",
+    "l2": "Assurance Événementielle",
+    "l3": "Météo Paramétrique",
+    "desc": "Paiements automatisés déclenchés instantanément lorsque des paramètres météorologiques spécifiques (par exemple, la vitesse du vent) sont franchis."
+  },
+  {
+    "id": 1302,
+    "l1": "IARD",
+    "l2": "Assurance Animaux de Compagnie",
+    "l3": "Médical pour Animaux de Compagnie",
+    "desc": "Remboursement modélisé de façon actuarielle pour les frais chirurgicaux et vétérinaires liés aux accidents et maladies des animaux domestiques."
+  },
+  {
+    "id": 1303,
+    "l1": "IARD",
+    "l2": "Assurance Titres",
+    "l3": "Titre Immobilier",
+    "desc": "Indemnise l'acheteur ou le prêteur contre les pertes financières liées à des défauts dans les titres de propriété ou des privilèges."
+  },
+  {
+    "id": 1304,
+    "l1": "IARD",
+    "l2": "Agriculture",
+    "l3": "Récolte : Risques Désignés",
+    "desc": "Couvre les pertes de rendement des cultures causées par des risques météorologiques spécifiques et expressément désignés comme la grêle ou l'incendie."
+  },
+  {
+    "id": 1305,
+    "l1": "IARD",
+    "l2": "Agriculture",
+    "l3": "Bétail et Animaux Reproducteurs",
+    "desc": "Mortalité et couverture contre les risques spécifiques pour les animaux de ferme, les reproducteurs de grande valeur et les chevaux de course."
+  },
+  {
+    "id": 1306,
+    "l1": "IARD",
+    "l2": "Climat / Paramétrique",
+    "l3": "Assurance Météo Paramétrique",
+    "desc": "Couverture basée sur un indice payant des montants prédéterminés lorsque des mesures météorologiques objectives (par ex. précipitations, température) dépassent des seuils."
+  },
+  {
+    "id": 1307,
+    "l1": "IARD",
+    "l2": "Climat / Paramétrique",
+    "l3": "Assurance Tremblement de Terre Paramétrique",
+    "desc": "Paiement rapide basé uniquement sur la magnitude et l'emplacement enregistrés d'un événement sismique, indépendamment des dommages matériels réels."
+  },
+  {
+    "id": 1308,
+    "l1": "Secteur",
+    "l2": "Ligne d'Activité",
+    "l3": "Produit Spécifique",
+    "desc": "Mécanisme de Risque et Description de l'Architecture d'Entreprise"
+  },
+  {
+    "id": 1309,
+    "l1": "Vie",
+    "l2": "Assurance Vie Temporaire",
+    "l3": "Assurance Vie Temporaire 10 Ans",
+    "desc": "Protection pure en cas de décès avec des primes nivelées garanties mathématiquement pour exactement 10 ans."
+  },
+  {
+    "id": 1310,
+    "l1": "Vie",
+    "l2": "Assurance Vie Temporaire",
+    "l3": "Assurance Vie Temporaire 20 Ans",
+    "desc": "Protection à prime nivelée sur un horizon de deux décennies, traditionnellement utilisée pour la protection hypothécaire primaire."
+  },
+  {
+    "id": 1311,
+    "l1": "Vie",
+    "l2": "Assurance Vie Temporaire",
+    "l3": "Assurance Vie Temporaire Décroissante",
+    "desc": "La prestation de décès diminue de façon linéaire avec le temps, souvent liée mathématiquement à un prêt commercial amortissable."
+  },
+  {
+    "id": 1312,
+    "l1": "Vie",
+    "l2": "Assurance Vie Temporaire",
+    "l3": "Temporaire avec Remboursement des Primes",
+    "desc": "Rembourse toutes les primes payées si l'assuré survit à la durée spécifiée du contrat, nécessitant des réserves comptables uniques."
+  },
+  {
+    "id": 1313,
+    "l1": "Vie",
+    "l2": "Assurance Vie Temporaire",
+    "l3": "Temporaire Annuelle Renouvelable (ART)",
+    "desc": "Contrat d'un an garantissant le renouvellement, avec des primes recalculées et augmentant chaque année en fonction de l'âge atteint."
+  },
+  {
+    "id": 1314,
+    "l1": "Vie",
+    "l2": "Assurance Vie Permanente",
+    "l3": "Vie Entière (Participative)",
+    "desc": "Couverture à vie avec une valeur de rachat garantie et la possibilité de gagner des participations sur l'excédent de l'assureur."
+  },
+  {
+    "id": 1315,
+    "l1": "Vie",
+    "l2": "Assurance Vie Permanente",
+    "l3": "Vie Entière (Non Participative)",
+    "desc": "Couverture à vie avec des primes, un capital décès et des valeurs de rachat entièrement fixes, ne supposant aucun partage de dividendes."
+  },
+  {
+    "id": 1316,
+    "l1": "Vie",
+    "l2": "Assurance Vie Permanente",
+    "l3": "Vie Universelle",
+    "desc": "Structure de prime très flexible et prestation de décès ajustable, avec une composante de valeur de rachat portant intérêt."
+  },
+  {
+    "id": 1317,
+    "l1": "Vie",
+    "l2": "Assurance Vie Permanente",
+    "l3": "Vie Universelle Indexée (IUL)",
+    "desc": "Croissance de la valeur de rachat liée algorithmiquement à un indice boursier (par ex. S&P 500) avec des protections strictes contre la baisse."
+  },
+  {
+    "id": 1318,
+    "l1": "Vie",
+    "l2": "Assurance Vie Permanente",
+    "l3": "Vie Universelle Variable (VUL)",
+    "desc": "La valeur de rachat est investie activement dans des sous-comptes de marché, transférant le risque d'investissement principal au preneur d'assurance."
+  },
+  {
+    "id": 1319,
+    "l1": "Vie",
+    "l2": "Assurance Vie Permanente",
+    "l3": "Dernier Survivant",
+    "desc": "Couvre deux vies simultanément, ne versant le capital qu'après le deuxième décès ; très utilisé dans la planification fiscale successorale."
+  },
+  {
+    "id": 1320,
+    "l1": "Vie",
+    "l2": "Assurance Vie Permanente",
+    "l3": "Conjointe (Premier Décès)",
+    "desc": "Versement au décès de la première des deux personnes assurées, souvent utilisé pour la planification de la continuité des affaires."
+  },
+  {
+    "id": 1321,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Frais Finaux (Funérailles)",
+    "desc": "Polices d'assurance vie entière de faible valeur nominale conçues strictement pour couvrir les frais funéraires, avec une tarification simplifiée."
+  },
+  {
+    "id": 1322,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Vie à Émission Garantie",
+    "desc": "Polices émises sans aucune sélection médicale, généralement destinées à des populations plus âgées et à risque plus élevé."
+  },
+  {
+    "id": 1323,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Vie Collective",
+    "desc": "Assurance vie parrainée par l'employeur et émise administrativement sur la base d'un contrat-cadre massif."
+  },
+  {
+    "id": 1324,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Assurance Vie Crédit",
+    "desc": "Rembourse une dette spécifique en cours (ex. prêt auto) au décès de l'emprunteur, généralement imposée par le prêteur."
+  },
+  {
+    "id": 1325,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Assurance Vie Détenue par l'Entreprise (COLI)",
+    "desc": "Assurance vie souscrite par une entreprise sur des employés clés pour financer des régimes d'avantages sociaux pour les cadres."
+  },
+  {
+    "id": 1326,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Assurance Vie Détenue par la Banque (BOLI)",
+    "desc": "Assurance vie spécialisée à fiscalité avantageuse achetée par les banques pour compenser le coût des avantages sociaux des employés."
+  },
+  {
+    "id": 1327,
+    "l1": "Rentes",
+    "l2": "Rente de Capitalisation",
+    "l3": "Rente Différée Fixe",
+    "desc": "Garantit un taux de rendement spécifique et verrouillé sur le capital accumulé pendant une durée de différé définie."
+  },
+  {
+    "id": 1328,
+    "l1": "Rentes",
+    "l2": "Rente de Capitalisation",
+    "l3": "Rente Différée Variable",
+    "desc": "Les rendements fluctuent en continu en fonction de la performance quotidienne des sous-comptes de fonds communs de placement sélectionnés."
+  },
+  {
+    "id": 1329,
+    "l1": "Rentes",
+    "l2": "Rente de Capitalisation",
+    "l3": "Rente Fixe Indexée (FIA)",
+    "desc": "Protection du capital avec des rendements liés mathématiquement à des indices de marché externes, plafonnant à la fois les hausses et les baisses."
+  },
+  {
+    "id": 1330,
+    "l1": "Rentes",
+    "l2": "Rente de Capitalisation",
+    "l3": "Rente à Garantie Pluriannuelle",
+    "desc": "Une rente fixe offrant un taux d'intérêt mathématiquement bloqué pour une durée pluriannuelle spécifique (par ex. 3, 5 ou 7 ans)."
+  },
+  {
+    "id": 1331,
+    "l1": "Rentes",
+    "l2": "Rente en Phase de Paiement",
+    "l3": "Rente Immédiate à Prime Unique",
+    "desc": "Convertit une prime forfaitaire en un flux de revenus irrévocable et mathématiquement calculé qui commence immédiatement."
+  },
+  {
+    "id": 1332,
+    "l1": "Rentes",
+    "l2": "Rente en Phase de Paiement",
+    "l3": "Rente à Revenu Différé (DIA)",
+    "desc": "Verrouille des paiements de revenus futurs garantis qui commencent à une date retardée spécifique, atténuant le risque de longévité."
+  },
+  {
+    "id": 1333,
+    "l1": "Rentes",
+    "l2": "Rente en Phase de Paiement",
+    "l3": "Rente Réversible",
+    "desc": "Paiements viagers se poursuivant de manière ininterrompue jusqu'au décès des deux rentiers conjoints spécifiés."
+  },
+  {
+    "id": 1334,
+    "l1": "Rentes",
+    "l2": "Rente en Phase de Paiement",
+    "l3": "Rente à Période Certaine",
+    "desc": "Paiements garantis pour une durée déterminée (par ex. 20 ans), qui continuent à être versés aux héritiers même si le rentier décède."
+  },
+  {
+    "id": 1335,
+    "l1": "Rentes",
+    "l2": "Rente en Phase de Paiement",
+    "l3": "Rente de Longévité Qualifiée (QLAC)",
+    "desc": "Rente différée spécialisée financée à partir d'un régime de retraite qualifié afin de retarder les retraits minimums obligatoires (RMD)."
+  },
+  {
+    "id": 1336,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Vie à Émission Simplifiée",
+    "desc": "Assurance vie émise rapidement sans examen médical, reposant plutôt sur des questionnaires de santé et des bases de données de prescriptions."
+  },
+  {
+    "id": 1337,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Vie Universelle Collective (GUL)",
+    "desc": "Assurance vie universelle parrainée par l'employeur, combinant une protection temporaire avec une option d'épargne financée par l'employé."
+  },
+  {
+    "id": 1338,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Avenant Maladie Phase Terminale / Prestation Anticipée",
+    "desc": "Permet à l'assuré de recevoir une partie du capital décès par anticipation s'il est diagnostiqué avec une maladie en phase terminale qualifiante."
+  },
+  {
+    "id": 1339,
+    "l1": "Vie",
+    "l2": "Assurances Vie Spécialisées",
+    "l3": "Avenant Décès Accidentel",
+    "desc": "Fournit un capital décès supplémentaire et complémentaire si le décès de l'assuré est le résultat direct d'un accident couvert."
+  },
+  {
+    "id": 1340,
+    "l1": "Rentes",
+    "l2": "Rente de Capitalisation",
+    "l3": "Rente Ajustée à la Valeur Marchande (MVA)",
+    "desc": "Une rente fixe où les retraits anticipés sont soumis à un ajustement positif ou négatif en fonction de l'évolution des taux d'intérêt."
+  },
+  {
+    "id": 1341,
+    "l1": "Rentes",
+    "l2": "Rente de Capitalisation",
+    "l3": "Rente Liée à un Indice Enregistré (RILA)",
+    "desc": "Une rente complexe mélangeant les caractéristiques des produits indexés et variables, exposant le propriétaire à un certain risque de baisse pour un potentiel de hausse plus élevé."
+  },
+  {
+    "id": 1342,
+    "l1": "Secteur",
+    "l2": "Ligne d'Activité",
+    "l3": "Produit Spécifique",
+    "desc": "Mécanisme de Risque et Description de l'Architecture d'Entreprise"
+  },
+  {
+    "id": 1343,
+    "l1": "Santé",
+    "l2": "Soins Médicaux Majeurs",
+    "l3": "Soins Médicaux Majeurs Individuels",
+    "desc": "Couverture complète pour les soins hospitaliers, chirurgicaux et préventifs pour les personnes sans couverture employeur."
+  },
+  {
+    "id": 1344,
+    "l1": "Santé",
+    "l2": "Soins Médicaux Majeurs",
+    "l3": "Santé Collective (Employeur)",
+    "desc": "Couverture de santé parrainée, gérée administrativement par l'intermédiaire d'une police-cadre d'entreprise."
+  },
+  {
+    "id": 1345,
+    "l1": "Santé",
+    "l2": "Soins Médicaux Majeurs",
+    "l3": "Organisation de Maintien de la Santé (HMO)",
+    "desc": "Plans de réseau restrictifs nécessitant un médecin de premier recours agissant comme filtre, offrant des avantages hors réseau minimes."
+  },
+  {
+    "id": 1346,
+    "l1": "Santé",
+    "l2": "Soins Médicaux Majeurs",
+    "l3": "Organisation de Fournisseurs Privilégiés (PPO)",
+    "desc": "Plans flexibles permettant aux assurés de consulter des spécialistes hors réseau sans recommandation, sous réserve de franchises plus élevées."
+  },
+  {
+    "id": 1347,
+    "l1": "Santé",
+    "l2": "Soins Médicaux Majeurs",
+    "l3": "Plan de Santé à Franchise Élevée",
+    "desc": "Plans de santé associant des primes exceptionnellement basses avec des comptes d'épargne santé (HSA) avantageux sur le plan fiscal."
+  },
+  {
+    "id": 1348,
+    "l1": "Santé",
+    "l2": "Soins Médicaux Majeurs",
+    "l3": "Assurance Maladie à Court Terme",
+    "desc": "Couverture temporaire et de courte durée conçue pour combler les périodes sans assurance maladie complète."
+  },
+  {
+    "id": 1349,
+    "l1": "Santé",
+    "l2": "Gouvernemental",
+    "l3": "Medicare Advantage (Partie C)",
+    "desc": "Alternative privée de soins gérés au Medicare original, regroupant souvent les prestations de médicaments sur ordonnance et dentaires."
+  },
+  {
+    "id": 1350,
+    "l1": "Santé",
+    "l2": "Gouvernemental",
+    "l3": "Supplément Medicare (Medigap)",
+    "desc": "Assurance privée couvrant spécifiquement les frais à la charge de l'assuré et les franchises non couvertes par le Medicare original."
+  },
+  {
+    "id": 1351,
+    "l1": "Santé",
+    "l2": "Gouvernemental",
+    "l3": "Medicare Partie D (Médicaments)",
+    "desc": "Plans autonomes réglementés par le gouvernement fédéral, conçus strictement pour la couverture des médicaments sur ordonnance en soins ambulatoires."
+  },
+  {
+    "id": 1352,
+    "l1": "Santé",
+    "l2": "Gouvernemental",
+    "l3": "Soins Gérés Medicaid",
+    "desc": "Administration privée de la santé sous contrat avec l'État pour les populations à faible revenu et handicapées."
+  },
+  {
+    "id": 1353,
+    "l1": "Santé",
+    "l2": "Protection du Revenu",
+    "l3": "Invalidité de Courte Durée",
+    "desc": "Remplace une partie du revenu en cas d'incapacité temporaire de travailler (par ex. 3 à 6 mois) en raison de blessures non professionnelles."
+  },
+  {
+    "id": 1354,
+    "l1": "Santé",
+    "l2": "Protection du Revenu",
+    "l3": "Invalidité de Longue Durée",
+    "desc": "Remplacement de revenu prolongé pour une incapacité professionnelle grave et durable s'étendant sur des années."
+  },
+  {
+    "id": 1355,
+    "l1": "Santé",
+    "l2": "Protection du Revenu",
+    "l3": "Prestations d'Invalidité Légales",
+    "desc": "Couverture imposée par l'État spécifiquement pour les blessures, les maladies et la grossesse non professionnelles."
+  },
+  {
+    "id": 1356,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Assurance Maladies Graves",
+    "desc": "Paiement financier forfaitaire déclenché lors du diagnostic vérifié de conditions graves spécifiques telles que le cancer ou un accident vasculaire cérébral."
+  },
+  {
+    "id": 1357,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Décès Accidentel et Mutilation",
+    "desc": "Indemnisation spécifique en cas de blessures corporelles graves ou de décès résultant directement et uniquement d'accidents."
+  },
+  {
+    "id": 1358,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Soins de Longue Durée (LTC)",
+    "desc": "Couvre les coûts importants des soins de garde en maisons de retraite, en établissements de soins assistés ou pour des soins à domicile."
+  },
+  {
+    "id": 1359,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Assurance Dentaire",
+    "desc": "Couverture autonome pour les soins préventifs, les procédures de base et les restaurations dentaires majeures."
+  },
+  {
+    "id": 1360,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Assurance Vision",
+    "desc": "Couverture autonome pour les examens ophtalmologiques, les verres correcteurs et les soins optiques spécialisés."
+  },
+  {
+    "id": 1361,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Indemnité Hospitalière",
+    "desc": "Verse une prestation en espèces fixe prédéterminée pour chaque jour où l'assuré est confiné à l'hôpital."
+  },
+  {
+    "id": 1362,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Médical de Voyage",
+    "desc": "Couverture santé spécialisée à court terme pour les urgences médicales survenant lors de voyages internationaux."
+  },
+  {
+    "id": 1363,
+    "l1": "Santé",
+    "l2": "Institutionnel",
+    "l3": "Excédent de Pertes pour les Fournisseurs",
+    "desc": "Protège les entités de santé auto-assurées et les systèmes hospitaliers contre des sinistres catastrophiques de patients individuels."
+  },
+  {
+    "id": 1364,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Maladie Grave / Maladie Spécifiée (Collective)",
+    "desc": "Couverture forfaitaire parrainée par l'employeur pour les diagnostics de maladies graves, facilitant la stabilité financière pendant la récupération."
+  },
+  {
+    "id": 1365,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Indemnité Hospitalière (Collective)",
+    "desc": "Prestations journalières fixes parrainées par l'employeur pour les séjours à l'hôpital afin de compenser les franchises médicales élevées."
+  },
+  {
+    "id": 1366,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Assurance Cancer",
+    "desc": "Police autonome spécifiquement axée sur la couverture des frais élevés liés aux traitements oncologiques."
+  },
+  {
+    "id": 1367,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Assurance Maladie pour Expatriés",
+    "desc": "Couverture médicale majeure complète conçue pour les employés travaillant en dehors de leur pays d'origine pour des missions de longue durée."
+  },
+  {
+    "id": 1368,
+    "l1": "Santé",
+    "l2": "Complémentaire",
+    "l3": "Assurance Maladie pour Étudiants",
+    "desc": "Couverture médicale parrainée conçue pour les étudiants nationaux et internationaux inscrits dans les universités."
+  },
+  {
+    "id": 1369,
+    "l1": "Santé",
+    "l2": "Institutionnel",
+    "l3": "Excédent de Pertes : Spécifique (Employeur)",
+    "desc": "Protège les régimes de santé des employeurs auto-assurés contre les réclamations individuelles massives dépassant un seuil monétaire spécifique."
+  },
+  {
+    "id": 1370,
+    "l1": "Santé",
+    "l2": "Institutionnel",
+    "l3": "Excédent de Pertes : Global (Employeur)",
+    "desc": "Protège les régimes de santé des employeurs auto-assurés contre le fait que le portefeuille total des réclamations dépasse un seuil cumulatif attendu."
+  },
+  {
+    "id": 1371,
+    "l1": "Santé",
+    "l2": "Spécialisé",
+    "l3": "Hybride Vie / Soins de Longue Durée",
+    "desc": "Associe une prestation de décès de l'assurance vie permanente avec un avenant accéléré réservé spécifiquement aux dépenses de soins de longue durée."
+  },
+  {
+    "id": 1372,
+    "l1": "Santé",
+    "l2": "Spécialisé",
+    "l3": "Assurance Invalidité de Crédit",
+    "desc": "Paie le minimum mensuel sur des dettes ou des prêts spécifiques si l'emprunteur devient totalement invalide et incapable de travailler."
+  },
+  {
+    "id": 1373,
+    "l1": "Secteur",
+    "l2": "Ligne d'Activité",
+    "l3": "Produit / Service Spécifique",
+    "desc": "Mécanisme de Risque et Description de l'Architecture d'Entreprise"
+  },
+  {
+    "id": 1374,
+    "l1": "Accessoire",
+    "l2": "Dépannage & Mobilité",
+    "l3": "Assistance Routière",
+    "desc": "Services de répartition pour le remorquage, les batteries à plat et l'ouverture de portes, souvent intégrés via des API avec des réseaux tiers."
+  },
+  {
+    "id": 1375,
+    "l1": "Accessoire",
+    "l2": "Dépannage & Mobilité",
+    "l3": "Remboursement de Voiture de Location",
+    "desc": "Paiement direct aux agences de location pour fournir un moyen de transport temporaire pendant qu'un véhicule endommagé est en réparation."
+  },
+  {
+    "id": 1376,
+    "l1": "Accessoire",
+    "l2": "Ingénierie des Risques",
+    "l3": "Conseil en Contrôle des Pertes",
+    "desc": "Inspections de sécurité spécialisées, évaluations ergonomiques et formation à l'atténuation des risques fournies aux clients commerciaux."
+  },
+  {
+    "id": 1377,
+    "l1": "Accessoire",
+    "l2": "Ingénierie des Risques",
+    "l3": "Surveillance Structurelle IoT",
+    "desc": "Déploiement de capteurs intelligents sur les propriétés commerciales pour la détection en temps réel de fuites d'eau ou de contraintes structurelles."
+  },
+  {
+    "id": 1378,
+    "l1": "Accessoire",
+    "l2": "Services Cyber",
+    "l3": "Formation à la Sensibilisation à la Sécurité",
+    "desc": "Proposer des simulations d'hameçonnage et des cours d'hygiène cybernétique aux assurés commerciaux pour réduire de manière proactive les risques de violation."
+  },
+  {
+    "id": 1379,
+    "l1": "Accessoire",
+    "l2": "Services Cyber",
+    "l3": "Surveillance du Dark Web",
+    "desc": "Analyse continue des marchés illicites pour trouver des identifiants compromis ou des PII appartenant à l'assuré."
+  },
+  {
+    "id": 1380,
+    "l1": "Accessoire",
+    "l2": "Santé & Bien-être",
+    "l3": "Services de Télésanté",
+    "desc": "Fournir aux assurés un accès numérique 24h/24 et 7j/7 à des professionnels de santé pour des consultations mineures."
+  },
+  {
+    "id": 1381,
+    "l1": "Accessoire",
+    "l2": "Santé & Bien-être",
+    "l3": "Programmes de Récompenses Bien-être",
+    "desc": "Encourager les comportements sains (par ex. atteindre des objectifs de pas via des appareils portables) avec des réductions de prime ou des cartes-cadeaux."
+  },
+  {
+    "id": 1382,
+    "l1": "Accessoire",
+    "l2": "Services Juridiques",
+    "l3": "Plans Juridiques Prépayés",
+    "desc": "Accès basé sur des honoraires à des consultations juridiques, l'examen de documents et une représentation limitée pour les particuliers ou les entreprises."
+  },
+  {
+    "id": 1383,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Acquisition de Clients",
+    "l3": "Génération et Évaluation de Prospects",
+    "desc": "Identification et suivi de prospects fortunés grâce à des pipelines de marketing numérique sophistiqués et des outils CRM."
+  },
+  {
+    "id": 1384,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Acquisition de Clients",
+    "l3": "Accueil des Clients et KYC",
+    "desc": "Numérisation du processus de réception sécurisée, y compris la gestion de l'identité, la vérification biométrique et les protocoles \"Connaître son Client\" (KYC)."
+  },
+  {
+    "id": 1385,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Services de Conseil",
+    "l3": "Analyse des Besoins Financiers",
+    "desc": "Évaluation complète de la situation financière globale d'un client, de sa tolérance au risque, de ses projets de succession et de ses objectifs de retraite."
+  },
+  {
+    "id": 1386,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Services de Conseil",
+    "l3": "Planification de Scénarios Multi-Objectifs",
+    "desc": "Simulation de diverses conditions de marché macroéconomiques pour tester de manière stochastique la viabilité des plans de retraite."
+  },
+  {
+    "id": 1387,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Construction de Portefeuille",
+    "l3": "Allocation d'Actifs",
+    "desc": "Détermination de la combinaison mathématique optimale d'actions mondiales, de titres à revenu fixe et d'investissements alternatifs en fonction des profils de risque."
+  },
+  {
+    "id": 1388,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Construction de Portefeuille",
+    "l3": "Indexation Directe",
+    "desc": "Réplication d'indices boursiers larges au sein de portefeuilles individuels tout en récoltant les pertes de manière très avantageuse fiscalement."
+  },
+  {
+    "id": 1389,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Gestion des Ordres",
+    "l3": "Génération de Transactions",
+    "desc": "Traduction de décisions d'allocation d'actifs de haut niveau et de besoins de rééquilibrage en ordres de marché spécifiques et exécutables."
+  },
+  {
+    "id": 1390,
+    "l1": "Gestion de Patrimoine",
+    "l2": "Gestion des Ordres",
+    "l3": "Conformité Pré-Négociation",
+    "desc": "S'assurer systématiquement que les transactions proposées n'enfreignent pas les mandats spécifiques des clients, les exigences ESG ou les restrictions réglementaires."
+  },
+  {
+    "id": 1391,
+    "l1": "Gestion d'Actifs",
+    "l2": "Gestion des Risques",
+    "l3": "Analyse des Risques de Marché",
+    "desc": "Calcul de mesures complexes telles que la valeur à risque (VaR) et l'exposition aux scénarios de volatilité des marchés mondiaux systémiques."
+  },
+  {
+    "id": 1392,
+    "l1": "Gestion d'Actifs",
+    "l2": "Gestion des Risques",
+    "l3": "Risque de Crédit et de Contrepartie",
+    "desc": "Évaluation de la probabilité statistique de défaut de partenaires commerciaux, d'émetteurs d'obligations ou de contreparties sur produits dérivés."
+  },
+  {
+    "id": 1393,
+    "l1": "Gestion d'Actifs",
+    "l2": "Surveillance de la Conformité",
+    "l3": "Conformité Post-Négociation",
+    "desc": "Audit des transactions exécutées de manière rétroactive par rapport aux politiques de risque internes et aux cadres réglementaires externes (par ex. SEC, MiFID II)."
+  },
+  {
+    "id": 1394,
+    "l1": "Gestion d'Actifs",
+    "l2": "Surveillance de la Conformité",
+    "l3": "Dépistage LBA / Sanctions",
+    "desc": "Examen continu des flux d'actifs mondiaux par rapport aux bases de données de lutte contre le blanchiment d'argent et aux listes de sanctions de l'OFAC."
+  },
+  {
+    "id": 1395,
+    "l1": "Gestion d'Actifs",
+    "l2": "Analyse de Performance",
+    "l3": "Attribution de Rendement",
+    "desc": "Dissection mathématique des rendements du portefeuille pour isoler l'impact de l'allocation stratégique d'actifs par rapport à la sélection tactique de titres."
+  },
+  {
+    "id": 1396,
+    "l1": "Gestion d'Actifs",
+    "l2": "Analyse de Performance",
+    "l3": "Comparaison de Référence",
+    "desc": "Mesure du rendement absolu et ajusté au risque du portefeuille par rapport aux indices de marché pertinents (par ex., S&P 500, MSCI World)."
+  },
+  {
+    "id": 1397,
+    "l1": "Gestion d'Actifs",
+    "l2": "Soutien aux Opérations",
+    "l3": "Appariement et Confirmation des Transactions",
+    "desc": "Rapprochement rapide des détails des transactions exécutées avec les courtiers externes et les contreparties de compensation avant le règlement final."
+  },
+  {
+    "id": 1398,
+    "l1": "Gestion d'Actifs",
+    "l2": "Comptabilité de Fonds",
+    "l3": "Calcul de la Valeur Nette d'Inventaire (VNI)",
+    "desc": "Calcul avec une extrême précision de la valeur par action quotidienne des fonds communs de placement et des véhicules d'investissement."
+  }
+]

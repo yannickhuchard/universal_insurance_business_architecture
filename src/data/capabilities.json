@@ -21,7 +21,15 @@
       "HubSpot",
       "ServiceNow"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Distribution",
+        "l2": "Gestion des Partenaires",
+        "l3": "Intégration des Agences/Courtiers",
+        "desc": "Gestion de l'admission administrative, de la vérification des antécédents et de la nomination contractuelle des intermédiaires tiers."
+      }
+    }
   },
   {
     "l1": "Distribution & Channel Management",
@@ -45,7 +53,15 @@
       "HubSpot",
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Distribution",
+        "l2": "Gestion des Partenaires",
+        "l3": "Licences et Accréditations",
+        "desc": "Suivi des exigences en matière de licences par état et des crédits de formation continue pour garantir la conformité réglementaire avant la souscription de la police."
+      }
+    }
   },
   {
     "l1": "Distribution & Channel Management",
@@ -67,7 +83,15 @@
       "HubSpot",
       "ServiceNow"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Distribution",
+        "l2": "Rémunération",
+        "l3": "Gestion des Commissions",
+        "desc": "Calcul, validation et distribution de commissions échelonnées complexes, de dérogations et de primes de performance au réseau de distribution."
+      }
+    }
   },
   {
     "l1": "Distribution & Channel Management",
@@ -90,7 +114,15 @@
     "applications": [
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Distribution",
+        "l2": "Analyse des Canaux",
+        "l3": "Analyse de la Performance des Canaux",
+        "desc": "Suivi de la rentabilité, des taux de conversion devis-souscription et des taux de sinistralité localisés de réseaux de distribution et de régions géographiques spécifiques."
+      }
+    }
   },
   {
     "l1": "Distribution & Channel Management",
@@ -112,7 +144,15 @@
       "HubSpot",
       "Pegasystems"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Distribution",
+        "l2": "Canaux Numériques",
+        "l3": "Intégration d'Agrégateurs",
+        "desc": "Gestion des intégrations API en temps réel et à haut débit avec des plateformes de tarification comparative tierces et des places de marché numériques."
+      }
+    }
   },
   {
     "l1": "Marketing & Sales",
@@ -136,7 +176,15 @@
       "Salesforce Financial Services Cloud",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Marketing",
+        "l2": "Gestion des Campagnes",
+        "l3": "Exécution des Campagnes",
+        "desc": "Conception, financement et exécution d'initiatives marketing omnicanales pour générer des leads en haut du tunnel de conversion."
+      }
+    }
   },
   {
     "l1": "Marketing & Sales",
@@ -158,7 +206,15 @@
       "Salesforce Financial Services Cloud",
       "FRISS"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Marketing",
+        "l2": "Gestion des Leads",
+        "l3": "Triage et Routage des Leads",
+        "desc": "Évaluation des prospects basée sur des facteurs de risque démographiques et routage dynamique vers des agents de vente internes ou des spécialistes externes."
+      }
+    }
   },
   {
     "l1": "Customer Management & Experience",
@@ -181,7 +237,15 @@
       "Pegasystems",
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Clientèle",
+        "l2": "Gestion des Profils",
+        "l3": "Gestion du Profil Client",
+        "desc": "Maintien d'une vue à 360 degrés de type Master Data Management (MDM) de l'assuré à travers toutes les interactions de l'entreprise et les lignes de produits."
+      }
+    }
   },
   {
     "l1": "Marketing & Sales",
@@ -203,7 +267,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Marketing",
+        "l2": "Stratégie Client",
+        "l3": "Ciblage Vente Croisée/Montée en Gamme",
+        "desc": "Utilisation de modèles de propension basés sur le machine learning pour proposer des polices complémentaires (par ex., une couverture globale pour les propriétaires) aux clients existants."
+      }
+    }
   },
   {
     "l1": "Distribution & Channel Management",
@@ -223,7 +295,15 @@
     "applications": [
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Distribution",
+        "l2": "Exécution des Ventes",
+        "l3": "Devis et Illustration",
+        "desc": "Génération d'estimations de prix personnalisées et d'illustrations visuelles des avantages pour les futurs assurés en fonction des données préliminaires saisies."
+      }
+    }
   },
   {
     "l1": "Customer Management & Experience",
@@ -246,7 +326,15 @@
       "HubSpot",
       "ServiceNow"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Clientèle",
+        "l2": "Service Client",
+        "l3": "Opérations du Centre de Contact",
+        "desc": "Gestion du support client entrant et sortant omnicanal et de la résolution des demandes."
+      }
+    }
   },
   {
     "l1": "Customer Management & Experience",
@@ -266,7 +354,15 @@
     "applications": [
       "ServiceNow"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Clientèle",
+        "l2": "Expérience Numérique",
+        "l3": "Gestion de l'Expérience Client (CX)",
+        "desc": "Supervision de l'expérience utilisateur numérique de bout en bout sur les applications mobiles, les portails et les interfaces conversationnelles."
+      }
+    }
   },
   {
     "l1": "Customer Management & Experience",
@@ -289,7 +385,15 @@
       "Pegasystems",
       "HubSpot"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Clientèle",
+        "l2": "Programmes de Fidélité",
+        "l3": "Récompenses et Rétention",
+        "desc": "Conception et gestion de programmes visant à augmenter la valeur à vie du client par des initiatives de récompense et de rétention."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -311,7 +415,15 @@
       "Collibra",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Affaires Nouvelles",
+        "l3": "Capture de la Demande",
+        "desc": "Ingestion de données structurées et non structurées provenant de portails de devis numériques, de systèmes de gestion de courtage et de formulaires ACORD standard."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -331,7 +443,15 @@
     "applications": [
       "Workday"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Affaires Nouvelles",
+        "l3": "Génération des Exigences",
+        "desc": "Déclenchement automatique des demandes d'examens médicaux, de dossiers de conduite (MVR) ou d'inspections de biens selon les règles de risque."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -353,7 +473,15 @@
       "PowerBI",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Évaluation des Risques",
+        "l3": "Évaluation de l'Appétit au Risque",
+        "desc": "Comparaison des paramètres de la demande entrante avec les seuils de risque codifiés de l'entreprise, les concentrations géographiques et les embargos."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -377,7 +505,15 @@
       "Guidewire PolicyCenter",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Évaluation des Risques",
+        "l3": "Enrichissement des Données",
+        "desc": "Appel d'API tierces externes pour des données télématiques, la modélisation des périls géographiques (géocodage), le scoring de crédit ou l'historique des prescriptions médicales."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -399,7 +535,15 @@
       "AIR Worldwide",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Évaluation des Risques",
+        "l3": "Scoring Prédictif des Risques",
+        "desc": "Application de modèles algorithmiques pour prédire la fréquence et la gravité attendues des pertes futures potentielles sur la base de l'analyse de cohortes."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -422,7 +566,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Tarification",
+        "l3": "Calcul du Taux de Prime",
+        "desc": "Exécution d'algorithmes actuariels de base pour générer des taux de base, appliquer des facteurs de modification et calculer les primes finales."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -445,7 +597,15 @@
       "Microsoft Dynamics 365",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Tarification",
+        "l3": "Gestion de la Tarification et des Revenus",
+        "desc": "Stratégie de tarification au niveau de l'entreprise, modélisation de l'élasticité et optimisation des revenus au-delà de la tarification des polices individuelles."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -468,7 +628,15 @@
       "Microsoft Dynamics 365",
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Évaluation des Risques",
+        "l3": "Gestion des Subjectivités",
+        "desc": "Gestion des exigences conditionnelles qui doivent être remplies par l'assuré (par ex., installation d'une alarme centrale) avant que la couverture ne soit pleinement garantie."
+      }
+    }
   },
   {
     "l1": "Underwriting & Pricing",
@@ -490,7 +658,15 @@
     "applications": [
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Souscription et Tarification",
+        "l2": "Engagement",
+        "l3": "Souscription et Émission",
+        "desc": "Engagement juridique de l'assureur face au risque, génération des documents contractuels physiques ou numériques et lancement du cycle de facturation."
+      }
+    }
   },
   {
     "l1": "Policy Administration",
@@ -511,7 +687,15 @@
       "Shift Technology",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Polices",
+        "l2": "Maintenance des Polices",
+        "l3": "Traitement des Avenants",
+        "desc": "Exécution de modifications en cours de contrat sur les limites de couverture, les franchises, l'ajout d'entités assurées ou la mise à jour des lieux de stationnement."
+      }
+    }
   },
   {
     "l1": "Policy Administration",
@@ -536,7 +720,15 @@
       "Verisk",
       "Collibra"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Polices",
+        "l2": "Maintenance des Polices",
+        "l3": "Traitement Hors Séquence",
+        "desc": "Gestion des avenants rétroactifs complexes et recalcul automatique de toutes les transactions financières et échéanciers de facturation ultérieurs."
+      }
+    }
   },
   {
     "l1": "Policy Administration",
@@ -558,7 +750,15 @@
       "Guidewire BillingCenter",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Polices",
+        "l2": "Maintenance des Polices",
+        "l3": "Orchestration des Renouvellements",
+        "desc": "Évaluation automatique des polices arrivant à échéance et génération de devis de renouvellement en fonction de modèles de tarification mis à jour et de l'historique récent des sinistres."
+      }
+    }
   },
   {
     "l1": "Policy Administration",
@@ -582,7 +782,15 @@
       "Guidewire ClaimCenter",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Polices",
+        "l2": "Maintenance des Polices",
+        "l3": "Gestion des Résiliations",
+        "desc": "Traitement des résiliations volontaires ou pour non-paiement, y compris le calcul des restitutions de primes au prorata ou à court terme."
+      }
+    }
   },
   {
     "l1": "Policy Administration",
@@ -605,7 +813,15 @@
     "applications": [
       "ServiceNow"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Polices",
+        "l2": "Maintenance des Polices",
+        "l3": "Traitement des Remises en Vigueur",
+        "desc": "Restauration des polices résiliées lors de la réception des primes en retard, sous réserve de l'examen automatisé de souscription et des périodes de suspension."
+      }
+    }
   },
   {
     "l1": "Financial Management & Accounting",
@@ -628,7 +844,15 @@
     "applications": [
       "UiPath"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Financière",
+        "l2": "Facturation et Recouvrement",
+        "l3": "Facturation et Génération de Relevés",
+        "desc": "Production de factures précises et consolidées pour des polices individuelles ou des comptes commerciaux complexes à polices multiples."
+      }
+    }
   },
   {
     "l1": "Financial Management & Accounting",
@@ -650,7 +874,15 @@
       "Moody’s RMS",
       "Palantir Foundry"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Financière",
+        "l2": "Facturation et Recouvrement",
+        "l3": "Audit de Prime",
+        "desc": "Réalisation d'audits a posteriori sur les polices commerciales (ex: accidents du travail) pour ajuster les primes estimées par rapport aux masses salariales réelles."
+      }
+    }
   },
   {
     "l1": "Financial Management & Accounting",
@@ -670,7 +902,15 @@
     "applications": [
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Financière",
+        "l2": "Facturation et Recouvrement",
+        "l3": "Traitement des Paiements",
+        "desc": "Acceptation, tokenisation et compensation sécurisées des virements électroniques, paiements par carte de crédit et chèques physiques."
+      }
+    }
   },
   {
     "l1": "Financial Management & Accounting",
@@ -694,7 +934,15 @@
       "Verisk",
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Financière",
+        "l2": "Facturation et Recouvrement",
+        "l3": "Rapprochement de Comptes",
+        "desc": "Rapprochement des flux de données de paiement entrants avec les factures ouvertes, imputation des fonds et résolution des écarts complexes sur les comptes d'attente."
+      }
+    }
   },
   {
     "l1": "Financial Management & Accounting",
@@ -718,7 +966,15 @@
       "Tableau",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Financière",
+        "l2": "Facturation et Recouvrement",
+        "l3": "Relance et Recouvrement",
+        "desc": "Exécution de flux de notification automatisés et échelonnés pour les comptes en souffrance avant d'initier les protocoles de résiliation."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -738,7 +994,15 @@
     "applications": [
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Déclaration des Sinistres",
+        "l3": "Premier Avis de Sinistre (FNOL)",
+        "desc": "Capture des premiers détails de l'incident, des informations sur le demandeur et des descriptions préliminaires des dommages via les canaux mobiles, web et vocaux."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -760,7 +1024,15 @@
       "UiPath",
       "Insurity"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Déclaration des Sinistres",
+        "l3": "Vérification de la Couverture",
+        "desc": "Contrôle croisé de la date, du lieu de l'incident et du péril spécifique par rapport au système d'administration de la police active pour garantir sa validité."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -784,7 +1056,15 @@
       "QlikView",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Déclaration des Sinistres",
+        "l3": "Triage et Orientation des Sinistres",
+        "desc": "Segmentation dynamique des sinistres pour un traitement direct (STP) ou affectation à des experts de terrain spécialisés en fonction de la complexité."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -808,7 +1088,15 @@
       "Informatica MDM",
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Instruction des Sinistres",
+        "l3": "Gestion de l'Enquête",
+        "desc": "Orchestration des enquêtes sur le terrain, recueil de déclarations enregistrées de témoins et collecte de rapports officiels de police ou médicaux."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -828,7 +1116,15 @@
     "applications": [
       "SAP S/4HANA"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Instruction des Sinistres",
+        "l3": "Estimation des Dommages",
+        "desc": "Utilisation d'experts humains, de logiciels tiers ou de l'IA (vision par ordinateur) pour calculer les coûts exacts de réparation ou de remplacement."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -851,7 +1147,15 @@
       "Collibra",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Instruction des Sinistres",
+        "l3": "Gestion des Réserves",
+        "desc": "Fixation et ajustement dynamique des réserves financières allouées au bilan de l'entreprise pour les règlements de sinistres prévus."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -874,7 +1178,15 @@
     "applications": [
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Gestion de la Fraude",
+        "l3": "Détection de la Fraude (SIU)",
+        "desc": "Identification de schémas comportementaux ou de données anormaux et transmission des sinistres très suspects aux Unités Spéciales d'Investigation."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -896,7 +1208,15 @@
     "applications": [
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Gestion de la Fraude",
+        "l3": "Gestion de la Fraude en Entreprise",
+        "desc": "Détection holistique et prévention des activités frauduleuses au-delà des sinistres, englobant la souscription et la fraude interne."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -920,7 +1240,15 @@
       "LexisNexis",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Écosystèmes",
+        "l3": "Gestion des Fournisseurs et Réseaux",
+        "desc": "Déploiement et gestion de garages automobiles agréés, de réseaux de prestataires médicaux ou de services de restauration de l'habitat."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -942,7 +1270,15 @@
       "Informatica MDM",
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Écosystèmes",
+        "l3": "Réseau Santé et Bien-être",
+        "desc": "Gestion de partenariats externes avec des prestataires de santé et de bien-être pour fournir des solutions de soins intégrées."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -965,7 +1301,15 @@
     "applications": [
       "Blue Prism"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Résolution des Sinistres",
+        "l3": "Recouvrement par Subrogation",
+        "desc": "Poursuite de recours légaux et financiers auprès de tiers responsables ou de leurs assureurs pour compenser les indemnités versées."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -985,7 +1329,15 @@
     "applications": [
       "Coupa"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Résolution des Sinistres",
+        "l3": "Gestion des Sauvetages",
+        "desc": "Liquidation d'actifs physiques déclarés en perte totale (par ex., véhicules lourdement endommagés, équipement industriel) lors de ventes aux enchères pour récupérer une partie des coûts."
+      }
+    }
   },
   {
     "l1": "Claims Management",
@@ -1010,7 +1362,15 @@
       "Pegasystems",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion des Sinistres",
+        "l2": "Résolution des Sinistres",
+        "l3": "Versement de l'Indemnité",
+        "desc": "Exécution du flux de paiement financier final, émission des paiements à l'assuré, au tiers réclamant ou directement au prestataire de réparation."
+      }
+    }
   },
   {
     "l1": "Reinsurance Management",
@@ -1035,7 +1395,15 @@
       "Microsoft Dynamics 365",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Réassurance",
+        "l2": "Acceptation / Cession",
+        "l3": "Administration des Traités",
+        "desc": "Gestion des accords de réassurance mondiale proportionnels et non proportionnels sur l'ensemble du portefeuille pour atténuer la concentration de risques catastrophiques."
+      }
+    }
   },
   {
     "l1": "Reinsurance Management",
@@ -1057,7 +1425,15 @@
       "Microsoft Dynamics 365",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Réassurance",
+        "l2": "Acceptation / Cession",
+        "l3": "Cession Facultative",
+        "desc": "Recherche, négociation et placement de couvertures de réassurance individuelles pour des risques spécifiques exceptionnellement importants, uniques ou complexes."
+      }
+    }
   },
   {
     "l1": "Reinsurance Management",
@@ -1080,7 +1456,15 @@
     "applications": [
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de la Réassurance",
+        "l2": "Écosystèmes",
+        "l3": "Gestion de Captives",
+        "desc": "Gestion des services administratifs et de souscription pour des entités d'assurance captives formées par de grands clients corporatifs."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1101,7 +1485,15 @@
     "applications": [
       "FRISS"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Configuration des Produits",
+        "l3": "Définition des Attributs",
+        "desc": "Définition des variables de données spécifiques (par ex., l'âge du conducteur, le type de construction, la marque du véhicule) qui influencent l'évaluation du risque."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1123,7 +1515,15 @@
     "applications": [
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Configuration des Produits",
+        "l3": "Configuration des Couvertures et Périls",
+        "desc": "Mise en place des risques spécifiques assurés, ainsi que de la structure hiérarchique des limites maximales, sous-limites et franchises."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1144,7 +1544,15 @@
       "Blue Prism",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Configuration des Produits",
+        "l3": "Gestion des Variances Réglementaires",
+        "desc": "Gestion des déviations juridictionnelles, garantissant que le produit se comporte différemment en fonction des mandats spécifiques du Département de l'Assurance."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1165,7 +1573,15 @@
       "LexisNexis",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Création de Règles",
+        "l3": "Création de Logique d'Éligibilité",
+        "desc": "Création de tables de décision booléennes complexes qui déterminent si un profil de risque spécifique relève de l'appétit de souscription acceptable."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1189,7 +1605,15 @@
       "UiPath",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Création de Règles",
+        "l3": "Développement de la Formule de Tarification",
+        "desc": "Création d'algorithmes actuariels, de séquences de multiplicateurs et de grilles de taux de base nécessaires au calcul de primes précises."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1210,7 +1634,15 @@
     "applications": [
       "Insurity"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Création de Règles",
+        "l3": "Conception de Règles de Validation",
+        "desc": "Création d'une logique systémique pour garantir l'intégrité des données pendant le processus de devis (par exemple, empêcher la souscription d'une assurance auto commerciale sans numéro VIN valide)."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1234,7 +1666,15 @@
       "UiPath",
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Gestion des Formulaires",
+        "l3": "Mappage de la Logique Documentaire",
+        "desc": "Association de formulaires réglementaires spécifiques, de mentions légales et de contrats d'assurance à des déclencheurs conditionnels en fonction des couvertures choisies."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1258,7 +1698,15 @@
       "Verisk",
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Simulation",
+        "l3": "Analyse d'Impact Tarifaire",
+        "desc": "Exécution d'algorithmes de tarification proposés sur des données historiques de portefeuille pour analyser les variations de revenus et d'impacts sur la rétention."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1278,7 +1726,15 @@
     "applications": [
       "UiPath"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Simulation",
+        "l3": "Tests de Scénarios",
+        "desc": "Injection de fausses combinaisons de données de demande pour vérifier le bon déclenchement des règles d'éligibilité, de validation et de souscription."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1299,7 +1755,15 @@
     "applications": [
       "Blue Prism"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Déploiement",
+        "l3": "Contrôle de Version",
+        "desc": "Gestion de plusieurs versions actives et datées d'un ensemble de règles de produit, garantissant une traçabilité, une auditabilité et une capacité de restauration complètes."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1324,7 +1788,15 @@
       "Guidewire PolicyCenter",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Déploiement",
+        "l3": "Déploiement Multi-Juridictionnel",
+        "desc": "Orchestration du lancement séquentiel et planifié des variations de produits dans différents environnements réglementaires étatiques ou nationaux."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1346,7 +1818,15 @@
       "Blue Prism",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Déploiement",
+        "l3": "Syndication de Canaux",
+        "desc": "Envoi direct des définitions de produits mises à jour et des API de tarification vers des portails de distribution externes et des plateformes d'agrégation tierces."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1370,7 +1850,15 @@
       "Alteryx",
       "Majesco"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Gestion du Cycle de Vie",
+        "l3": "Règles de Migration des Contrats en Vigueur",
+        "desc": "Mappage des schémas de données pour faciliter la migration systématique des assurés existants d'une ancienne version de produit vers une version nouvellement déployée."
+      }
+    }
   },
   {
     "l1": "Product Development & Management",
@@ -1390,7 +1878,15 @@
     "applications": [
       "Sapiens"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Moteur de Produits",
+        "l2": "Gestion du Cycle de Vie",
+        "l3": "Retrait de Produit",
+        "desc": "Désactivation en toute sécurité de la génération d'affaires nouvelles pour un produit obsolète, tout en maintenant les règles de calcul pour les renouvellements actifs et la liquidation des sinistres."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1413,7 +1909,15 @@
       "Kyriba",
       "ServiceNow"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance de Biens Professionnels",
+        "l3": "Risques d'Incendie Commerciaux et Risques Annexes",
+        "desc": "Couverture pour les entreprises commerciales contre les incendies, la foudre et les risques naturels. Nécessite un géocodage détaillé et des données de classe de construction."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1434,7 +1938,15 @@
     "applications": [
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance de Biens Professionnels",
+        "l3": "Risque Chantier",
+        "desc": "Assure les bâtiments commerciaux, les machines brutes et les équipements lourds pendant le processus actif de construction."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1457,7 +1969,15 @@
     "applications": [
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance de Biens Professionnels",
+        "l3": "Perte d'Exploitation",
+        "desc": "Remplace le revenu d'entreprise perdu et paie les dépenses d'exploitation en cours à la suite d'un dommage matériel couvert."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1478,7 +1998,15 @@
       "Guidewire BillingCenter",
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance de Biens Professionnels",
+        "l3": "Bris de Glace",
+        "desc": "Couverture spécialisée à haute fréquence pour les vitrines commerciales et les verres architecturaux structurels."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1499,7 +2027,15 @@
       "Tableau",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance de Biens Professionnels",
+        "l3": "Bris de Machine (Chaudière et Machinerie)",
+        "desc": "Couverture contre les pannes accidentelles des équipements mécaniques, électriques ou sous pression."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1520,7 +2056,15 @@
       "Alteryx",
       "ServiceNow"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance de Biens Professionnels",
+        "l3": "Différence de Conditions (DIC)",
+        "desc": "Couverture des catastrophes comblant les lacunes des polices dommages standard, souvent pour les inondations et les tremblements de terre."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1544,7 +2088,15 @@
       "Collibra",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Multirisque Professionnelle",
+        "l3": "Police d'Assurance pour les Entreprises (BOP)",
+        "desc": "Couverture préétablie combinant propriété et responsabilité, conçue spécifiquement pour les PME peu complexes."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1569,7 +2121,15 @@
       "Blue Prism",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Multirisque Professionnelle",
+        "l3": "Assurance Multirisque Entreprise (CPP)",
+        "desc": "Combinaison hautement personnalisable de couvertures spécifiques conçue pour les entreprises plus grandes et complexes."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1592,7 +2152,15 @@
       "Insurity",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Multirisque Professionnelle",
+        "l3": "Police de Fabrication",
+        "desc": "Couverture tous risques pour les matières premières de fabrication et les actifs finis situés hors des locaux principaux standard."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1613,7 +2181,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Commerciale",
+        "l3": "Responsabilité Civile Flotte Automobile",
+        "desc": "Couverture en responsabilité pour les dommages corporels et matériels causés à des tiers, conçue pour les grandes flottes de véhicules d'entreprise."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1634,7 +2210,15 @@
       "AIR Worldwide",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Commerciale",
+        "l3": "Dommages Matériels Automobile Commerciale",
+        "desc": "Couverture tous risques et collision spécifiquement pour les véhicules lourds et légers appartenant à l'entreprise."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1655,7 +2239,15 @@
     "applications": [
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Commerciale",
+        "l3": "Responsabilité Civile de Gardiennage",
+        "desc": "Protège les véhicules des clients lorsqu'ils sont temporairement sous la garde, le contrôle ou la responsabilité d'une entreprise de réparation automobile."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1680,7 +2272,15 @@
       "Blue Prism",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Commerciale",
+        "l3": "Fret Routier Motorisé",
+        "desc": "Couvre la responsabilité pour la perte ou l'endommagement du fret en transit lorsqu'il est sous la garde d'un transporteur public."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1702,7 +2302,15 @@
     "applications": [
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Commerciale",
+        "l3": "Responsabilité Auto Location et Véhicules Non Possédés",
+        "desc": "Couverture en responsabilité pour les véhicules utilisés pour les affaires mais n'appartenant pas à l'entreprise (par ex., véhicules des employés, locations)."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1724,7 +2332,15 @@
       "Coupa",
       "Duck Creek"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Générale",
+        "l3": "Responsabilité des Locaux et des Opérations",
+        "desc": "Protège les entreprises contre les blessures ou dommages subis par des tiers se produisant directement sur le lieu de l'entreprise."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1745,7 +2361,15 @@
     "applications": [
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Générale",
+        "l3": "Produits et Opérations Achevées",
+        "desc": "Couverture en responsabilité pour les produits manufacturés défectueux ou les travaux contractuels achevés causant des dommages après la livraison."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1766,7 +2390,15 @@
       "Insurity",
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Générale",
+        "l3": "Responsabilité Contractuelle",
+        "desc": "Couverture d'indemnisation pour les obligations explicitement assumées par l'assuré dans le cadre de contrats commerciaux oraux ou écrits."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1789,7 +2421,15 @@
       "Alteryx",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Générale",
+        "l3": "Propriétaires et Entrepreneurs",
+        "desc": "Protège les propriétaires immobiliers des responsabilités indirectes découlant des actions d'entrepreneurs indépendants embauchés."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1811,7 +2451,15 @@
       "Majesco",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Générale",
+        "l3": "Responsabilité liée à la Vente d'Alcool",
+        "desc": "Protège les entreprises qui fabriquent, vendent ou servent de l'alcool contre les graves dommages causés à des tiers liés à l'intoxication."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1832,7 +2480,15 @@
     "applications": [
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Générale",
+        "l3": "Parapluie Commercial / Responsabilité Excédentaire",
+        "desc": "Couverture responsabilité civile à plafond élevé dépassant les polices de base en responsabilité civile générale, auto et employeurs."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1856,7 +2512,15 @@
       "Guidewire BillingCenter",
       "Alteryx"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Accidents du Travail",
+        "l3": "Accidents du Travail Légaux",
+        "desc": "Couverture mandatée par l'État payant les frais médicaux et la perte de salaire des employés directement à cause de blessures au travail."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1878,7 +2542,15 @@
       "Moody’s RMS",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Accidents du Travail",
+        "l3": "Responsabilité de l'Employeur",
+        "desc": "Protège les entreprises contre des poursuites civiles supplémentaires intentées par les employés alléguant une négligence grave sur le lieu de travail."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1900,7 +2572,15 @@
     "applications": [
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Accidents du Travail",
+        "l3": "Accidents du Travail Hors de l'État",
+        "desc": "Couverture réglementaire spécialisée pour les employés opérant au-delà de frontières complexes entre différentes juridictions et états."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1921,7 +2601,15 @@
     "applications": [
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Accidents du Travail",
+        "l3": "USL&H / Loi Jones",
+        "desc": "Assurance accidents du travail spécialisée pour les employés maritimes et les dockers."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1943,7 +2631,15 @@
       "Alteryx",
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Criminalité Commerciale",
+        "l3": "Malhonnêteté des Employés",
+        "desc": "Protège contre les pertes financières résultant d'actes frauduleux commis par des employés."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1967,7 +2663,15 @@
       "UiPath",
       "Coupa"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Criminalité Commerciale",
+        "l3": "Faux et Altérations",
+        "desc": "Couvre les pertes résultant de la falsification ou de l'altération de chèques sortants ou de billets à ordre."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -1991,7 +2695,15 @@
       "ServiceNow",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Commerciale",
+        "l3": "Criminalité Commerciale / Fidélité",
+        "desc": "Protège les entreprises des pertes financières dues au vol, à la fraude ou au détournement de fonds par les employés."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2012,7 +2724,15 @@
     "applications": [
       "Blue Prism"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Commerciale",
+        "l3": "Assurance Parapluie Commerciale",
+        "desc": "Fournit des limites de responsabilité excédentaires au-delà des polices d'assurance risques divers primaires."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2034,7 +2754,15 @@
       "QlikView",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Commerciale",
+        "l3": "Responsabilité Commerciale Excédentaire",
+        "desc": "Couverture d'accompagnement qui ajoute des plafonds en plus des polices de responsabilité sous-jacentes sans étendre les termes de la couverture."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2056,7 +2784,15 @@
     "applications": [
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Commerciale",
+        "l3": "Responsabilité pour Défauts de Construction",
+        "desc": "Couvre les réclamations pour dommages matériels résultant de malfaçons ou de matériaux défectueux dans le cadre de la construction."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2078,7 +2814,15 @@
       "Duck Creek",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Commerciale",
+        "l3": "Responsabilité Civile Camionnage",
+        "desc": "Responsabilité civile spécialisée pour l'industrie du transport routier couvrant les dommages corporels et matériels causés aux tiers."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2099,7 +2843,15 @@
       "SAP S/4HANA",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Commerciale",
+        "l3": "Véhicules Publics / Transport Rémunéré",
+        "desc": "Couverture pour les véhicules utilisés pour le transport de personnes moyennant rémunération, y compris les taxis, limousines et véhicules de transport avec chauffeur."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2145,7 +2897,15 @@
       "Palantir Foundry",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD / Vie",
+        "l2": "Spécialisé",
+        "l3": "Micro-assurance",
+        "desc": "Polices à primes et couvertures faibles, adaptées aux populations à faibles revenus ou aux marchés émergents."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2165,7 +2925,15 @@
     "applications": [
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Particulier",
+        "l3": "Responsabilité Civile Auto Particulier",
+        "desc": "Couverture responsabilité civile obligatoire minimum pour les dommages corporels et matériels causés à des tiers par des conducteurs particuliers."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2187,7 +2955,15 @@
       "Coupa",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Particulier",
+        "l3": "Collision Auto Particulier",
+        "desc": "Indemnisation des dommages matériels au véhicule de l'assuré résultant directement d'un choc avec un objet ou un véhicule."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2209,7 +2985,15 @@
     "applications": [
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Particulier",
+        "l3": "Assurance Auto Globale Particulier",
+        "desc": "Couverture des dommages au véhicule découlant d'événements autres qu'une collision, y compris le vol, les intempéries et le vandalisme."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2234,7 +3018,15 @@
       "Duck Creek",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Particulier",
+        "l3": "Automobiliste Non Assuré / Sous-assuré",
+        "desc": "Protection de l'assuré contre les dommages et les frais médicaux causés par des conducteurs responsables manquant d'assurance adéquate."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2256,7 +3048,15 @@
     "applications": [
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Particulier",
+        "l3": "Protection Contre les Dommages Corporels (PIP)",
+        "desc": "Couverture sans égard à la responsabilité pour les frais médicaux, la réadaptation et la perte de salaire du conducteur assuré et de ses passagers."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2278,7 +3078,15 @@
     "applications": [
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Particulier",
+        "l3": "Auto Antique / Classique",
+        "desc": "Couverture des dommages matériels en valeur agréée pour les véhicules de collection conduits de façon limitée."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2300,7 +3108,15 @@
     "applications": [
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Auto Particulier",
+        "l3": "Assurance Basée sur l'Usage (UBI) / Télématique",
+        "desc": "Tarification dynamique des primes basée sur les données de comportement de conduite en temps réel capturées via des applications mobiles ou des appareils IoT."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2323,7 +3139,15 @@
       "AIR Worldwide",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Habitation",
+        "l3": "Propriétaire Occupant (HO-3)",
+        "desc": "Couverture standard tous risques pour les habitations résidentielles, les structures attenantes et les biens personnels."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2345,7 +3169,15 @@
     "applications": [
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Habitation",
+        "l3": "Assurance Locataire (HO-4)",
+        "desc": "Couverture limitée aux biens personnels et à la responsabilité civile pour les locataires occupant des espaces résidentiels."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2366,7 +3198,15 @@
       "Workday",
       "SAP S/4HANA"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Habitation",
+        "l3": "Propriétaires de Copropriété (HO-6)",
+        "desc": "Couverture des biens et de responsabilité civile \"murs intérieurs\" spécifiquement adaptée aux copropriétaires et à leurs installations internes."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2386,7 +3226,15 @@
     "applications": [
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Habitation",
+        "l3": "Maisons Mobiles (HO-7)",
+        "desc": "Couverture immobilière spécialisée nécessitant des modèles d'évaluation uniques pour les maisons préfabriquées situées à des emplacements fixes."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2408,7 +3256,15 @@
       "Kyriba",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Habitation",
+        "l3": "Maison Ancienne (HO-8)",
+        "desc": "Couverture pour les maisons anciennes dont le coût de remplacement dépasse largement la valeur marchande, utilisant l'évaluation de remplacement fonctionnel."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2433,7 +3289,15 @@
       "Kyriba",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Habitation",
+        "l3": "Habitations de Grande Valeur",
+        "desc": "Formulaires de couverture et modèles d'évaluation sur mesure pour les propriétés résidentielles de luxe dépassant les valeurs du marché de l'assurance standard."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2456,7 +3320,15 @@
     "applications": [
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Biens Personnels",
+        "l3": "Responsabilité Civile Personnelle Globale",
+        "desc": "Protection autonome en matière de responsabilité civile non commerciale pour les particuliers et les membres de la famille contre les litiges civils."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2476,7 +3348,15 @@
     "applications": [
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Biens Personnels",
+        "l3": "Responsabilité Parapluie Personnelle",
+        "desc": "Couverture de responsabilité excédentaire étendant les limites de façon exponentielle au-delà des polices primaires sous-jacentes (auto et habitation)."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2499,7 +3379,15 @@
       "PowerBI",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Biens Personnels",
+        "l3": "Biens Personnels Désignés",
+        "desc": "Couverture spécifique et détaillée pour les articles de grande valeur (bijoux, objets d'art, objets de collection) sans les plafonds standard."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2520,7 +3408,15 @@
     "applications": [
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Spécialités Particulier",
+        "l3": "Protection Contre l'Usurpation d'Identité",
+        "desc": "Rembourse les dépenses engagées pour restaurer une identité volée et fournit des services de surveillance du crédit."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2541,7 +3437,15 @@
     "applications": [
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Biens Personnels",
+        "l3": "Cyberprotection à Domicile",
+        "desc": "Couverture pour les violations de données personnelles, la cyber-extorsion et la fraude en ligne affectant les réseaux domestiques."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2564,7 +3468,15 @@
       "Salesforce Financial Services Cloud",
       "SAP S/4HANA"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Véhicules Récréatifs",
+        "l3": "Moto / VTT",
+        "desc": "Modèles spécialisés de tarification des dommages matériels et de la responsabilité pour les véhicules à deux roues et hors route."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2587,7 +3499,15 @@
       "Guidewire ClaimCenter",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Véhicules Récréatifs",
+        "l3": "Bateau / Embarcation",
+        "desc": "Couverture de navigation pour les dommages physiques à la coque et la responsabilité maritime pour les motomarines personnelles."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2609,7 +3529,15 @@
       "Guidewire BillingCenter",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Véhicules Récréatifs",
+        "l3": "Véhicule Récréatif (VR)",
+        "desc": "Mélange les caractéristiques de l'assurance automobile personnelle et de l'assurance habitation pour les camping-cars et les caravanes."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2652,7 +3580,15 @@
       "Kyriba",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Biens Personnels",
+        "l3": "Tremblement de Terre (Particulier)",
+        "desc": "Couverture contre les risques spécifiques pour les dommages à l'habitation et au contenu causés par l'activité sismique."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2674,7 +3610,15 @@
       "Coupa",
       "FRISS"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Biens Personnels",
+        "l3": "Assurance Privée Contre les Inondations",
+        "desc": "Couverture contre les inondations non fédérale (marché privé) offrant des plafonds plus élevés ou des conditions plus larges que le NFIP."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2694,7 +3638,15 @@
     "applications": [
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Assurance VR / Camping-car",
+        "desc": "Couverture hybride spécialisée auto et habitation pour les véhicules récréatifs et les camping-cars."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2716,7 +3668,15 @@
       "ServiceNow",
       "Informatica MDM"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Assurance Moto",
+        "desc": "Couverture de responsabilité civile et dommages matériels spécifiquement adaptée aux véhicules motorisés à deux roues."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2739,7 +3699,15 @@
     "applications": [
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Assurance VTT / Véhicule Hors Route",
+        "desc": "Couverture spécialisée pour les véhicules tout-terrain, motos hors route et véhicules utilitaires hors route récréatifs."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2762,7 +3730,15 @@
       "Oracle Fusion Cloud",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Assurance Motoneige",
+        "desc": "Couverture de responsabilité civile et dommages matériels spécifiquement adaptée aux motoneiges récréatives d'hiver."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2786,7 +3762,15 @@
       "Workday",
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Bateau / Motomarine Personnelle",
+        "desc": "Couverture de responsabilité maritime et coque pour les bateaux de plaisance personnels et les jet-skis."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2808,7 +3792,15 @@
     "applications": [
       "Insurity"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Assurance Yacht",
+        "desc": "Limites de navigation plus larges et couverture de responsabilité civile supérieure pour les navires de plaisance personnels de luxe."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2831,7 +3823,15 @@
     "applications": [
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Assurance Voiture Classique / de Collection",
+        "desc": "Couverture dommages matériels en valeur agréée avec des restrictions strictes de kilométrage et d'utilisation pour les automobiles d'époque."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2853,7 +3853,15 @@
       "Collibra",
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Auto Particulier et Récréatif",
+        "l3": "Aviation : Assurance Pilote Privé",
+        "desc": "Couverture coque et responsabilité pour les aéronefs légers personnels et non commerciaux et les pilotes de loisir."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2895,7 +3903,15 @@
     "applications": [
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Spécialités Particulier",
+        "l3": "Garantie Habitation",
+        "desc": "Contrats de service couvrant la réparation ou le remplacement des principaux systèmes et appareils ménagers en raison de l'usure normale."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2918,7 +3934,15 @@
     "applications": [
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Biens Personnels",
+        "l3": "Propriétaire Bailleur / Incendie (DP-1/2/3)",
+        "desc": "Couverture des propriétés locatives résidentielles non occupées par le propriétaire, allant de risques basiques à spécifiques."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2943,7 +3967,15 @@
       "FRISS",
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Spécialités Particulier",
+        "l3": "Assurance Voyage (Personnel / Loisirs)",
+        "desc": "Rembourse les frais de voyage non remboursables en cas d'annulations, d'interruptions et de perte de bagages."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -2967,7 +3999,15 @@
       "Informatica MDM",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Spécialités Particulier",
+        "l3": "Cyber Assurance (Particulier)",
+        "desc": "Protection contre l'extorsion en ligne, la cyberintimidation et la fraude financière visant les individus et les familles."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -2989,7 +4029,15 @@
     "applications": [
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Transport",
+        "l3": "Flotteur d'Équipement",
+        "desc": "Couverture pour la machinerie mobile, les outils et l'équipement lourd qui se déplacent continuellement entre différents chantiers."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3011,7 +4059,15 @@
       "Tableau",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Transport",
+        "l3": "Garantie du Bijoutier",
+        "desc": "Couverture globale à haute sécurité conçue spécifiquement pour les détaillants, grossistes et fabricants de bijoux."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3033,7 +4089,15 @@
     "applications": [
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Transport",
+        "l3": "Beaux-arts et Espèces",
+        "desc": "Protection spécialisée et expertisée pour les musées, galeries et collections privées d'une valeur exceptionnelle."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3053,7 +4117,15 @@
     "applications": [
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Transport",
+        "l3": "Traitement Électronique des Données (EDP)",
+        "desc": "Protège le matériel informatique de l'entreprise, l'infrastructure logicielle et les données brutes contre la destruction physique."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3076,7 +4148,15 @@
       "LexisNexis",
       "Coupa"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Transport",
+        "l3": "Mortalité Animale",
+        "desc": "Polices d'assurance-décès spécifiques pour le bétail de grande valeur, les chevaux de course et les animaux reproducteurs."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3096,7 +4176,15 @@
     "applications": [
       "Informatica MDM"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Transport",
+        "l3": "Risques de Construction / Flotteur d'Installation",
+        "desc": "Couverture des biens pour les matériaux et installations mis en place sur un site commercial ou résidentiel."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3119,7 +4207,15 @@
       "Sapiens",
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Maritime",
+        "l3": "Assurance sur Corps",
+        "desc": "Couverture des dommages matériels pour les navires marchands, les barges et les grandes embarcations."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3142,7 +4238,15 @@
       "Guidewire ClaimCenter",
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Maritime",
+        "l3": "Cargaison Maritime",
+        "desc": "Indemnisation des marchandises de grande valeur perdues, volées ou endommagées lors de transits maritimes internationaux complexes."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3165,7 +4269,15 @@
     "applications": [
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Assurance Maritime",
+        "l3": "Protection et Indemnisation (P&I)",
+        "desc": "Couverture de responsabilité maritime large et spécialisée pour les propriétaires, les exploitants de navires et les employeurs maritimes."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3188,7 +4300,15 @@
       "ServiceNow",
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Responsabilité Professionnelle",
+        "l3": "Responsabilité des Dirigeants (D&O)",
+        "desc": "Protège les cadres supérieurs et les membres du conseil d'administration contre les poursuites civiles découlant de décisions de gestion."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3212,7 +4332,15 @@
       "Coupa",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Responsabilité Professionnelle",
+        "l3": "Erreurs et Omissions (E&O)",
+        "desc": "Couvre les professionnels spécialisés (par ex. architectes, ingénieurs logiciels) pour la perte financière causée par la négligence de service."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3237,7 +4365,15 @@
       "Blue Prism",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Responsabilité Professionnelle",
+        "l3": "Responsabilité des Pratiques d'Emploi (EPLI)",
+        "desc": "Défense et indemnisation contre les plaintes pour licenciement abusif, discrimination et harcèlement sexuel."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3261,7 +4397,15 @@
       "Guidewire PolicyCenter",
       "Verisk"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Lignes Financières",
+        "l3": "Responsabilité Fiduciaire",
+        "desc": "Protège les fiduciaires et administrateurs de plans d'avantages sociaux contre les réclamations de mauvaise gestion ou de manquement à leurs obligations."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3284,7 +4428,15 @@
       "Alteryx",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Cyber Responsabilité",
+        "l3": "Réponse aux Violations de Données",
+        "desc": "Couvre les coûts liés à l'investigation numérique, aux notifications publiques obligatoires et à la surveillance du crédit post-violation."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3306,7 +4458,15 @@
     "applications": [
       "Tableau"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Cyber Responsabilité",
+        "l3": "Rançongiciel et Cyber Extorsion",
+        "desc": "Rembourse les coûts et les frais de négociation associés à l'atténuation de l'extorsion numérique et des menaces de ransomware."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3329,7 +4489,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Cyber Responsabilité",
+        "l3": "Responsabilité de la Sécurité du Réseau",
+        "desc": "Couvre les réclamations de tiers découlant d'une défaillance dans la sécurisation du réseau de l'entreprise contre les logiciels malveillants ou les accès non autorisés."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3351,7 +4519,15 @@
       "PowerBI",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Faute Médicale Professionnelle",
+        "l3": "Faute Médicale Hospitalière",
+        "desc": "Couverture de responsabilité institutionnelle pour négligence clinique dans les réseaux et grands établissements de soins de santé."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3374,7 +4550,15 @@
     "applications": [
       "Moody’s RMS"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Faute Médicale Professionnelle",
+        "l3": "Faute Médicale du Médecin/Chirurgien",
+        "desc": "Responsabilité professionnelle individuelle pour les praticiens médicaux, disponible sous forme de déclencheurs par Réclamation ou Occurrence."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3396,7 +4580,15 @@
       "UiPath",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Faute Médicale Professionnelle",
+        "l3": "Responsabilité des Professionnels Paramédicaux",
+        "desc": "Couverture pour les prestataires de soins non médicaux tels que les infirmières, les physiothérapeutes et les pharmaciens."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3420,7 +4612,15 @@
       "FRISS",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Garantie Financière",
+        "l3": "Garantie Hypothécaire",
+        "desc": "Protège les prêteurs financiers contre le défaut de paiement des emprunteurs sur les hypothèques résidentielles et commerciales avec des ratios prêt/valeur (LTV) élevés."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3441,7 +4641,15 @@
       "Informatica MDM",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Garantie Financière",
+        "l3": "Cautions (Contrat)",
+        "desc": "Instruments financiers (soumission, exécution, paiement) garantissant l'accomplissement des obligations de construction."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3465,7 +4673,15 @@
       "UiPath",
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Garantie Financière",
+        "l3": "Cautions (Commercial)",
+        "desc": "Cautions de licences et permis exigées par les entités gouvernementales pour l'exploitation commerciale."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3488,7 +4704,15 @@
       "Majesco",
       "Blue Prism"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Aviation et Spatial",
+        "l3": "Coque et Responsabilité Aérienne",
+        "desc": "Mécanismes complets de transfert des risques pour les actifs physiques de l'aviation commerciale et privée."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3508,7 +4732,15 @@
     "applications": [
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Aviation et Spatial",
+        "l3": "Assurance Satellite et Spatial",
+        "desc": "Couvre les échecs catastrophiques de lancement et les anomalies opérationnelles en orbite pour les actifs spatiaux commerciaux."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3531,7 +4763,15 @@
       "Workday",
       "ServiceNow"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Aviation et Spatial",
+        "l3": "Responsabilité Drones / UAV",
+        "desc": "Couverture spécialisée pour la responsabilité civile et les dommages matériels concernant les drones commerciaux (UAV)."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3554,7 +4794,15 @@
     "applications": [
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Gestion de Crise",
+        "l3": "Rappel de Produit",
+        "desc": "Couvre les immenses coûts de logistique, de communication et de réhabilitation de la marque suite à un rappel de sécurité d'un produit."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3577,7 +4825,15 @@
       "PowerBI",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Gestion de Crise",
+        "l3": "Enlèvement et Rançon (K&R)",
+        "desc": "Rembourse les paiements de rançon, les frais d'extorsion et l'expertise en gestion de crise pour les dirigeants d'entreprise."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3600,7 +4856,15 @@
       "Guidewire ClaimCenter",
       "Blue Prism"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Gestion de Crise",
+        "l3": "Terrorisme et Violence Politique",
+        "desc": "Dommages matériels et lourde couverture de perte d'exploitation nécessités par des attaques à motivation politique."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3623,7 +4887,15 @@
       "Pegasystems",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Environnement",
+        "l3": "Responsabilité Légale pour Pollution (PLL)",
+        "desc": "Couvre les coûts de nettoyage, les blessures de tiers et les dommages matériels résultant de conditions de pollution."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -3646,7 +4918,15 @@
       "Workday",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Spécialité",
+        "l2": "Environnement",
+        "l3": "Responsabilité Pollution des Entrepreneurs (CPL)",
+        "desc": "Protège les entrepreneurs contre les plaintes pour pollution découlant de leurs opérations sur un chantier."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3671,7 +4951,15 @@
       "Kyriba",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Cyber Responsabilité",
+        "l3": "Cyber Responsabilité (Première Partie)",
+        "desc": "Rembourse l'assuré pour les coûts directs d'une violation, incluant l'analyse légale, la notification et les paiements de rançons."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3694,7 +4982,15 @@
       "Collibra",
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Cyber Responsabilité",
+        "l3": "Cyber Responsabilité (Tiers)",
+        "desc": "Couvre les coûts de défense et de règlement pour des poursuites intentées par des clients ou partenaires lésés par la violation des données de l'assuré."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3719,7 +5015,15 @@
       "QlikView",
       "Pegasystems"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Cyber Responsabilité",
+        "l3": "Cyber Assurance Paramétrique",
+        "desc": "Couverture basée sur des déclencheurs, payant automatiquement un montant déterminé lors d'un cyber-événement vérifié, tel qu'une panne prolongée du cloud."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3766,7 +5070,15 @@
       "Guidewire PolicyCenter",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Lignes Financières",
+        "l3": "Crédit Commercial / Crédit à l'Exportation",
+        "desc": "Protège les comptes clients contre le non-paiement en raison d'insolvabilité, d'un défaut prolongé ou d'un risque politique."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3788,7 +5100,15 @@
       "Palantir Foundry",
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Lignes Financières",
+        "l3": "Déclarations et Garanties (Fusions et Acquisitions)",
+        "desc": "Protège les acheteurs ou vendeurs lors des transactions F&A contre les violations de déclarations faites dans l'accord d'achat."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3811,7 +5131,15 @@
     "applications": [
       "Pegasystems"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Lignes Financières",
+        "l3": "Assurance Indemnisation Fiscale",
+        "desc": "Protège contre les conséquences financières d'une autorité fiscale contestant une position fiscale spécifique et divulguée."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3836,7 +5164,15 @@
       "Majesco",
       "UiPath"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Lignes Financières",
+        "l3": "Assurance Titres (Commercial)",
+        "desc": "Indemnise les propriétaires immobiliers commerciaux et les prêteurs contre la perte résultant de défauts inconnus dans les titres de propriété."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3858,7 +5194,15 @@
     "applications": [
       "Sapiens"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Professionnelle",
+        "l3": "Responsabilité des Médias",
+        "desc": "E&O spécialisée couvrant les éditeurs et radiodiffuseurs contre la diffamation, le plagiat et la violation de droits d'auteur."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3880,7 +5224,15 @@
       "UiPath",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Professionnelle",
+        "l3": "Erreurs et Omissions Technologiques",
+        "desc": "Protège les entreprises technologiques contre les réclamations de pertes financières dues aux défaillances logicielles, aux pannes ou aux erreurs d'implémentation."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3903,7 +5255,15 @@
     "applications": [
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Spécialisée",
+        "l3": "Atteinte à l'Environnement / Pollution",
+        "desc": "Couvre les coûts de nettoyage du site et les blessures de tiers/dommages matériels découlant d'événements de pollution."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3926,7 +5286,15 @@
       "Duck Creek",
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Spécialisée",
+        "l3": "Contingence : Indemnité de Prix",
+        "desc": "Assure le paiement d'importants prix promotionnels (par exemple : trou d'un coup au golf, tir du milieu de terrain) s'ils sont réclamés avec succès."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3949,7 +5317,15 @@
       "Duck Creek",
       "Majesco"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Responsabilité Civile Spécialisée",
+        "l3": "Contingence : Surutilisation de Coupons",
+        "desc": "Protège les détaillants et spécialistes du marketing des pertes financières si des coupons promotionnels sont échangés à des taux plus élevés que prévus."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3970,7 +5346,15 @@
       "Microsoft Dynamics 365",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Cautionnement",
+        "l3": "Caution : Garanties de Soumission",
+        "desc": "Garantit qu'un entrepreneur soumissionnant pour un projet signera le contrat et fournira des garanties d'exécution s'il le remporte."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -3993,7 +5377,15 @@
     "applications": [
       "ServiceNow"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Cautionnement",
+        "l3": "Caution : Garanties d'Exécution",
+        "desc": "Garantit l'achèvement d'un contrat de construction selon ses termes et spécifications."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4017,7 +5409,15 @@
       "Pegasystems",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Cautionnement",
+        "l3": "Caution : Garanties de Paiement",
+        "desc": "Garantit que l'entrepreneur paiera tous les sous-traitants et fournisseurs de matériaux du projet."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4039,7 +5439,15 @@
     "applications": [
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Cautionnement",
+        "l3": "Caution : Garanties Accessoires",
+        "desc": "Cautionnements divers tels que les cautions douanières, les cautions pour licences et permis, ou les cautions judiciaires."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4063,7 +5471,15 @@
       "Palantir Foundry",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Transport",
+        "l3": "Assurance Transport : Équipement de l'Entrepreneur",
+        "desc": "Couverture étendue des dommages matériels pour la machinerie lourde mobile et les outils utilisés dans les opérations des entrepreneurs."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4088,7 +5504,15 @@
       "Majesco",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Transport",
+        "l3": "Assurance Transport : Transit / Transport",
+        "desc": "Couvre les biens lorsqu'ils sont activement en cours de transit par train, camion ou avion."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4113,7 +5537,15 @@
       "Majesco",
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Transport",
+        "l3": "Assurance Transport : Biens de la Clientèle",
+        "desc": "Couvre la responsabilité de l'assuré pour les dommages aux biens des clients laissés sous sa garde, son contrôle ou sa responsabilité."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4137,7 +5569,15 @@
       "UiPath",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Transport",
+        "l3": "Assurance Transport : Flotteur d'Installation",
+        "desc": "Couvre les machines et matériaux destinés à être installés sur un chantier jusqu'à l'acceptation des travaux."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4160,7 +5600,15 @@
       "Duck Creek",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Transport",
+        "l3": "Assurance Transport : Responsabilité de Grutier",
+        "desc": "Responsabilité spécialisée pour les risques uniques liés au levage, hissage et déplacement de biens lourds appartenant à autrui."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4182,7 +5630,15 @@
       "Workday",
       "Majesco"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Maritime",
+        "l3": "Assurance Maritime : Assurance Fret",
+        "desc": "Couvre la perte financière des revenus du fret maritime si un navire n'est pas en mesure d'achever son voyage."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4205,7 +5661,15 @@
       "Duck Creek",
       "Blue Prism"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Aviation",
+        "l3": "Aviation : Responsabilité des Exploitants de Hangar",
+        "desc": "Couverture de dépositaire protégeant les installations aéronautiques contre la responsabilité pour les dommages aux aéronefs non possédés remisés dans leurs hangars."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4228,7 +5692,15 @@
       "Oracle Fusion Cloud",
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Aviation",
+        "l3": "Aviation : Aéronefs Non Possédés",
+        "desc": "Couverture de responsabilité pour les entreprises affrétant ou louant des avions qu'elles ne possèdent pas."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4250,7 +5722,15 @@
     "applications": [
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Récolte",
+        "l3": "Assurance Récolte Multirisque (MPCI)",
+        "desc": "Couverture réassurée par le gouvernement fédéral protégeant les agriculteurs contre les risques agricoles systémiques, tels que les sécheresses à grande échelle."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4272,7 +5752,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Récolte",
+        "l3": "Assurance Récolte Grêle",
+        "desc": "Couverture du marché privé, non subventionnée, spécifiquement pour les dommages très localisés causés par la grêle et le feu sur les rendements."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4292,7 +5780,15 @@
     "applications": [
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Récolte",
+        "l3": "Couverture du Revenu des Récoltes (CRC)",
+        "desc": "Protège les producteurs agricoles contre la combinaison des pertes physiques de rendement et de graves fluctuations des prix des matières premières."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4315,7 +5811,15 @@
       "Shift Technology",
       "Majesco"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Récolte",
+        "l3": "Pâturages, Espaces Verts et Fourrage",
+        "desc": "Assurance paramétrique indexée sur les niveaux de précipitations pour protéger les sources d'alimentation des éleveurs de bétail."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4340,7 +5844,15 @@
       "Guidewire ClaimCenter",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Inondation",
+        "l3": "Inondation Fédérale (NFIP)",
+        "desc": "Couverture principale contre les inondations immobilières, soutenue et gérée par des programmes gouvernementaux nécessitant des déclarations de conformité strictes."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4363,7 +5875,15 @@
     "applications": [
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Inondation",
+        "l3": "Inondation Résidentielle Privée",
+        "desc": "Couverture primaire contre les inondations non-NFIP offrant des plafonds plus élevés et une protection plus large par l'intermédiaire d'assureurs privés."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4384,7 +5904,15 @@
     "applications": [
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Inondation",
+        "l3": "Inondation Commerciale Excédentaire",
+        "desc": "Couverture commerciale du marché privé prolongeant les limites financières bien au-delà des plafonds du programme fédéral sur les inondations."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4405,7 +5933,15 @@
       "Kyriba",
       "Coupa"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurances Agricoles",
+        "l3": "Fermes et Ranchs Commerciaux",
+        "desc": "Police globale pour les entreprises agricoles couvrant les dépendances, le bétail et la responsabilité opérationnelle."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4428,7 +5964,15 @@
     "applications": [
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Événementielle",
+        "l3": "Annulation d'Événement",
+        "desc": "Indemnise les pertes financières graves si un événement majeur est annulé en raison de la météo ou de causes catastrophiques imprévues."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4448,7 +5992,15 @@
     "applications": [
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Événementielle",
+        "l3": "Indemnité de Prix",
+        "desc": "Couvre le coût de prix promotionnels importants (par exemple, trou d'un coup lors de tournois de golf) s'ils sont remportés par un participant."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4471,7 +6023,15 @@
       "Guidewire ClaimCenter",
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Événementielle",
+        "l3": "Météo Paramétrique",
+        "desc": "Paiements automatisés déclenchés instantanément lorsque des paramètres météorologiques spécifiques (par exemple, la vitesse du vent) sont franchis."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4491,7 +6051,15 @@
     "applications": [
       "ServiceNow"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Animaux de Compagnie",
+        "l3": "Médical pour Animaux de Compagnie",
+        "desc": "Remboursement modélisé de façon actuarielle pour les frais chirurgicaux et vétérinaires liés aux accidents et maladies des animaux domestiques."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4513,7 +6081,15 @@
     "applications": [
       "Alteryx"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Assurance Titres",
+        "l3": "Titre Immobilier",
+        "desc": "Indemnise l'acheteur ou le prêteur contre les pertes financières liées à des défauts dans les titres de propriété ou des privilèges."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4533,7 +6109,15 @@
     "applications": [
       "LexisNexis"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Agriculture",
+        "l3": "Récolte : Risques Désignés",
+        "desc": "Couvre les pertes de rendement des cultures causées par des risques météorologiques spécifiques et expressément désignés comme la grêle ou l'incendie."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4556,7 +6140,15 @@
       "UiPath",
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Agriculture",
+        "l3": "Bétail et Animaux Reproducteurs",
+        "desc": "Mortalité et couverture contre les risques spécifiques pour les animaux de ferme, les reproducteurs de grande valeur et les chevaux de course."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4579,7 +6171,15 @@
       "Salesforce Financial Services Cloud",
       "Majesco"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Climat / Paramétrique",
+        "l3": "Assurance Météo Paramétrique",
+        "desc": "Couverture basée sur un indice payant des montants prédéterminés lorsque des mesures météorologiques objectives (par ex. précipitations, température) dépassent des seuils."
+      }
+    }
   },
   {
     "l1": "Property & Casualty",
@@ -4602,7 +6202,15 @@
       "Coupa",
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IARD",
+        "l2": "Climat / Paramétrique",
+        "l3": "Assurance Tremblement de Terre Paramétrique",
+        "desc": "Paiement rapide basé uniquement sur la magnitude et l'emplacement enregistrés d'un événement sismique, indépendamment des dommages matériels réels."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4623,7 +6231,15 @@
       "Tableau",
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Temporaire",
+        "l3": "Assurance Vie Temporaire 10 Ans",
+        "desc": "Protection pure en cas de décès avec des primes nivelées garanties mathématiquement pour exactement 10 ans."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4643,7 +6259,15 @@
     "applications": [
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Temporaire",
+        "l3": "Assurance Vie Temporaire 20 Ans",
+        "desc": "Protection à prime nivelée sur un horizon de deux décennies, traditionnellement utilisée pour la protection hypothécaire primaire."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4667,7 +6291,15 @@
       "Pegasystems",
       "Workday"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Temporaire",
+        "l3": "Assurance Vie Temporaire Décroissante",
+        "desc": "La prestation de décès diminue de façon linéaire avec le temps, souvent liée mathématiquement à un prêt commercial amortissable."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4691,7 +6323,15 @@
       "Collibra",
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Temporaire",
+        "l3": "Temporaire avec Remboursement des Primes",
+        "desc": "Rembourse toutes les primes payées si l'assuré survit à la durée spécifiée du contrat, nécessitant des réserves comptables uniques."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4716,7 +6356,15 @@
       "Collibra",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Temporaire",
+        "l3": "Temporaire Annuelle Renouvelable (ART)",
+        "desc": "Contrat d'un an garantissant le renouvellement, avec des primes recalculées et augmentant chaque année en fonction de l'âge atteint."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4739,7 +6387,15 @@
       "Collibra",
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Permanente",
+        "l3": "Vie Entière (Participative)",
+        "desc": "Couverture à vie avec une valeur de rachat garantie et la possibilité de gagner des participations sur l'excédent de l'assureur."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4762,7 +6418,15 @@
       "Guidewire PolicyCenter",
       "Blue Prism"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Permanente",
+        "l3": "Vie Entière (Non Participative)",
+        "desc": "Couverture à vie avec des primes, un capital décès et des valeurs de rachat entièrement fixes, ne supposant aucun partage de dividendes."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4787,7 +6451,15 @@
       "SAP S/4HANA",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Permanente",
+        "l3": "Vie Universelle",
+        "desc": "Structure de prime très flexible et prestation de décès ajustable, avec une composante de valeur de rachat portant intérêt."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4810,7 +6482,15 @@
       "FRISS",
       "Verisk"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Permanente",
+        "l3": "Vie Universelle Indexée (IUL)",
+        "desc": "Croissance de la valeur de rachat liée algorithmiquement à un indice boursier (par ex. S&P 500) avec des protections strictes contre la baisse."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4832,7 +6512,15 @@
       "Collibra",
       "Alteryx"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Permanente",
+        "l3": "Vie Universelle Variable (VUL)",
+        "desc": "La valeur de rachat est investie activement dans des sous-comptes de marché, transférant le risque d'investissement principal au preneur d'assurance."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4856,7 +6544,15 @@
       "Pegasystems",
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Permanente",
+        "l3": "Dernier Survivant",
+        "desc": "Couvre deux vies simultanément, ne versant le capital qu'après le deuxième décès ; très utilisé dans la planification fiscale successorale."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4879,7 +6575,15 @@
       "Guidewire ClaimCenter",
       "Pegasystems"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurance Vie Permanente",
+        "l3": "Conjointe (Premier Décès)",
+        "desc": "Versement au décès de la première des deux personnes assurées, souvent utilisé pour la planification de la continuité des affaires."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4904,7 +6608,15 @@
       "Guidewire ClaimCenter",
       "SAP S/4HANA"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Frais Finaux (Funérailles)",
+        "desc": "Polices d'assurance vie entière de faible valeur nominale conçues strictement pour couvrir les frais funéraires, avec une tarification simplifiée."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4927,7 +6639,15 @@
       "Sapiens",
       "Majesco"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Vie à Émission Garantie",
+        "desc": "Polices émises sans aucune sélection médicale, généralement destinées à des populations plus âgées et à risque plus élevé."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4950,7 +6670,15 @@
       "LexisNexis",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Vie Collective",
+        "desc": "Assurance vie parrainée par l'employeur et émise administrativement sur la base d'un contrat-cadre massif."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4973,7 +6701,15 @@
       "Blue Prism",
       "Pegasystems"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Assurance Vie Crédit",
+        "desc": "Rembourse une dette spécifique en cours (ex. prêt auto) au décès de l'emprunteur, généralement imposée par le prêteur."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -4997,7 +6733,15 @@
       "Moody’s RMS",
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Assurance Vie Détenue par l'Entreprise (COLI)",
+        "desc": "Assurance vie souscrite par une entreprise sur des employés clés pour financer des régimes d'avantages sociaux pour les cadres."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5021,7 +6765,15 @@
       "Pegasystems",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Assurance Vie Détenue par la Banque (BOLI)",
+        "desc": "Assurance vie spécialisée à fiscalité avantageuse achetée par les banques pour compenser le coût des avantages sociaux des employés."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5044,7 +6796,15 @@
     "applications": [
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente de Capitalisation",
+        "l3": "Rente Différée Fixe",
+        "desc": "Garantit un taux de rendement spécifique et verrouillé sur le capital accumulé pendant une durée de différé définie."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5065,7 +6825,15 @@
       "Tableau",
       "Insurity"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente de Capitalisation",
+        "l3": "Rente Différée Variable",
+        "desc": "Les rendements fluctuent en continu en fonction de la performance quotidienne des sous-comptes de fonds communs de placement sélectionnés."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5089,7 +6857,15 @@
       "Oracle Fusion Cloud",
       "Majesco"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente de Capitalisation",
+        "l3": "Rente Fixe Indexée (FIA)",
+        "desc": "Protection du capital avec des rendements liés mathématiquement à des indices de marché externes, plafonnant à la fois les hausses et les baisses."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5111,7 +6887,15 @@
       "FRISS",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente de Capitalisation",
+        "l3": "Rente à Garantie Pluriannuelle",
+        "desc": "Une rente fixe offrant un taux d'intérêt mathématiquement bloqué pour une durée pluriannuelle spécifique (par ex. 3, 5 ou 7 ans)."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5136,7 +6920,15 @@
       "Informatica MDM",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente en Phase de Paiement",
+        "l3": "Rente Immédiate à Prime Unique",
+        "desc": "Convertit une prime forfaitaire en un flux de revenus irrévocable et mathématiquement calculé qui commence immédiatement."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5161,7 +6953,15 @@
       "Tableau",
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente en Phase de Paiement",
+        "l3": "Rente à Revenu Différé (DIA)",
+        "desc": "Verrouille des paiements de revenus futurs garantis qui commencent à une date retardée spécifique, atténuant le risque de longévité."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5185,7 +6985,15 @@
       "Coupa",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente en Phase de Paiement",
+        "l3": "Rente Réversible",
+        "desc": "Paiements viagers se poursuivant de manière ininterrompue jusqu'au décès des deux rentiers conjoints spécifiés."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5205,7 +7013,15 @@
     "applications": [
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente en Phase de Paiement",
+        "l3": "Rente à Période Certaine",
+        "desc": "Paiements garantis pour une durée déterminée (par ex. 20 ans), qui continuent à être versés aux héritiers même si le rentier décède."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5227,7 +7043,15 @@
       "Microsoft Dynamics 365",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente en Phase de Paiement",
+        "l3": "Rente de Longévité Qualifiée (QLAC)",
+        "desc": "Rente différée spécialisée financée à partir d'un régime de retraite qualifié afin de retarder les retraits minimums obligatoires (RMD)."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5247,7 +7071,15 @@
     "applications": [
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Vie à Émission Simplifiée",
+        "desc": "Assurance vie émise rapidement sans examen médical, reposant plutôt sur des questionnaires de santé et des bases de données de prescriptions."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5269,7 +7101,15 @@
       "Guidewire PolicyCenter",
       "Kyriba"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Vie Universelle Collective (GUL)",
+        "desc": "Assurance vie universelle parrainée par l'employeur, combinant une protection temporaire avec une option d'épargne financée par l'employé."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5293,7 +7133,15 @@
       "Duck Creek",
       "SAP S/4HANA"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Avenant Maladie Phase Terminale / Prestation Anticipée",
+        "desc": "Permet à l'assuré de recevoir une partie du capital décès par anticipation s'il est diagnostiqué avec une maladie en phase terminale qualifiante."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5316,7 +7164,15 @@
       "Verisk",
       "Blue Prism"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Vie",
+        "l2": "Assurances Vie Spécialisées",
+        "l3": "Avenant Décès Accidentel",
+        "desc": "Fournit un capital décès supplémentaire et complémentaire si le décès de l'assuré est le résultat direct d'un accident couvert."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5339,7 +7195,15 @@
     "applications": [
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente de Capitalisation",
+        "l3": "Rente Ajustée à la Valeur Marchande (MVA)",
+        "desc": "Une rente fixe où les retraits anticipés sont soumis à un ajustement positif ou négatif en fonction de l'évolution des taux d'intérêt."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",
@@ -5361,7 +7225,15 @@
       "Workday",
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Rentes",
+        "l2": "Rente de Capitalisation",
+        "l3": "Rente Liée à un Indice Enregistré (RILA)",
+        "desc": "Une rente complexe mélangeant les caractéristiques des produits indexés et variables, exposant le propriétaire à un certain risque de baisse pour un potentiel de hausse plus élevé."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5382,7 +7254,15 @@
     "applications": [
       "AIR Worldwide"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Soins Médicaux Majeurs",
+        "l3": "Soins Médicaux Majeurs Individuels",
+        "desc": "Couverture complète pour les soins hospitaliers, chirurgicaux et préventifs pour les personnes sans couverture employeur."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5402,7 +7282,15 @@
     "applications": [
       "Coupa"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Soins Médicaux Majeurs",
+        "l3": "Santé Collective (Employeur)",
+        "desc": "Couverture de santé parrainée, gérée administrativement par l'intermédiaire d'une police-cadre d'entreprise."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5426,7 +7314,15 @@
       "Coupa",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Soins Médicaux Majeurs",
+        "l3": "Organisation de Maintien de la Santé (HMO)",
+        "desc": "Plans de réseau restrictifs nécessitant un médecin de premier recours agissant comme filtre, offrant des avantages hors réseau minimes."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5448,7 +7344,15 @@
       "Oracle Fusion Cloud",
       "Shift Technology"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Soins Médicaux Majeurs",
+        "l3": "Organisation de Fournisseurs Privilégiés (PPO)",
+        "desc": "Plans flexibles permettant aux assurés de consulter des spécialistes hors réseau sans recommandation, sous réserve de franchises plus élevées."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5470,7 +7374,15 @@
       "ServiceNow",
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Soins Médicaux Majeurs",
+        "l3": "Plan de Santé à Franchise Élevée",
+        "desc": "Plans de santé associant des primes exceptionnellement basses avec des comptes d'épargne santé (HSA) avantageux sur le plan fiscal."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5492,7 +7404,15 @@
     "applications": [
       "Insurity"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Soins Médicaux Majeurs",
+        "l3": "Assurance Maladie à Court Terme",
+        "desc": "Couverture temporaire et de courte durée conçue pour combler les périodes sans assurance maladie complète."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5513,7 +7433,15 @@
     "applications": [
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Gouvernemental",
+        "l3": "Medicare Advantage (Partie C)",
+        "desc": "Alternative privée de soins gérés au Medicare original, regroupant souvent les prestations de médicaments sur ordonnance et dentaires."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5536,7 +7464,15 @@
       "ServiceNow",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Gouvernemental",
+        "l3": "Supplément Medicare (Medigap)",
+        "desc": "Assurance privée couvrant spécifiquement les frais à la charge de l'assuré et les franchises non couvertes par le Medicare original."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5561,7 +7497,15 @@
       "QlikView",
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Gouvernemental",
+        "l3": "Medicare Partie D (Médicaments)",
+        "desc": "Plans autonomes réglementés par le gouvernement fédéral, conçus strictement pour la couverture des médicaments sur ordonnance en soins ambulatoires."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5583,7 +7527,15 @@
     "applications": [
       "Blue Prism"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Gouvernemental",
+        "l3": "Soins Gérés Medicaid",
+        "desc": "Administration privée de la santé sous contrat avec l'État pour les populations à faible revenu et handicapées."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5603,7 +7555,15 @@
     "applications": [
       "Coupa"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Protection du Revenu",
+        "l3": "Invalidité de Courte Durée",
+        "desc": "Remplace une partie du revenu en cas d'incapacité temporaire de travailler (par ex. 3 à 6 mois) en raison de blessures non professionnelles."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5624,7 +7584,15 @@
       "AIR Worldwide",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Protection du Revenu",
+        "l3": "Invalidité de Longue Durée",
+        "desc": "Remplacement de revenu prolongé pour une incapacité professionnelle grave et durable s'étendant sur des années."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5647,7 +7615,15 @@
       "Workday",
       "SAP S/4HANA"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Protection du Revenu",
+        "l3": "Prestations d'Invalidité Légales",
+        "desc": "Couverture imposée par l'État spécifiquement pour les blessures, les maladies et la grossesse non professionnelles."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5668,7 +7644,15 @@
       "UiPath",
       "Alteryx"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Assurance Maladies Graves",
+        "desc": "Paiement financier forfaitaire déclenché lors du diagnostic vérifié de conditions graves spécifiques telles que le cancer ou un accident vasculaire cérébral."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5692,7 +7676,15 @@
       "Workday",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Décès Accidentel et Mutilation",
+        "desc": "Indemnisation spécifique en cas de blessures corporelles graves ou de décès résultant directement et uniquement d'accidents."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5717,7 +7709,15 @@
       "Blue Prism",
       "AIR Worldwide"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Soins de Longue Durée (LTC)",
+        "desc": "Couvre les coûts importants des soins de garde en maisons de retraite, en établissements de soins assistés ou pour des soins à domicile."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5738,7 +7738,15 @@
       "Workday",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Assurance Dentaire",
+        "desc": "Couverture autonome pour les soins préventifs, les procédures de base et les restaurations dentaires majeures."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5762,7 +7770,15 @@
       "AIR Worldwide",
       "Insurity"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Assurance Vision",
+        "desc": "Couverture autonome pour les examens ophtalmologiques, les verres correcteurs et les soins optiques spécialisés."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5784,7 +7800,15 @@
     "applications": [
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Indemnité Hospitalière",
+        "desc": "Verse une prestation en espèces fixe prédéterminée pour chaque jour où l'assuré est confiné à l'hôpital."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5806,7 +7830,15 @@
       "ServiceNow",
       "LexisNexis"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Médical de Voyage",
+        "desc": "Couverture santé spécialisée à court terme pour les urgences médicales survenant lors de voyages internationaux."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5828,7 +7860,15 @@
       "Guidewire ClaimCenter",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Institutionnel",
+        "l3": "Excédent de Pertes pour les Fournisseurs",
+        "desc": "Protège les entités de santé auto-assurées et les systèmes hospitaliers contre des sinistres catastrophiques de patients individuels."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5852,7 +7892,15 @@
       "Guidewire ClaimCenter",
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Maladie Grave / Maladie Spécifiée (Collective)",
+        "desc": "Couverture forfaitaire parrainée par l'employeur pour les diagnostics de maladies graves, facilitant la stabilité financière pendant la récupération."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5876,7 +7924,15 @@
       "Pegasystems",
       "AIR Worldwide"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Indemnité Hospitalière (Collective)",
+        "desc": "Prestations journalières fixes parrainées par l'employeur pour les séjours à l'hôpital afin de compenser les franchises médicales élevées."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5897,7 +7953,15 @@
       "UiPath",
       "Duck Creek"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Assurance Cancer",
+        "desc": "Police autonome spécifiquement axée sur la couverture des frais élevés liés aux traitements oncologiques."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5920,7 +7984,15 @@
     "applications": [
       "Pegasystems"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Assurance Maladie pour Expatriés",
+        "desc": "Couverture médicale majeure complète conçue pour les employés travaillant en dehors de leur pays d'origine pour des missions de longue durée."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5942,7 +8014,15 @@
       "Guidewire ClaimCenter",
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Complémentaire",
+        "l3": "Assurance Maladie pour Étudiants",
+        "desc": "Couverture médicale parrainée conçue pour les étudiants nationaux et internationaux inscrits dans les universités."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5965,7 +8045,15 @@
       "Moody’s RMS",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Institutionnel",
+        "l3": "Excédent de Pertes : Spécifique (Employeur)",
+        "desc": "Protège les régimes de santé des employeurs auto-assurés contre les réclamations individuelles massives dépassant un seuil monétaire spécifique."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -5986,7 +8074,15 @@
     "applications": [
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Institutionnel",
+        "l3": "Excédent de Pertes : Global (Employeur)",
+        "desc": "Protège les régimes de santé des employeurs auto-assurés contre le fait que le portefeuille total des réclamations dépasse un seuil cumulatif attendu."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -6010,7 +8106,15 @@
       "Pegasystems",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Spécialisé",
+        "l3": "Hybride Vie / Soins de Longue Durée",
+        "desc": "Associe une prestation de décès de l'assurance vie permanente avec un avenant accéléré réservé spécifiquement aux dépenses de soins de longue durée."
+      }
+    }
   },
   {
     "l1": "Health & Accident",
@@ -6030,7 +8134,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Santé",
+        "l2": "Spécialisé",
+        "l3": "Assurance Invalidité de Crédit",
+        "desc": "Paie le minimum mensuel sur des dettes ou des prêts spécifiques si l'emprunteur devient totalement invalide et incapable de travailler."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6053,7 +8165,15 @@
     "applications": [
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Dépannage & Mobilité",
+        "l3": "Assistance Routière",
+        "desc": "Services de répartition pour le remorquage, les batteries à plat et l'ouverture de portes, souvent intégrés via des API avec des réseaux tiers."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6078,7 +8198,15 @@
       "PowerBI",
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Dépannage & Mobilité",
+        "l3": "Remboursement de Voiture de Location",
+        "desc": "Paiement direct aux agences de location pour fournir un moyen de transport temporaire pendant qu'un véhicule endommagé est en réparation."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6100,7 +8228,15 @@
       "Sapiens",
       "Pegasystems"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Ingénierie des Risques",
+        "l3": "Conseil en Contrôle des Pertes",
+        "desc": "Inspections de sécurité spécialisées, évaluations ergonomiques et formation à l'atténuation des risques fournies aux clients commerciaux."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6121,7 +8257,15 @@
       "Guidewire ClaimCenter",
       "Collibra"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Ingénierie des Risques",
+        "l3": "Surveillance Structurelle IoT",
+        "desc": "Déploiement de capteurs intelligents sur les propriétés commerciales pour la détection en temps réel de fuites d'eau ou de contraintes structurelles."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6145,7 +8289,15 @@
       "Microsoft Dynamics 365",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Services Cyber",
+        "l3": "Formation à la Sensibilisation à la Sécurité",
+        "desc": "Proposer des simulations d'hameçonnage et des cours d'hygiène cybernétique aux assurés commerciaux pour réduire de manière proactive les risques de violation."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6165,7 +8317,15 @@
     "applications": [
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Services Cyber",
+        "l3": "Surveillance du Dark Web",
+        "desc": "Analyse continue des marchés illicites pour trouver des identifiants compromis ou des PII appartenant à l'assuré."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6186,7 +8346,15 @@
       "Duck Creek",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Santé & Bien-être",
+        "l3": "Services de Télésanté",
+        "desc": "Fournir aux assurés un accès numérique 24h/24 et 7j/7 à des professionnels de santé pour des consultations mineures."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6207,7 +8375,15 @@
     "applications": [
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Santé & Bien-être",
+        "l3": "Programmes de Récompenses Bien-être",
+        "desc": "Encourager les comportements sains (par ex. atteindre des objectifs de pas via des appareils portables) avec des réductions de prime ou des cartes-cadeaux."
+      }
+    }
   },
   {
     "l1": "Value-Added & Ancillary Services",
@@ -6230,7 +8406,15 @@
       "Sapiens",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Accessoire",
+        "l2": "Services Juridiques",
+        "l3": "Plans Juridiques Prépayés",
+        "desc": "Accès basé sur des honoraires à des consultations juridiques, l'examen de documents et une représentation limitée pour les particuliers ou les entreprises."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6254,7 +8438,15 @@
       "Tableau",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Acquisition de Clients",
+        "l3": "Génération et Évaluation de Prospects",
+        "desc": "Identification et suivi de prospects fortunés grâce à des pipelines de marketing numérique sophistiqués et des outils CRM."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6278,7 +8470,15 @@
       "Moody’s RMS",
       "Snowflake"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Acquisition de Clients",
+        "l3": "Accueil des Clients et KYC",
+        "desc": "Numérisation du processus de réception sécurisée, y compris la gestion de l'identité, la vérification biométrique et les protocoles \"Connaître son Client\" (KYC)."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6303,7 +8503,15 @@
       "PowerBI",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Services de Conseil",
+        "l3": "Analyse des Besoins Financiers",
+        "desc": "Évaluation complète de la situation financière globale d'un client, de sa tolérance au risque, de ses projets de succession et de ses objectifs de retraite."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6327,7 +8535,15 @@
       "Informatica MDM",
       "Snowflake"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Services de Conseil",
+        "l3": "Planification de Scénarios Multi-Objectifs",
+        "desc": "Simulation de diverses conditions de marché macroéconomiques pour tester de manière stochastique la viabilité des plans de retraite."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6350,7 +8566,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Construction de Portefeuille",
+        "l3": "Allocation d'Actifs",
+        "desc": "Détermination de la combinaison mathématique optimale d'actions mondiales, de titres à revenu fixe et d'investissements alternatifs en fonction des profils de risque."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6371,7 +8595,15 @@
     "applications": [
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Construction de Portefeuille",
+        "l3": "Indexation Directe",
+        "desc": "Réplication d'indices boursiers larges au sein de portefeuilles individuels tout en récoltant les pertes de manière très avantageuse fiscalement."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6394,7 +8626,15 @@
       "Palantir Foundry",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Gestion des Ordres",
+        "l3": "Génération de Transactions",
+        "desc": "Traduction de décisions d'allocation d'actifs de haut niveau et de besoins de rééquilibrage en ordres de marché spécifiques et exécutables."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6415,7 +8655,15 @@
       "PowerBI",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion de Patrimoine",
+        "l2": "Gestion des Ordres",
+        "l3": "Conformité Pré-Négociation",
+        "desc": "S'assurer systématiquement que les transactions proposées n'enfreignent pas les mandats spécifiques des clients, les exigences ESG ou les restrictions réglementaires."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6438,7 +8686,15 @@
       "Sapiens",
       "Alteryx"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Gestion des Risques",
+        "l3": "Analyse des Risques de Marché",
+        "desc": "Calcul de mesures complexes telles que la valeur à risque (VaR) et l'exposition aux scénarios de volatilité des marchés mondiaux systémiques."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6462,7 +8718,15 @@
       "Tableau",
       "Insurity"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Gestion des Risques",
+        "l3": "Risque de Crédit et de Contrepartie",
+        "desc": "Évaluation de la probabilité statistique de défaut de partenaires commerciaux, d'émetteurs d'obligations ou de contreparties sur produits dérivés."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6485,7 +8749,15 @@
       "Tableau",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Surveillance de la Conformité",
+        "l3": "Conformité Post-Négociation",
+        "desc": "Audit des transactions exécutées de manière rétroactive par rapport aux politiques de risque internes et aux cadres réglementaires externes (par ex. SEC, MiFID II)."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6506,7 +8778,15 @@
       "Alteryx",
       "SAP S/4HANA"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Surveillance de la Conformité",
+        "l3": "Dépistage LBA / Sanctions",
+        "desc": "Examen continu des flux d'actifs mondiaux par rapport aux bases de données de lutte contre le blanchiment d'argent et aux listes de sanctions de l'OFAC."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6530,7 +8810,15 @@
       "Tableau",
       "Informatica MDM"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Analyse de Performance",
+        "l3": "Attribution de Rendement",
+        "desc": "Dissection mathématique des rendements du portefeuille pour isoler l'impact de l'allocation stratégique d'actifs par rapport à la sélection tactique de titres."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6551,7 +8839,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Analyse de Performance",
+        "l3": "Comparaison de Référence",
+        "desc": "Mesure du rendement absolu et ajusté au risque du portefeuille par rapport aux indices de marché pertinents (par ex., S&P 500, MSCI World)."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6575,7 +8871,15 @@
       "Microsoft Dynamics 365",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Soutien aux Opérations",
+        "l3": "Appariement et Confirmation des Transactions",
+        "desc": "Rapprochement rapide des détails des transactions exécutées avec les courtiers externes et les contreparties de compensation avant le règlement final."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6596,7 +8900,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Comptabilité de Fonds",
+        "l3": "Calcul de la Valeur Nette d'Inventaire (VNI)",
+        "desc": "Calcul avec une extrême précision de la valeur par action quotidienne des fonds communs de placement et des véhicules d'investissement."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6621,7 +8933,15 @@
       "Guidewire ClaimCenter",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Comptabilité de Fonds",
+        "l3": "Provisionnement des Dépenses",
+        "desc": "Gestion du calcul algorithmique quotidien et de la déduction des frais de gestion et des coûts opérationnels des actifs du fonds."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6642,7 +8962,15 @@
     "applications": [
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Garde et Règlement",
+        "l3": "Exécution du Règlement",
+        "desc": "Orchestration de l'échange final et irrévocable d'espèces et de titres par l'intermédiaire des chambres de compensation mondiales."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6665,7 +8993,15 @@
     "applications": [
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Garde et Règlement",
+        "l3": "Traitement des Opérations sur Titres",
+        "desc": "Gestion de l'impact financier complexe des dividendes, des fractionnements d'actions, des scissions et des fusions sur les avoirs du portefeuille."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6688,7 +9024,15 @@
     "applications": [
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Garde et Règlement",
+        "l3": "Conservation des Actifs en Coffre-fort",
+        "desc": "Gestion de la garde numérique sécurisée des titres traditionnels et de plus en plus, des actifs cryptographiques et numériques émergents."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6709,7 +9053,15 @@
     "applications": [
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Rapports aux Clients",
+        "l3": "Génération de Relevés",
+        "desc": "Production de relevés financiers périodiques sécurisés détaillant les avoirs exacts, les données de performance et les frais déduits."
+      }
+    }
   },
   {
     "l1": "Wealth & Asset Management",
@@ -6732,7 +9084,15 @@
     "applications": [
       "Blue Prism"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion d'Actifs",
+        "l2": "Rapports aux Clients",
+        "l3": "Déclarations Fiscales",
+        "desc": "Génération de la documentation nécessaire sur les gains en capital (1099) et l'impôt sur le revenu pour les clients et les organismes de réglementation."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6756,7 +9116,15 @@
       "Palantir Foundry",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Acquisition de Talents",
+        "l3": "Planification des Effectifs",
+        "desc": "Prévision des besoins en personnel à long terme en fonction des objectifs stratégiques de l'entreprise, de l'expansion du marché et des exigences actuarielles."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6780,7 +9148,15 @@
       "Palantir Foundry",
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Acquisition de Talents",
+        "l3": "Recherche et Recrutement de Candidats",
+        "desc": "Gestion du vivier de candidats externes, exécution d'entretiens structurés et présentation d'offres d'emploi formelles."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6804,7 +9180,15 @@
       "Tableau",
       "Oracle Fusion Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Cycle de Vie des Employés",
+        "l3": "Intégration des Employés",
+        "desc": "Fourniture sécurisée des ressources informatiques, exécution des vérifications d'antécédents et orientation des nouvelles recrues vers la culture d'entreprise."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6828,7 +9212,15 @@
       "PowerBI",
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Cycle de Vie des Employés",
+        "l3": "Administration de la Paie",
+        "desc": "Traitement précis de la rémunération des employés, calcul des retenues à la source complexes et gestion des dépôts directs."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6849,7 +9241,15 @@
     "applications": [
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Cycle de Vie des Employés",
+        "l3": "Rémunération et Avantages Sociaux",
+        "desc": "Conception et administration de régimes de santé compétitifs, de cotisations équivalentes 401(k) et de primes de performance pour les cadres."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6872,7 +9272,15 @@
       "QlikView",
       "SAP S/4HANA"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Gestion de la Performance",
+        "l3": "Formation et Développement",
+        "desc": "Gestion de la formation continue en entreprise, de l'octroi de licences obligatoires pour les agents et des parcours de développement du leadership."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6893,7 +9301,15 @@
       "Coupa",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Gestion de la Performance",
+        "l3": "Gestion des Objectifs et des Évaluations",
+        "desc": "Exécution systématique d'évaluations de performance cycliques et leur lien direct avec les matrices de rémunération."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6914,7 +9330,15 @@
     "applications": [
       "QlikView"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Gestion de la Performance",
+        "l3": "Analyse et Planification des Effectifs",
+        "desc": "Utilisation de modèles prédictifs pour analyser la rotation du personnel, les déficits de compétences et optimiser la conception organisationnelle."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6939,7 +9363,15 @@
       "Informatica MDM",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Comptabilité Financière",
+        "l3": "Comptes Fournisseurs (AP)",
+        "desc": "Gestion de l'approbation rigoureuse et des sorties de fonds vers les fournisseurs externes, les fournisseurs de logiciels et les partenaires opérationnels."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6961,7 +9393,15 @@
       "Coupa",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Comptabilité Financière",
+        "l3": "Comptes Clients (AR)",
+        "desc": "Traitement des flux de trésorerie entrants non liés aux primes et exécution des recouvrements interentreprises (B2B)."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -6986,7 +9426,15 @@
       "PowerBI",
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Comptabilité Financière",
+        "l3": "Gestion du Grand Livre",
+        "desc": "Tenue du registre principal immuable de toutes les transactions financières de l'entreprise dans toutes ses filiales et régions."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7009,7 +9457,15 @@
       "SAP S/4HANA",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Finance d'Entreprise",
+        "l3": "Budget et Prévisions",
+        "desc": "Développement de plans opérationnels annuels et modélisation des trajectoires financières futures sur la base d'hypothèses de marché."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7033,7 +9489,15 @@
       "QlikView",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Finance d'Entreprise",
+        "l3": "Trésorerie et Gestion de Caisse",
+        "desc": "Gestion de la vaste liquidité de l'entreprise, optimisation du fonds de roulement et traitement des rapprochements bancaires quotidiens."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7055,7 +9519,15 @@
     "applications": [
       "SAP S/4HANA"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Finance d'Entreprise",
+        "l3": "Planification Fiscale et Conformité",
+        "desc": "Garantir le strict respect des codes fiscaux fédéraux, étatiques et internationaux complexes afin de minimiser légalement les responsabilités."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7077,7 +9549,15 @@
       "Oracle Fusion Cloud",
       "Coupa"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Opérations Juridiques",
+        "l3": "Gestion du Cycle de Vie des Contrats",
+        "desc": "Rédaction, négociation et archivage numérique des accords d'entreprise avec les fournisseurs, les technologies et les partenaires stratégiques."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7098,7 +9578,15 @@
       "Kyriba",
       "PowerBI"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Opérations Juridiques",
+        "l3": "Gestion de la Propriété Intellectuelle",
+        "desc": "Protection des marques de l'entreprise, des brevets algorithmiques exclusifs et des droits d'auteur."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7121,7 +9609,15 @@
       "Kyriba",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Opérations Juridiques",
+        "l3": "Gestion des Litiges d'Entreprise",
+        "desc": "Supervision des stratégies de défense massives pour les poursuites civiles au niveau de l'entreprise, entièrement distinctes des litiges liés aux réclamations individuelles."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7144,7 +9640,15 @@
       "Collibra",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Approvisionnement",
+        "l3": "Gestion des Vendeurs et Fournisseurs",
+        "desc": "Évaluation systématique des fournisseurs tiers, réalisation de demandes de propositions (RFP) et surveillance continue des accords de niveau de service (SLA)."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7167,7 +9671,15 @@
     "applications": [
       "SAP S/4HANA"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Approvisionnement",
+        "l3": "Sourcing Stratégique",
+        "desc": "Identification d'énormes opportunités d'économies dans l'acquisition en gros de matériel informatique, de services SaaS et de matériel opérationnel."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7190,7 +9702,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Gestion des Installations",
+        "l3": "Gestion de Portefeuille Immobilier",
+        "desc": "Optimisation de l'empreinte physique des vastes sièges sociaux d'entreprise, des pôles régionaux et des bureaux extérieurs locaux."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7213,7 +9733,15 @@
       "QlikView",
       "SAP S/4HANA"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Fonctions de l'Entreprise",
+        "l2": "Gestion des Installations",
+        "l3": "Gestion de la Sécurité Physique",
+        "desc": "Assurer la sécurité des employés et des biens physiques par des contrôles d'accès biométriques et une surveillance constante."
+      }
+    }
   },
   {
     "l1": "Enterprise Risk Management",
@@ -7234,7 +9762,15 @@
       "Oracle Fusion Cloud",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Risque d'Entreprise",
+        "l2": "Gestion des Risques d'Entreprise (ERM)",
+        "l3": "Cadre d'Appétence au Risque",
+        "desc": "Établir et surveiller les tolérances au risque à l'échelle de l'entreprise pour les risques de marché, de crédit, opérationnels et d'assurance."
+      }
+    }
   },
   {
     "l1": "Enterprise Risk Management",
@@ -7258,7 +9794,15 @@
       "Moody’s RMS",
       "QlikView"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Risque d'Entreprise",
+        "l2": "Gestion des Risques d'Entreprise (ERM)",
+        "l3": "Continuité des Affaires",
+        "desc": "Planifier et exécuter la gestion de crise et la reprise après sinistre dans toutes les opérations de l'entreprise."
+      }
+    }
   },
   {
     "l1": "Enterprise Risk Management",
@@ -7279,7 +9823,15 @@
     "applications": [
       "Workday"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Risque d'Entreprise",
+        "l2": "Gestion des Risques d'Entreprise (ERM)",
+        "l3": "Gestion des Risques Tiers",
+        "desc": "Évaluer et atténuer les risques introduits par des fournisseurs externes, des prestataires et des partenaires de l'écosystème."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7302,7 +9854,15 @@
       "Coupa",
       "Workday"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Conformité et Éthique",
+        "l3": "Conformité Réglementaire",
+        "desc": "Assurer le respect des réglementations d'assurance mondiales et locales, des lois sur la confidentialité des données et des normes éthiques."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7323,7 +9883,15 @@
     "applications": [
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Audit Interne",
+        "l3": "Opérations d'Audit",
+        "desc": "Mener des évaluations indépendantes des contrôles internes, de la gestion des risques et des processus de gouvernance."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7345,7 +9913,15 @@
     "applications": [
       "Coupa"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Stratégie et Développement",
+        "l3": "Planification Stratégique",
+        "desc": "Formuler des stratégies d'entreprise à long terme, des plans de pénétration de marché et un positionnement concurrentiel."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7367,7 +9943,15 @@
     "applications": [
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Stratégie et Développement",
+        "l3": "Fusions et Acquisitions",
+        "desc": "Exécuter l'identification, l'évaluation et l'intégration des entités et des unités commerciales acquises."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7388,7 +9972,15 @@
       "SAP S/4HANA",
       "Workday"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Stratégie et Développement",
+        "l3": "Innovation et R&D",
+        "desc": "Incuber de nouveaux modèles d'affaires, des concepts de produits et des applications technologiques de pointe."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7411,7 +10003,15 @@
     "applications": [
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Stratégie et Développement",
+        "l3": "Gestion ESG",
+        "desc": "Gérer les initiatives environnementales, sociales et de gouvernance, la production de rapports et les stratégies d'investissement durable."
+      }
+    }
   },
   {
     "l1": "Financial Management & Accounting",
@@ -7433,7 +10033,15 @@
     "applications": [
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Financière",
+        "l2": "Investissements",
+        "l3": "Gestion des Actifs Propres",
+        "desc": "Gérer les immenses actifs du bilan de l'assureur pour garantir la solvabilité et optimiser les rendements."
+      }
+    }
   },
   {
     "l1": "Financial Management & Accounting",
@@ -7455,7 +10063,15 @@
       "AIR Worldwide",
       "Alteryx"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Financière",
+        "l2": "Sciences Actuarielles",
+        "l3": "Analyse Actuarielle d'Entreprise",
+        "desc": "Superviser le provisionnement global de l'entreprise, l'adéquation des fonds propres et la modélisation actuarielle au-delà de la tarification des produits."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7479,7 +10095,15 @@
       "Collibra",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Relations Gouvernementales",
+        "l3": "Affaires Publiques",
+        "desc": "Faire du lobbying et gérer les relations avec les organes législatifs, les régulateurs et les associations professionnelles."
+      }
+    }
   },
   {
     "l1": "Corporate Services",
@@ -7501,7 +10125,15 @@
       "PowerBI",
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Services Généraux",
+        "l2": "Opérations Juridiques",
+        "l3": "Gestion des Entités Juridiques",
+        "desc": "Maintenir la structure de l'entreprise, la gouvernance du conseil d'administration et la conformité des filiales dans les différentes juridictions."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7526,7 +10158,15 @@
       "Coupa",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Stratégie et Gouvernance Informatique",
+        "l3": "Architecture d'Entreprise",
+        "desc": "Aligner strictement l'intention commerciale avec les feuilles de route technologiques dans les domaines des données, des applications et de la sécurité."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7549,7 +10189,15 @@
       "Collibra",
       "AIR Worldwide"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Stratégie et Gouvernance Informatique",
+        "l3": "Gestion de la Demande",
+        "desc": "Évaluer et prioriser rigoureusement les demandes commerciales pour de nouvelles solutions technologiques par le biais d'un entonnoir de gouvernance unique."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7573,7 +10221,15 @@
       "ServiceNow",
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Stratégie et Gouvernance Informatique",
+        "l3": "Rationalisation du Portefeuille Informatique",
+        "desc": "Évaluer le cycle de vie des applications de manière continue pour décider de les conserver, de les migrer ou de les éliminer."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7595,7 +10251,15 @@
       "Pegasystems",
       "Kyriba"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Livraison de Solutions",
+        "l3": "Cycle de Vie du Développement Logiciel (SDLC)",
+        "desc": "Gérer des pipelines Agile/DevOps rapides pour créer des applications de souscription personnalisées et des portails front-end."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7616,7 +10280,15 @@
       "Salesforce Financial Services Cloud",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Livraison de Solutions",
+        "l3": "Assurance Qualité et Tests",
+        "desc": "Exécuter des suites de tests automatisés et manuels massifs pour assurer la fiabilité du code et les performances sous charge."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7638,7 +10310,15 @@
     "applications": [
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gestion des Données",
+        "l3": "Entreposage de Données et Lacs de Données",
+        "desc": "Centraliser les données d'entreprise structurées et non structurées pour un accès transparent et des analyses avancées."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7660,7 +10340,15 @@
       "Sapiens",
       "Pegasystems"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gestion des Données",
+        "l3": "Gestion des Données de Référence (MDM)",
+        "desc": "Garantir une source de vérité unique et hautement gouvernée pour les entités principales (par ex. Tiers, Police, Actif) sur l'ensemble des systèmes."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7685,7 +10373,15 @@
       "AIR Worldwide",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gestion des Données",
+        "l3": "Informatique Décisionnelle (BI)",
+        "desc": "Gérer le vaste écosystème de tableaux de bord de rapports et d'outils de visualisation de données pour la prise de décision par les cadres."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7708,7 +10404,15 @@
       "Duck Creek",
       "Coupa"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Opérations Informatiques",
+        "l3": "Gestion des Services Informatiques (ITSM)",
+        "desc": "Gérer la fourniture de services matériels, l'assistance informatique (helpdesk) et la stricte application des accords de niveau de service (SLA)."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7729,7 +10433,15 @@
       "Moody’s RMS",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Opérations Informatiques",
+        "l3": "Gestion d'Infrastructure Cloud",
+        "desc": "Exploiter et faire évoluer les actifs informatiques virtualisés de manière dynamique dans des environnements cloud publics, privés et hybrides."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7750,7 +10462,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Opérations Informatiques",
+        "l3": "Gestion des Incidents et des Problèmes",
+        "desc": "Surveiller l'utilisation systémique, résoudre rapidement les pannes de service critiques et identifier les causes profondes cachées."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7773,7 +10493,15 @@
       "Collibra",
       "Tableau"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Sécurité et Risques",
+        "l3": "Gestion des Identités et des Accès",
+        "desc": "Contrôler rigoureusement les autorisations des utilisateurs, le MFA et l'accès au système sur la base de principes de sécurité zéro confiance (Zero Trust)."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7795,7 +10523,15 @@
     "applications": [
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Sécurité et Risques",
+        "l3": "Détection des Cybermenaces",
+        "desc": "Surveiller en permanence les réseaux de l'entreprise pour détecter les intrusions, les anomalies et les comportements malveillants."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7818,7 +10554,15 @@
       "Blue Prism",
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Sécurité et Risques",
+        "l3": "Continuité d'Activité et Reprise après Sinistre",
+        "desc": "Planifier et exécuter des protocoles de reprise après sinistre massifs pour garantir la disponibilité du système lors d'événements catastrophiques."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7841,7 +10585,15 @@
       "ServiceNow",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gouvernance des Données",
+        "l3": "Gestion de la Confidentialité des Données",
+        "desc": "Assurer le respect des réglementations mondiales en matière de protection des données et gérer les droits liés aux données individuelles."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7866,7 +10618,15 @@
       "Guidewire PolicyCenter",
       "UiPath"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gestion des Connaissances",
+        "l3": "Administration de la Base de Connaissances",
+        "desc": "Curer et structurer les connaissances de l'entreprise pour soutenir à la fois les flux de travail humains et les applications d'IA."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -7890,7 +10650,15 @@
       "Palantir Foundry",
       "Insurity"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Stratégie et Gouvernance Informatique",
+        "l3": "Gestion du Changement et Transformation",
+        "desc": "Orchestrer les méthodologies de changement organisationnel pour assurer l'adoption réussie des nouvelles technologies."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -7911,7 +10679,15 @@
     "applications": [
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Orchestration de l'IA",
+        "l3": "Capture d'Intention et Désambiguïsation",
+        "desc": "Utiliser le NLP avancé pour déchiffrer les requêtes très ambiguës des utilisateurs et déterminer algorithmiquement l'objectif opérationnel requis."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -7934,7 +10710,15 @@
       "Palantir Foundry",
       "Informatica MDM"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Orchestration de l'IA",
+        "l3": "Agentification Planificateur-Exécuteur",
+        "desc": "Déconstruire un objectif de haut niveau très large en une série parfaitement séquencée de tâches d'outils automatisés et d'appels d'API."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -7959,7 +10743,15 @@
       "Snowflake",
       "Alteryx"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Orchestration de l'IA",
+        "l3": "Orchestration Transfrontalière",
+        "desc": "Permettre aux agents IA d'exécuter de manière transparente et sécurisée des tâches à travers des silos d'informations disparates et des systèmes centraux existants."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -7983,7 +10775,15 @@
       "Informatica MDM",
       "Moody’s RMS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Exécution de l'IA",
+        "l3": "Souscription Autonome",
+        "desc": "Exécuter l'enrichissement des données de risque, la vérification complexe de l'appétence et la décision finale via des LLM et des appels de fonctions directs."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8006,7 +10806,15 @@
       "Informatica MDM",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Exécution de l'IA",
+        "l3": "Triage Autonome des Réclamations",
+        "desc": "Extraire un contexte profond des documents bruts FNOL (Premier Avis de Sinistre) pour acheminer dynamiquement les réclamations ou approuver instantanément le traitement direct."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8031,7 +10839,15 @@
       "Alteryx",
       "Tableau"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Exécution de l'IA",
+        "l3": "SDR Numériques (Agents de Vente)",
+        "desc": "Gérer les demandes entrantes, planifier des réunions complexes et exécuter des suivis multicanaux de manière entièrement autonome."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8054,7 +10870,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Exécution de l'IA",
+        "l3": "Extraction de Systèmes Existants",
+        "desc": "Déployer des agents IA pour analyser les mainframes COBOL existants, extraire les règles métier non documentées et générer des cartes de processus."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -8076,7 +10900,15 @@
     "applications": [
       "Microsoft Dynamics 365"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gestion des Technologies de Données",
+        "l3": "Gestion de Base de Données Vectorielle",
+        "desc": "Stocker et récupérer rapidement les imbrications mathématiques sémantiques de formulations de polices complexes, de notes de sinistres et de relevés de transactions."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -8099,7 +10931,15 @@
       "PowerBI",
       "Informatica MDM"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gestion des Technologies de Données",
+        "l3": "Administration de Graphes de Connaissances",
+        "desc": "Cartographier et maintenir des relations complexes et multidimensionnelles entre les entités (clients, risques, traités) pour soutenir un raisonnement profond."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8121,7 +10961,15 @@
       "Alteryx",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Ingénierie de Contexte",
+        "l3": "Génération Augmentée par la Recherche (RAG)",
+        "desc": "Baser les réponses des LLM et les décisions des agents strictement sur des bases de connaissances d'entreprise propriétaires, vérifiées et hautement sécurisées."
+      }
+    }
   },
   {
     "l1": "Information Technology",
@@ -8143,7 +10991,15 @@
     "applications": [
       "Salesforce Financial Services Cloud"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Gestion Informatique",
+        "l2": "Gestion des Technologies de Données",
+        "l3": "Gestion du Magasin de Caractéristiques",
+        "desc": "Gérer et servir les caractéristiques de données modélisées (par ex., scores de propension à la fraude en temps réel) pour une consommation instantanée par les modèles."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8167,7 +11023,15 @@
       "Collibra",
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Services Cognitifs",
+        "l3": "Interface Utilisateur Conversationnelle Auto-Adaptative",
+        "desc": "Générer des interfaces dynamiques, sensibles à la persona, qui s'adaptent en permanence en fonction du contexte en temps réel et des données des interactions historiques."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8188,7 +11052,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Services Cognitifs",
+        "l3": "Informatique Visuelle et Vocale",
+        "desc": "Traiter des images haute résolution pour l'estimation instantanée des dommages et synthétiser la parole pour les résumés d'appels automatisés."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8211,7 +11083,15 @@
     "applications": [
       "Palantir Foundry"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Gouvernance de l'IA",
+        "l3": "Application des Limites",
+        "desc": "Mettre en œuvre des règles strictes, lisibles par machine, qui empêchent techniquement et physiquement un agent IA d'enfreindre les paramètres opérationnels définis."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8236,7 +11116,15 @@
       "Informatica MDM",
       "Tableau"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Gouvernance de l'IA",
+        "l3": "Escalade Humain-dans-la-Boucle (HITL)",
+        "desc": "Identifier automatiquement les résultats à faible confiance et acheminer les exceptions ou les décisions à haut risque à un analyste humain pour examen immédiat."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8258,7 +11146,15 @@
       "Tableau",
       "Collibra"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Observabilité de l'IA",
+        "l3": "Lignage de Décision et Provenance",
+        "desc": "Enregistrer avec précision les données étape par étape et les chemins de raisonnement qu'un agent a utilisés pour parvenir à une décision afin de satisfaire aux audits réglementaires stricts."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8280,7 +11176,15 @@
       "Palantir Foundry",
       "Alteryx"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Observabilité de l'IA",
+        "l3": "Surveillance de la Dérive des Modèles",
+        "desc": "Évaluer en permanence les performances de l'IA de manière mathématique pour détecter une dégradation de la précision ou l'apparition de biais statistiques."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8304,7 +11208,15 @@
       "Alteryx",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Sécurité de l'IA",
+        "l3": "Appel d'Outils Sécurisé (MCP)",
+        "desc": "Gérer l'authentification hautement sécurisée et la sécurité des données lorsque les agents appellent indépendamment des API externes ou exécutent des fonctions internes."
+      }
+    }
   },
   {
     "l1": "Agentic AI & Automation",
@@ -8329,7 +11241,15 @@
       "Tableau",
       "PowerBI"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "IA Agentique",
+        "l2": "Sécurité de l'IA",
+        "l3": "Décomposition Préservant la Confidentialité",
+        "desc": "Masquage et tokénisation des attributs PII sensibles dans l'invite/le pipeline de décision pour assurer une sécurité absolue des données et la conformité HIPAA."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8352,7 +11272,15 @@
       "Blue Prism",
       "Guidewire ClaimCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Évaluation des Risques de Flotte",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'évaluation des risques de flotte pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8376,7 +11304,15 @@
       "Majesco",
       "Alteryx"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Tarification de la Responsabilité Cybernétique",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de tarification de la responsabilité cybernétique pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8400,7 +11336,15 @@
       "Insurity",
       "Majesco"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Analyse de Couverture D&O (Dirigeants et Administrateurs)",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'analyse de couverture D&O pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8424,7 +11368,15 @@
       "Verisk",
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Triage des Risques liés aux Cargaisons",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de triage des risques liés aux cargaisons pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8447,7 +11399,15 @@
       "Majesco",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Évaluation de la Coque Maritime",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'évaluation de la coque maritime pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8470,7 +11430,15 @@
       "UiPath",
       "FRISS"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Gestion des Risques Aéronautiques",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de gestion des risques aéronautiques pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8491,7 +11459,15 @@
     "applications": [
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Responsabilité Environnementale",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de responsabilité environnementale pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8514,7 +11490,15 @@
       "UiPath",
       "Sapiens"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Souscription Commerciale",
+        "l3": "Risques de Construction / Bâtisseurs",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de risques de construction pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8537,7 +11521,15 @@
     "applications": [
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Sinistres Complexes",
+        "l3": "Modélisation des Catastrophes",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de modélisation des catastrophes pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8557,7 +11549,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Sinistres Complexes",
+        "l3": "Subrogation de Réassurance",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de subrogation de réassurance pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8577,7 +11577,15 @@
     "applications": [
       "Blue Prism"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Sinistres Complexes",
+        "l3": "Ajustement pour Interruption des Affaires",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'ajustement pour interruption des affaires pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8597,7 +11605,15 @@
     "applications": [
       "Guidewire BillingCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Sinistres Complexes",
+        "l3": "Provisionnement des Sinistres Majeurs",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de provisionnement des sinistres majeurs pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8620,7 +11636,15 @@
       "Blue Prism",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Sinistres Complexes",
+        "l3": "Gestion des Litiges Multi-Partites",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de gestion des litiges multi-partites pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8645,7 +11669,15 @@
       "AIR Worldwide",
       "Shift Technology"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Sinistres Complexes",
+        "l3": "Déclencheurs Paramétriques de Réclamation",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de déclencheurs paramétriques de réclamation pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8667,7 +11699,15 @@
     "applications": [
       "FRISS"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Gestion des Courtiers et Agences",
+        "l3": "Gestion de la Délégation MGA",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de gestion de la délégation MGA (Agents Généraux Délégués) pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8687,7 +11727,15 @@
     "applications": [
       "Insurity"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Gestion des Courtiers et Agences",
+        "l3": "Conformité des Lignes Excédentaires",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de conformité des lignes excédentaires pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8707,7 +11755,15 @@
     "applications": [
       "Shift Technology"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Gestion des Courtiers et Agences",
+        "l3": "Gestion du Capital des Syndicats",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de gestion du capital des syndicats pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8729,7 +11785,15 @@
       "UiPath",
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Gestion des Courtiers et Agences",
+        "l3": "Niveaux de Commissions des Courtiers",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'échelonnement des commissions des courtiers pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8752,7 +11816,15 @@
       "Moody’s RMS",
       "Sapiens"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Gestion des Courtiers et Agences",
+        "l3": "Syndication du Marché de Gros",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de syndication du marché de gros pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8774,7 +11846,15 @@
       "Sapiens",
       "Guidewire BillingCenter"
     ],
-    "isStrategic": true
+    "isStrategic": true,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Contrôle des Risques et Ingénierie",
+        "l3": "Inspection de la Propriété sur Site",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'inspection des biens sur site pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8794,7 +11874,15 @@
     "applications": [
       "Guidewire PolicyCenter"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Contrôle des Risques et Ingénierie",
+        "l3": "Évaluation Ergonomique des Lieux de Travail",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'évaluation ergonomique des lieux de travail pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8815,7 +11903,15 @@
       "Guidewire ClaimCenter",
       "Alteryx"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Contrôle des Risques et Ingénierie",
+        "l3": "Analyse de Données de Capteurs IoT",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'analyse de données de capteurs IoT pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8836,7 +11932,15 @@
       "Guidewire PolicyCenter",
       "Majesco"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Contrôle des Risques et Ingénierie",
+        "l3": "Recommandations de Contrôle des Pertes",
+        "desc": "Capacité d'entreprise avancée gérant les opérations de recommandations de contrôle des pertes pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Commercial & Specialty Lines",
@@ -8860,7 +11964,15 @@
       "Majesco",
       "Verisk"
     ],
-    "isStrategic": false
+    "isStrategic": false,
+    "translations": {
+      "fr": {
+        "l1": "Commercial & Spécialité",
+        "l2": "Contrôle des Risques et Ingénierie",
+        "l3": "Analyse de Vulnérabilité de la Chaîne d'Approvisionnement",
+        "desc": "Capacité d'entreprise avancée gérant les opérations d'analyse de vulnérabilité de la chaîne d'approvisionnement pour l'écosystème plus large de Universal Insurance."
+      }
+    }
   },
   {
     "l1": "Life & Annuities",

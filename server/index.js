@@ -20,7 +20,8 @@ const parseArrays = (row) => ({
     risk: row.risk
   },
   techStack: row.techStack ? JSON.parse(row.techStack) : [],
-  applications: row.applications ? JSON.parse(row.applications) : []
+  applications: row.applications ? JSON.parse(row.applications) : [],
+  translations: row.translations ? JSON.parse(row.translations) : {}
 });
 
 // GET all capabilities
@@ -36,10 +37,10 @@ app.get('/api/capabilities', (req, res) => {
 
 // POST new capability
 app.post('/api/capabilities', (req, res) => {
-  const { l1, l2, l3, desc, isStrategic, state, scores, techStack, applications } = req.body;
+  const { l1, l2, l3, desc, isStrategic, state, scores, techStack, applications, translations } = req.body;
   const sql = `
-    INSERT INTO capabilities (l1, l2, l3, desc, isStrategic, state, coverage, security, privacy, debt, risk, techStack, applications)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO capabilities (l1, l2, l3, desc, isStrategic, state, coverage, security, privacy, debt, risk, techStack, applications, translations)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `;
   const params = [
     l1, l2, l3, desc, 
@@ -51,7 +52,8 @@ app.post('/api/capabilities', (req, res) => {
     scores?.debt || 0,
     scores?.risk || 0,
     JSON.stringify(techStack || []),
-    JSON.stringify(applications || [])
+    JSON.stringify(applications || []),
+    JSON.stringify(translations || {})
   ];
 
   db.run(sql, params, function(err) {
@@ -68,12 +70,12 @@ app.post('/api/capabilities', (req, res) => {
 
 // PUT update capability
 app.put('/api/capabilities/:id', (req, res) => {
-  const { l1, l2, l3, desc, isStrategic, state, scores, techStack, applications } = req.body;
+  const { l1, l2, l3, desc, isStrategic, state, scores, techStack, applications, translations } = req.body;
   const sql = `
     UPDATE capabilities 
     SET l1 = ?, l2 = ?, l3 = ?, desc = ?, isStrategic = ?, state = ?, 
         coverage = ?, security = ?, privacy = ?, debt = ?, risk = ?, 
-        techStack = ?, applications = ?
+        techStack = ?, applications = ?, translations = ?
     WHERE id = ?
   `;
   const params = [
@@ -87,6 +89,7 @@ app.put('/api/capabilities/:id', (req, res) => {
     scores?.risk || 0,
     JSON.stringify(techStack || []),
     JSON.stringify(applications || []),
+    JSON.stringify(translations || {}),
     req.params.id
   ];
 
